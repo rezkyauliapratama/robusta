@@ -3,10 +3,12 @@ package android.rezkyauliapratama.id.robusta.controller.activity;
 import android.content.Intent;
 import android.databinding.DataBindingUtil;
 import android.graphics.PorterDuff;
+import android.location.Location;
 import android.os.AsyncTask;
 import android.rezkyauliapratama.id.robusta.R;
 import android.rezkyauliapratama.id.robusta.controller.fragment.BaseFragment;
 import android.rezkyauliapratama.id.robusta.controller.fragment.MapFragment;
+import android.rezkyauliapratama.id.robusta.controller.service.GPSTracker;
 import android.rezkyauliapratama.id.robusta.controller.service.GpsService;
 import android.rezkyauliapratama.id.robusta.database.Facade;
 import android.rezkyauliapratama.id.robusta.database.entity.IpksTbl;
@@ -32,9 +34,11 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.Gravity;
 import android.view.LayoutInflater;
+import android.view.View;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 
+import com.google.android.gms.maps.model.LatLng;
 import com.google.gson.Gson;
 
 import java.io.BufferedReader;
@@ -44,15 +48,18 @@ import java.io.Reader;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
+import java.util.Map;
 
 import timber.log.Timber;
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends BaseActivity implements MapFragment.LocationDialogListener {
 
     ActivityMainBinding binding;
     List<BaseFragment> fragments;
     BaseFragment fragment;
     Intent intent;
+
+    LatLng location;
 
 
     @Override
@@ -68,10 +75,11 @@ public class MainActivity extends AppCompatActivity {
         fragments = new ArrayList<>();
 
         intent = new Intent(this,GpsService.class);
-        new AsyncTaskRunner().execute();
 
         initTab();
         initViewPager();
+
+
     }
 
     @Override
@@ -88,6 +96,8 @@ public class MainActivity extends AppCompatActivity {
         super.onStart();
         startService(intent);
         Timber.e("ONSTART");
+        binding.layoutProgress.setVisibility(View.VISIBLE);
+        binding.lottie.playAnimation();
     }
 
     private void initTab(){
@@ -161,10 +171,44 @@ public class MainActivity extends AppCompatActivity {
         binding.content.viewPager.addOnPageChangeListener(new TabLayout.TabLayoutOnPageChangeListener(binding.content.tabLayout));
     }
 
-    private class AsyncTaskRunner extends AsyncTask<Void, DataModel, DataModel> {
+    @Override
+    public void onMapReady(boolean b) {
+        Timber.e("onMapReady : "+b);
+        if (b){
+
+        }else{
+            Timber.e("ONMAP READY FOR START SERVICES");
+            if (location != null && !isSync){
+                Timber.e("location != null");
+                if (location.latitude != 0&& location.longitude != 0)
+                    new AsyncTaskRunner().execute(new LatLng(location.latitude,location.longitude));
+            }
+        }
+
+    }
+
+    boolean isSync = false;
+
+    @Override
+    public void onUpdateLatlng(LatLng latLng) {
+        Timber.e("oNUpdateLatlng");
+        if (location == null) {
+            location = latLng;
+            if (location != null) {
+                Timber.e("location != null");
+                if (location.latitude != 0 && location.longitude != 0)
+                    new AsyncTaskRunner().execute(new LatLng(location.latitude, location.longitude));
+
+                isSync = true;
+            }
+        }
+
+    }
+
+    private class AsyncTaskRunner extends AsyncTask<LatLng, DataModel, DataModel> {
 
         @Override
-        protected DataModel doInBackground(Void... voids) {
+        protected DataModel doInBackground(LatLng... voids) {
 
             Facade facade = Facade.getInstance();
             DataModel dataModel = null;
@@ -175,16 +219,37 @@ public class MainActivity extends AppCompatActivity {
                 Timber.e("AsyncTaskRunner NULL");
                 dataModel = initData();
             }
+
+            Timber.e("latlang asyntask: "+new Gson().toJson(voids));
+            LatLng latLng = voids[0];
+            if (latLng.longitude != 0 && latLng.latitude != 0){
+                List<SekolahTbl> tempList = new ArrayList<>();
+                for(SekolahTbl item : dataModel.getSekolahTbls()){
+                    float[] distance = new float[3];
+                    Location.distanceBetween(latLng.latitude, latLng.longitude, item.getLatitude(), item.getLongitude(), distance);
+                    if (distance[0] <= 2000) {
+                        Timber.e("new sekolah : "+new Gson().toJson(item));
+
+                        tempList.add(item);
+                    }
+                }
+
+                dataModel.getSekolahTbls().clear();
+                dataModel.setSekolahTbls(tempList);
+            }
+
             return dataModel;
         }
 
         @Override
         protected void onPostExecute(DataModel dataModel) {
             super.onPostExecute(dataModel);
+            binding.lottie.cancelAnimation();
+            binding.layoutProgress.setVisibility(View.GONE);
 
             if (dataModel != null){
                 Timber.e("onPostExecute tidak null");
-//                ((MapFragment)fragments.get(0)).locatePlaces(dataModel);
+                ((MapFragment)fragments.get(0)).locatePlaces(dataModel);
             }
         }
     }

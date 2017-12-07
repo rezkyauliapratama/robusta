@@ -70,6 +70,7 @@ dependencies {
     compile 'org.jetbrains:annotations-java5:15.0'
 
     compile 'com.firebase:firebase-jobdispatcher:0.8.5'
+    compile 'com.google.maps.android:android-maps-utils:0.4+'
 
 
     implementation 'com.android.support.constraint:constraint-layout:1.0.2'
