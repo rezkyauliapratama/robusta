@@ -3,4 +3,8 @@
     <string name="close">Close</string>
     <string name="permissionrequestmessage">Permission request</string>
     <string name="got_it">Got it</string>
+
+    <string name="label_place_name">Nama Tempat</string>
+    <string name="label_address">Alamat</string>
+    <string name="label_phone">Phone</string>
 </resources>
