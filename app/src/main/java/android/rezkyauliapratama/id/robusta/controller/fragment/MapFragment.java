@@ -386,6 +386,10 @@ public class MapFragment extends BaseFragment implements OnMapReadyCallback,Goog
 
     }
 
+    public void moveCamera(LatLng latLng){
+        mMap.moveCamera(CameraUpdateFactory.newLatLngZoom(latLng, 15));
+
+    }
     public void locatePlaces(DataModel dataModel){
         Timber.e("locatePlaces");
 

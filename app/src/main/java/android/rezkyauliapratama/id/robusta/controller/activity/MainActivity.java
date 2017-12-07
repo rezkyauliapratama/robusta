@@ -22,11 +22,13 @@ import android.rezkyauliapratama.id.robusta.database.entity.RsUmumTbl;
 import android.rezkyauliapratama.id.robusta.database.entity.SekolahTbl;
 import android.rezkyauliapratama.id.robusta.databinding.ActivityMainBinding;
 import android.rezkyauliapratama.id.robusta.model.DataModel;
+import android.rezkyauliapratama.id.robusta.model.GpsEvent;
 import android.rezkyauliapratama.id.robusta.model.api.Puskesmas;
 import android.rezkyauliapratama.id.robusta.model.api.RPTRA;
 import android.rezkyauliapratama.id.robusta.model.api.RawanBencana;
 import android.rezkyauliapratama.id.robusta.model.api.RsKhusus;
 import android.rezkyauliapratama.id.robusta.model.api.RsUmum;
+import android.rezkyauliapratama.id.robusta.observer.RxBus;
 import android.support.design.widget.TabLayout;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentPagerAdapter;
@@ -51,6 +53,8 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Map;
 
+import io.reactivex.android.schedulers.AndroidSchedulers;
+import io.reactivex.disposables.Disposable;
 import timber.log.Timber;
 
 public class MainActivity extends BaseActivity implements MapFragment.LocationDialogListener {
@@ -61,6 +65,7 @@ public class MainActivity extends BaseActivity implements MapFragment.LocationDi
     Intent intent;
 
     LatLng location;
+    private Disposable disposableGpsEvent;
 
 
     @Override
@@ -80,7 +85,16 @@ public class MainActivity extends BaseActivity implements MapFragment.LocationDi
         initTab();
         initViewPager();
 
+        binding.textviewTitle.setText("Peta");
 
+
+        disposableGpsEvent = RxBus.getInstance().observable(LatLng.class)
+                .observeOn(AndroidSchedulers.mainThread())
+                .subscribe(events -> {
+                    Timber.e("RXBUS : "+new Gson().toJson(events));
+                    ((MapFragment)fragments.get(0)).moveCamera(events);
+                    binding.content.viewPager.setCurrentItem(0);
+                });
     }
 
     @Override
@@ -103,11 +117,12 @@ public class MainActivity extends BaseActivity implements MapFragment.LocationDi
 
     private void initTab(){
         TabLayout.Tab[] tabs = {
-                binding.content.tabLayout.newTab().setIcon(android.R.drawable.ic_menu_compass),
-                binding.content.tabLayout.newTab().setIcon(android.R.drawable.ic_menu_info_details),
+                binding.content.tabLayout.newTab().setIcon(android.R.drawable.ic_dialog_map),
+                binding.content.tabLayout.newTab().setIcon(R.drawable.ic_open_book),
 
         };
 
+        int i = 0;
         for (TabLayout.Tab tab : tabs) {
             LinearLayout layout = new LinearLayout(this);
             layout.setOrientation(LinearLayout.VERTICAL);
@@ -122,7 +137,15 @@ public class MainActivity extends BaseActivity implements MapFragment.LocationDi
             tab.setCustomView(layout);
             binding.content.tabLayout.addTab(tab);
 
+            if (i == 1) {
+                int tabIconColor = ContextCompat.getColor(MainActivity.this, R.color.colorPrimaryDark);
+                tab.getIcon().setColorFilter(tabIconColor, PorterDuff.Mode.SRC_IN);
+            }
+
+            i++;
         }
+
+
 
         binding.content.tabLayout.addOnTabSelectedListener(new TabLayout.OnTabSelectedListener() {
             @Override
@@ -132,6 +155,12 @@ public class MainActivity extends BaseActivity implements MapFragment.LocationDi
                 binding.content.viewPager.setCurrentItem(tab.getPosition());
                 int tabIconColor = ContextCompat.getColor(MainActivity.this, R.color.colorWhite);
                 tab.getIcon().setColorFilter(tabIconColor, PorterDuff.Mode.SRC_IN);
+
+                if (fragment instanceof MapFragment){
+                    binding.textviewTitle.setText("Peta");
+                }else{
+                    binding.textviewTitle.setText("Daftar kursus");
+                }
             }
 
             @Override
