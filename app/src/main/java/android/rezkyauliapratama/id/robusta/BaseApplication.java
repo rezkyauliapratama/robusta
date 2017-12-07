@@ -1,11 +1,13 @@
 package android.rezkyauliapratama.id.robusta;
 
 import android.app.Application;
+import android.content.Context;
 import android.rezkyauliapratama.id.robusta.database.Facade;
 import android.rezkyauliapratama.id.robusta.database.entity.DaoMaster;
 import android.rezkyauliapratama.id.robusta.database.entity.DaoSession;
 import android.rezkyauliapratama.id.robusta.utility.Constant;
 import android.rezkyauliapratama.id.robusta.utility.PreferencesManager;
+import android.support.multidex.MultiDex;
 import android.util.Log;
 
 import com.androidnetworking.AndroidNetworking;
@@ -22,6 +24,11 @@ import timber.log.Timber;
 
 public class BaseApplication extends Application {
 
+    @Override
+    protected void attachBaseContext(Context base) {
+        super.attachBaseContext(base);
+        MultiDex.install(this);
+    }
 
     @Override
     public void onCreate() {
