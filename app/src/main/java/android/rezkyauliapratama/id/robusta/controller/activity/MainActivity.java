@@ -70,9 +70,6 @@ public class MainActivity extends AppCompatActivity {
 
         intent = new Intent(this,GpsService.class);
         new AsyncTaskRunner().execute();
-
-        initTab();
-        initViewPager();
     }
 
     @Override
@@ -186,6 +183,10 @@ public class MainActivity extends AppCompatActivity {
             if (dataModel != null){
                 Timber.e("onPostExecute tidak null");
 //                ((MapFragment)fragments.get(0)).locatePlaces(dataModel);
+                // the init processes moved here to make sure that the data ready for the fragments,
+                // so it will not trigger null pointer exception because the data is not ready to use by fragments
+                initTab();
+                initViewPager();
             }
         }
     }
