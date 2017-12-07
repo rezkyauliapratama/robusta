@@ -1,0 +1,2972 @@
+[
+        {
+            "id": 1,
+            "bencana": "Banjir",
+            "lokasi": "Jl. Kali Gendong, Kel. Cilincing",
+            "kecamatan": "Cilincing",
+            "kota": "Jakarta Utara",
+            "location": {
+                "latitude": -6.111106,
+                "longitude": 106.94073
+            }
+        },
+        {
+            "id": 2,
+            "bencana": "Banjir",
+            "lokasi": "Jl. Kalibaru Barat I RW. 008, Kel. Kalibaru",
+            "kecamatan": "Cilincing",
+            "kota": "Jakarta Utara",
+            "location": {
+                "latitude": -6.101656,
+                "longitude": 106.922628
+            }
+        },
+        {
+            "id": 3,
+            "bencana": "Banjir",
+            "lokasi": "Kp. Kandang Jl. Tipar Timur, Kel. Semper Barat",
+            "kecamatan": "Cilincing",
+            "kota": "Jakarta Utara",
+            "location": {
+                "latitude": -6.115817,
+                "longitude": 106.922417
+            }
+        },
+        {
+            "id": 4,
+            "bencana": "Banjir",
+            "lokasi": "Jl. Sungai Begog RW. 003, Kel. Semper Timur",
+            "kecamatan": "Cilincing",
+            "kota": "Jakarta Utara",
+            "location": {
+                "latitude": -6.113161,
+                "longitude": 106.936309
+            }
+        },
+        {
+            "id": 5,
+            "bencana": "Banjir",
+            "lokasi": "Jl. Komp. TPU Budi Darma, Kel. Semper Timur",
+            "kecamatan": "Cilincing",
+            "kota": "Jakarta Utara",
+            "location": {
+                "latitude": -6.117606,
+                "longitude": 106935494
+            }
+        },
+        {
+            "id": 6,
+            "bencana": "Banjir",
+            "lokasi": "Kp. Sepatan RW. 005, Kel. Rorotan",
+            "kecamatan": "Cilincing",
+            "kota": "Jakarta Utara",
+            "location": {
+                "latitude": -6.137017,
+                "longitude": 106.938798
+            }
+        },
+        {
+            "id": 7,
+            "bencana": "Banjir",
+            "lokasi": "Green Gaden, Kel. Rorotan",
+            "kecamatan": "Cilincing",
+            "kota": "Jakarta Utara",
+            "location": {
+                "latitude": -6.150852,
+                "longitude": 106.95016
+            }
+        },
+        {
+            "id": 8,
+            "bencana": "Banjir",
+            "lokasi": "Kp. Kandang Sapi RW. 004, Kel. Rorotan",
+            "kecamatan": "Cilincing",
+            "kota": "Jakarta Utara",
+            "location": {
+                "latitude": -6.161818,
+                "longitude": 106.951193
+            }
+        },
+        {
+            "id": 9,
+            "bencana": "Banjir",
+            "lokasi": "Jl. Karang Kendal RW. 008, Kel. Rorotan",
+            "kecamatan": "Cilincing",
+            "kota": "Jakarta Utara",
+            "location": {
+                "latitude": -6.132909,
+                "longitude": 106.966239
+            }
+        },
+        {
+            "id": 10,
+            "bencana": "Banjir",
+            "lokasi": "Jl. Rawa Gatel sepanjang kali cakung lama, Kel. Sukapura",
+            "kecamatan": "Cilincing",
+            "kota": "Jakarta Utara",
+            "location": {
+                "latitude": -6.14458,
+                "longitude": 106.915806
+            }
+        },
+        {
+            "id": 11,
+            "bencana": "Banjir ",
+            "lokasi": "RW. 03 Kp. Rawa Indah Kelurahan Pegangsaan Dua",
+            "kecamatan": "Kelapa Gading",
+            "kota": "Jakarta Utara",
+            "location": {
+                "latitude": -6.1497734,
+                "longitude": 106.9176973
+            }
+        },
+        {
+            "id": 12,
+            "bencana": "Banjir",
+            "lokasi": "Jl. Sindang Inspeksi Kali Sunter, Kel. Koja",
+            "kecamatan": "Koja",
+            "kota": "Jakarta Utara",
+            "location": {
+                "latitude": -6.110256,
+                "longitude": 106.893329
+            }
+        },
+        {
+            "id": 13,
+            "bencana": "kebakaran",
+            "lokasi": "Jl. Lorong 102 RW.02,  Kel. Koja",
+            "kecamatan": "Koja",
+            "kota": "Jakarta Utara",
+            "location": {
+                "latitude": -6.113283,
+                "longitude": 106.894317
+            }
+        },
+        {
+            "id": 14,
+            "bencana": "Banjir dan kebakaran",
+            "lokasi": "Jl. Pembangunan, Kel. Rawa Badak Utara",
+            "kecamatan": "Koja",
+            "kota": "Jakarta Utara",
+            "location": {
+                "latitude": -6.1177,
+                "longitude": 106.8968
+            }
+        },
+        {
+            "id": 15,
+            "bencana": "Banjir",
+            "lokasi": "Jl. Bendungan Batik, Kel. Tugu Selatan",
+            "kecamatan": "Koja",
+            "kota": "Jakarta Utara",
+            "location": {
+                "latitude": -6.137459,
+                "longitude": 106.915603
+            }
+        },
+        {
+            "id": 16,
+            "bencana": "Kebakaran",
+            "lokasi": "Jl. Perjuangan Tanah Merah, Kel. Tugu Selatan",
+            "kecamatan": "Koja",
+            "kota": "Jakarta Utara",
+            "location": {
+                "latitude": -6.136965,
+                "longitude": 106.908475
+            }
+        },
+        {
+            "id": 17,
+            "bencana": "Banjir dan kebakaran",
+            "lokasi": "Kampung Beting Remaja, Kel. Tugu Utara",
+            "kecamatan": "Koja",
+            "kota": "Jakarta Utara",
+            "location": {
+                "latitude": -6.121268,
+                "longitude": 106.919372
+            }
+        },
+        {
+            "id": 18,
+            "bencana": "Banjir",
+            "lokasi": "Jl. Ancol Barat I , Kel. Ancol",
+            "kecamatan": "Pademangan",
+            "kota": "Jakarta Utara",
+            "location": {
+                "latitude": -6.128305,
+                "longitude": 106.818
+            }
+        },
+        {
+            "id": 19,
+            "bencana": "Banjir",
+            "lokasi": "Jl.Lodan Raya, Kel. Ancol",
+            "kecamatan": "Pademangan",
+            "kota": "Jakarta Utara",
+            "location": {
+                "latitude": -6.130756,
+                "longitude": 106.825
+            }
+        },
+        {
+            "id": 20,
+            "bencana": "Banjir",
+            "lokasi": "Jl. Raya Kp. Bandan RW 04 dan 05 Kel Ancol, Kel. Ancol",
+            "kecamatan": "Pademangan",
+            "kota": "Jakarta Utara",
+            "location": {
+                "latitude": -6.133788,
+                "longitude": 106.819
+            }
+        },
+        {
+            "id": 21,
+            "bencana": "Banjir",
+            "lokasi": "Jl. Karang Bolong Raya Kel.Ancol, Kel. Ancol",
+            "kecamatan": "Pademangan",
+            "kota": "Jakarta Utara",
+            "location": {
+                "latitude": -6.128524,
+                "longitude": 106.825
+            }
+        },
+        {
+            "id": 22,
+            "bencana": "Kebakaran",
+            "lokasi": "Jl. Lodan Raya, Kel. Ancol",
+            "kecamatan": "Pademangan",
+            "kota": "Jakarta Utara",
+            "location": {
+                "latitude": -6.130756,
+                "longitude": 106.825
+            }
+        },
+        {
+            "id": 23,
+            "bencana": "Kebakaran",
+            "lokasi": "Jl.Mangga Dua Raya II s/d VIII, Kel. Ancol",
+            "kecamatan": "Pademangan",
+            "kota": "Jakarta Utara",
+            "location": {
+                "latitude": -6.133934,
+                "longitude": 106.827
+            }
+        },
+        {
+            "id": 24,
+            "bencana": "Banjir",
+            "lokasi": "RW 01 Jl. Pademangan IV Gg.22, Kel. Pademangan Timur",
+            "kecamatan": "Pademangan",
+            "kota": "Jakarta Utara",
+            "location": {
+                "latitude": -6.136461,
+                "longitude": 106.842
+            }
+        },
+        {
+            "id": 25,
+            "bencana": "Banjir",
+            "lokasi": "RW 02 Jl. Pademangan III Gg.22 , Kel. Pademangan Timur",
+            "kecamatan": "Pademangan",
+            "kota": "Jakarta Utara",
+            "location": {
+                "latitude": -6.136632,
+                "longitude": 106.843
+            }
+        },
+        {
+            "id": 26,
+            "bencana": "Banjir",
+            "lokasi": "RW 08 Jl. Pademangan V, Kel. Pademangan Timur",
+            "kecamatan": "Pademangan",
+            "kota": "Jakarta Utara",
+            "location": {
+                "latitude": -6.133859,
+                "longitude": 106.842
+            }
+        },
+        {
+            "id": 27,
+            "bencana": "Banjir",
+            "lokasi": "RW 010 Jl. Pademangan VI , Kel. Pademangan Timur",
+            "kecamatan": "Pademangan",
+            "kota": "Jakarta Utara",
+            "location": {
+                "latitude": -6.132262,
+                "longitude": 106.844
+            }
+        },
+        {
+            "id": 28,
+            "bencana": "Kebakaran",
+            "lokasi": "JL. Pademangan II Gg. 16 , Kel. Pademangan Timur",
+            "kecamatan": "Pademangan",
+            "kota": "Jakarta Utara",
+            "location": {
+                "latitude": -6.139023,
+                "longitude": 106.843
+            }
+        },
+        {
+            "id": 29,
+            "bencana": "Kebakaran",
+            "lokasi": "Jl. Pademangan IV, Kel. Pademangan Timur",
+            "kecamatan": "Pademangan",
+            "kota": "Jakarta Utara",
+            "location": {
+                "latitude": -6.136475,
+                "longitude": 106.842
+            }
+        },
+        {
+            "id": 30,
+            "bencana": "Kebakaran",
+            "lokasi": "Jl. Pademangan Timur II,, Kel. Pademangan Timur",
+            "kecamatan": "Pademangan",
+            "kota": "Jakarta Utara",
+            "location": {
+                "latitude": -6.137238,
+                "longitude": 106.842
+            }
+        },
+        {
+            "id": 31,
+            "bencana": "Kebakaran",
+            "lokasi": "Jl. Pademangan IV samping rel KA, Kel. Pademangan Timur",
+            "kecamatan": "Pademangan",
+            "kota": "Jakarta Utara",
+            "location": {
+                "latitude": -6.136371,
+                "longitude": 106.842
+            }
+        },
+        {
+            "id": 32,
+            "bencana": "Banjir",
+            "lokasi": "Jl.Gunung Sahari Rt.001 / 013",
+            "kecamatan": "Pademangan",
+            "kota": "Jakarta Utara",
+            "location": {
+                "latitude": -6.13426,
+                "longitude": 106.831
+            }
+        },
+        {
+            "id": 33,
+            "bencana": "Banjir",
+            "lokasi": "Jl.Ampera besar RT 001/09 ",
+            "kecamatan": "Pademangan",
+            "kota": "Jakarta Utara",
+            "location": {
+                "latitude": -6.137917,
+                "longitude": 106.836
+            }
+        },
+        {
+            "id": 34,
+            "bencana": "Banjir",
+            "lokasi": "Jl.Hidup Baru RT 001/03 ",
+            "kecamatan": "Pademangan",
+            "kota": "Jakarta Utara",
+            "location": {
+                "latitude": -6.139763,
+                "longitude": 106.835
+            }
+        },
+        {
+            "id": 35,
+            "bencana": "Banjir",
+            "lokasi": "Jl. Ampera VII depan POM bensin",
+            "kecamatan": "Pademangan",
+            "kota": "Jakarta Utara",
+            "location": {
+                "latitude": -6.133953,
+                "longitude": 106.837
+            }
+        },
+        {
+            "id": 36,
+            "bencana": "Banjir",
+            "lokasi": "Jl. Ampera IV, V dan VI ",
+            "kecamatan": "Pademangan",
+            "kota": "Jakarta Utara",
+            "location": {
+                "latitude": -6.135525,
+                "longitude": 106.833
+            }
+        },
+        {
+            "id": 37,
+            "bencana": "Banjir",
+            "lokasi": "Jl.Satria Raya ",
+            "kecamatan": "Pademangan",
+            "kota": "Jakarta Utara",
+            "location": {
+                "latitude": -6.141516,
+                "longitude": 106.835
+            }
+        },
+        {
+            "id": 38,
+            "bencana": "kebakaran",
+            "lokasi": "Jl.Budi Mulia RW. 012 dan Rw 013",
+            "kecamatan": "Pademangan",
+            "kota": "Jakarta Utara",
+            "location": {
+                "latitude": -6.131071,
+                "longitude": 106.84
+            }
+        },
+        {
+            "id": 39,
+            "bencana": "kebakaran",
+            "lokasi": "Jl. Kamal Raya Rt.007/01 Bunderan Kamal",
+            "kecamatan": "Penjaringan",
+            "kota": "Jakarta Utara",
+            "location": {
+                "latitude": -6.095778,
+                "longitude": 106.718096
+            }
+        },
+        {
+            "id": 40,
+            "bencana": "Air Rob",
+            "lokasi": "Jl. Dermaga Muara Angke , Kel. Pluit",
+            "kecamatan": "Penjaringan",
+            "kota": "Jakarta Utara",
+            "location": {
+                "latitude": null,
+                "longitude": null
+            }
+        },
+        {
+            "id": 41,
+            "bencana": "Banjir",
+            "lokasi": "Jl. Bangau Rw. 08, Kel. Gunung Sahari Selatan",
+            "kecamatan": "Kemayoran",
+            "kota": "Jakarta Pusat",
+            "location": {
+                "latitude": -6.171514,
+                "longitude": 106.841901
+            }
+        },
+        {
+            "id": 42,
+            "bencana": "Banjir",
+            "lokasi": "Jl. Cempaka Baru V, Kel. Cempaka Baru ",
+            "kecamatan": "Kemayoran",
+            "kota": "Jakarta Pusat",
+            "location": {
+                "latitude": -6.168284,
+                "longitude": 106.861094
+            }
+        },
+        {
+            "id": 43,
+            "bencana": "Banjir",
+            "lokasi": "Jl. Siaga II, Kel. Cempaka Baru",
+            "kecamatan": "Kemayoran",
+            "kota": "Jakarta Pusat",
+            "location": {
+                "latitude": -6.170126,
+                "longitude": 106.862953
+            }
+        },
+        {
+            "id": 44,
+            "bencana": "Banjir",
+            "lokasi": "Jl. Utan Panjang III, Kel. Utan Panjang ",
+            "kecamatan": "Kemayoran",
+            "kota": "Jakarta Pusat",
+            "location": {
+                "latitude": -6.165835,
+                "longitude": 106.854372
+            }
+        },
+        {
+            "id": 45,
+            "bencana": "Banjir",
+            "lokasi": "Jl. Utan Panjang II, Kel. Utan Panjang ",
+            "kecamatan": "Kemayoran",
+            "kota": "Jakarta Pusat",
+            "location": {
+                "latitude": -6.168527,
+                "longitude": 106.854089
+            }
+        },
+        {
+            "id": 46,
+            "bencana": "Banjir",
+            "lokasi": "Jl. Suka Mulya Rw.07, Kel. Harapan Mulia",
+            "kecamatan": "Kemayoran",
+            "kota": "Jakarta Pusat",
+            "location": {
+                "latitude": -6.170482,
+                "longitude": 106.854454
+            }
+        },
+        {
+            "id": 47,
+            "bencana": "Banjir",
+            "lokasi": "Jl.Delta Rw.07, 01,06,05, 04,02, Kel. Serdang",
+            "kecamatan": "Kemayoran",
+            "kota": "Jakarta Pusat",
+            "location": {
+                "latitude": -6.15511,
+                "longitude": 106.860609
+            }
+        },
+        {
+            "id": 48,
+            "bencana": "Banjir dan kebakaran",
+            "lokasi": "Jl. Petamburan 2,4 RW.03,05,08, Kel. Petamburan",
+            "kecamatan": "Tanah Abang",
+            "kota": "Jakarta Pusat",
+            "location": {
+                "latitude": null,
+                "longitude": 106.807047
+            }
+        },
+        {
+            "id": 49,
+            "bencana": "Banjir dan kebakaran",
+            "lokasi": "Jl. Karet Pasar Baru Barat 1,2 RW.05,06,07, Kel. Karet Tengsin",
+            "kecamatan": "Tanah Abang",
+            "kota": "Jakarta Pusat",
+            "location": {
+                "latitude": null,
+                "longitude": 106.813269
+            }
+        },
+        {
+            "id": 50,
+            "bencana": "Banjir",
+            "lokasi": "Jl. Pesing Poglar.",
+            "kecamatan": "Cengkareng",
+            "kota": "Jakarta Barat",
+            "location": {
+                "latitude": -6153990,
+                "longitude": 106.76942
+            }
+        },
+        {
+            "id": 51,
+            "bencana": "Banjir",
+            "lokasi": "Jl. Komp. Depag",
+            "kecamatan": "Cengkareng",
+            "kota": "Jakarta Barat",
+            "location": {
+                "latitude": -6154788,
+                "longitude": 106.76113
+            }
+        },
+        {
+            "id": 52,
+            "bencana": "Banjir",
+            "lokasi": "Jalan Tawang Mangu I",
+            "kecamatan": "Cengkareng",
+            "kota": "Jakarta Barat",
+            "location": {
+                "latitude": -6154715,
+                "longitude": 106.76089
+            }
+        },
+        {
+            "id": 53,
+            "bencana": "Banjir",
+            "lokasi": "Jl. Jaya 24, Jl. Jaya 25, Jl. Pulo Harapan Indah dan Jl. Darmabakti cengkareng barat",
+            "kecamatan": "Cengkareng",
+            "kota": "Jakarta Barat",
+            "location": {
+                "latitude": -6.144778,
+                "longitude": 106.725898
+            }
+        },
+        {
+            "id": 54,
+            "bencana": "Banjir",
+            "lokasi": "Jalan Outering Road",
+            "kecamatan": "Cengkareng",
+            "kota": "Jakarta Barat",
+            "location": {
+                "latitude": -6.131255,
+                "longitude": 106.746088
+            }
+        },
+        {
+            "id": 55,
+            "bencana": "Banjir",
+            "lokasi": "Jl. Dokter Mawardi",
+            "kecamatan": "Grogol Petamburan",
+            "kota": "Jakarta Barat",
+            "location": {
+                "latitude": -6.162603,
+                "longitude": 106.7955531
+            }
+        },
+        {
+            "id": 56,
+            "bencana": "Banjir",
+            "lokasi": "Jalan Satria I",
+            "kecamatan": "Grogol Petamburan",
+            "kota": "Jakarta Barat",
+            "location": {
+                "latitude": -6.16367,
+                "longitude": 106.787677
+            }
+        },
+        {
+            "id": 57,
+            "bencana": "Banjir",
+            "lokasi": "Jl. Kyai Tapa No. 1, Grogol, Jl. Letjen. S. Parman",
+            "kecamatan": "Grogol Petamburan",
+            "kota": "Jakarta Barat",
+            "location": {
+                "latitude": -6.168541,
+                "longitude": 106.789144
+            }
+        },
+        {
+            "id": 58,
+            "bencana": "Banjir",
+            "lokasi": "Kelurahan Wijaya Kusuma",
+            "kecamatan": "Grogol Petamburan",
+            "kota": "Jakarta Barat",
+            "location": {
+                "latitude": 6.1538314,
+                "longitude": 106.7724102
+            }
+        },
+        {
+            "id": 59,
+            "bencana": "Banjir",
+            "lokasi": "Jl. S. Parman (depan UNTAR)",
+            "kecamatan": "Grogol Petamburan",
+            "kota": "Jakarta Barat",
+            "location": {
+                "latitude": -6.174538,
+                "longitude": 106.805769
+            }
+        },
+        {
+            "id": 60,
+            "bencana": "Banjir",
+            "lokasi": "Jl. Tanjung Duren Raya ",
+            "kecamatan": "Grogol Petamburan",
+            "kota": "Jakarta Barat",
+            "location": {
+                "latitude": -6.173673,
+                "longitude": 106.787932
+            }
+        },
+        {
+            "id": 61,
+            "bencana": "Kebakaran",
+            "lokasi": "Rw. 014 Kelurahan Tomang ",
+            "kecamatan": "Grogol Petamburan",
+            "kota": "Jakarta Barat",
+            "location": {
+                "latitude": -6.174538,
+                "longitude": 106.805769
+            }
+        },
+        {
+            "id": 62,
+            "bencana": "Banjir",
+            "lokasi": "JL. Tiang Bendera ",
+            "kecamatan": "Tambora",
+            "kota": "Jakarta Barat",
+            "location": {
+                "latitude": -6.1360342,
+                "longitude": 106.8092612
+            }
+        },
+        {
+            "id": 63,
+            "bencana": "Banjir",
+            "lokasi": "JL. Tambora III",
+            "kecamatan": "Tambora",
+            "kota": "Jakarta Barat",
+            "location": {
+                "latitude": -6.1566085,
+                "longitude": 106.8096535
+            }
+        },
+        {
+            "id": 64,
+            "bencana": "Banjir",
+            "lokasi": "Jl. Sawah lio",
+            "kecamatan": "Tambora",
+            "kota": "Jakarta Barat",
+            "location": {
+                "latitude": -6.1463539,
+                "longitude": 106.8046653
+            }
+        },
+        {
+            "id": 65,
+            "bencana": "Banjir",
+            "lokasi": "Jl. Pekojan III",
+            "kecamatan": "Tambora",
+            "kota": "Jakarta Barat",
+            "location": {
+                "latitude": -6.1392253,
+                "longitude": 106.8005092
+            }
+        },
+        {
+            "id": 66,
+            "bencana": "Banjir",
+            "lokasi": "Jl. Krendang  Selatan",
+            "kecamatan": "Tambora",
+            "kota": "Jakarta Barat",
+            "location": {
+                "latitude": -6.1549594,
+                "longitude": 106.7992536
+            }
+        },
+        {
+            "id": 67,
+            "bencana": "Banjir",
+            "lokasi": "Jl. Duri Utara",
+            "kecamatan": "Tambora",
+            "kota": "Jakarta Barat",
+            "location": {
+                "latitude": -6.1556177,
+                "longitude": 106.8018102
+            }
+        },
+        {
+            "id": 68,
+            "bencana": "Banjir",
+            "lokasi": "Jl. KH. Moh Mansyur",
+            "kecamatan": "Tambora",
+            "kota": "Jakarta Barat",
+            "location": {
+                "latitude": -6.15098,
+                "longitude": 106.8076055
+            }
+        },
+        {
+            "id": 69,
+            "bencana": "Baniir",
+            "lokasi": "Jl. Pinangsia Timur",
+            "kecamatan": "Tamansari",
+            "kota": "Jakarta Barat",
+            "location": {
+                "latitude": -6.1400727,
+                "longitude": 106.817113
+            }
+        },
+        {
+            "id": 70,
+            "bencana": "Baniir",
+            "lokasi": "Jl. Kemukus",
+            "kecamatan": "Tamansari",
+            "kota": "Jakarta Barat",
+            "location": {
+                "latitude": -6.1337846,
+                "longitude": 106.8147578
+            }
+        },
+        {
+            "id": 71,
+            "bencana": "Baniir",
+            "lokasi": "Jl. Keadilan I",
+            "kecamatan": "Tamansari",
+            "kota": "Jakarta Barat",
+            "location": {
+                "latitude": -6.1683443,
+                "longitude": 106.8146298
+            }
+        },
+        {
+            "id": 72,
+            "bencana": "Baniir",
+            "lokasi": "Jalan Mangga Besar I",
+            "kecamatan": "Tamansari",
+            "kota": "Jakarta Barat",
+            "location": {
+                "latitude": -6.1483157,
+                "longitude": 106.829314817
+            }
+        },
+        {
+            "id": 73,
+            "bencana": "Baniir",
+            "lokasi": "Jalan Mangga Besar Raya",
+            "kecamatan": "Tamansari",
+            "kota": "Jakarta Barat",
+            "location": {
+                "latitude": -6.1478082,
+                "longitude": 106.830698
+            }
+        },
+        {
+            "id": 74,
+            "bencana": "Baniir",
+            "lokasi": "Jalan Mangga Besar XI",
+            "kecamatan": "Tamansari",
+            "kota": "Jakarta Barat",
+            "location": {
+                "latitude": -6.1478082,
+                "longitude": 106.830698
+            }
+        },
+        {
+            "id": 75,
+            "bencana": "Baniir",
+            "lokasi": "Jalan Kejayaan",
+            "kecamatan": "Tamansari",
+            "kota": "Jakarta Barat",
+            "location": {
+                "latitude": -6.1563305,
+                "longitude": 106.8168661
+            }
+        },
+        {
+            "id": 76,
+            "bencana": "Baniir",
+            "lokasi": "Kebon Jeruk IV,V,VI",
+            "kecamatan": "Tamansari",
+            "kota": "Jakarta Barat",
+            "location": {
+                "latitude": -6.1569911,
+                "longitude": 106.8198129
+            }
+        },
+        {
+            "id": 77,
+            "bencana": "Banjir",
+            "lokasi": "Jl. Flamboyan Green Garden",
+            "kecamatan": "Kebon Jeruk",
+            "kota": "Jakarta Barat",
+            "location": {
+                "latitude": -6.1650182,
+                "longitude": 106.7634365
+            }
+        },
+        {
+            "id": 78,
+            "bencana": "Banjir",
+            "lokasi": "Jalan Panjang Lampu Merah Pesing",
+            "kecamatan": "Kebon Jeruk",
+            "kota": "Jakarta Barat",
+            "location": {
+                "latitude": -6.1756878,
+                "longitude": 106.7650244
+            }
+        },
+        {
+            "id": 79,
+            "bencana": "Banjir",
+            "lokasi": "Jl. Patra Duri Kepa",
+            "kecamatan": "Kebon Jeruk",
+            "kota": "Jakarta Barat",
+            "location": {
+                "latitude": -6.1804101,
+                "longitude": 106.7795146
+            }
+        },
+        {
+            "id": 80,
+            "bencana": "Banjir",
+            "lokasi": "Jl. Pilar Metro TV. Kel. Kedoya Selatan",
+            "kecamatan": "Kebon Jeruk",
+            "kota": "Jakarta Barat",
+            "location": {
+                "latitude": -6.189107,
+                "longitude": 106.758526
+            }
+        },
+        {
+            "id": 81,
+            "bencana": "Banjir",
+            "lokasi": "Jl. Kedoya Raya Kel. Kedoya Selatan",
+            "kecamatan": "Kebon Jeruk",
+            "kota": "Jakarta Barat",
+            "location": {
+                "latitude": -6.187484,
+                "longitude": 106.761782
+            }
+        },
+        {
+            "id": 82,
+            "bencana": "Banjir",
+            "lokasi": "Jl. Arjuna Utara Kedoya Selatan",
+            "kecamatan": "Kebon Jeruk",
+            "kota": "Jakarta Barat",
+            "location": {
+                "latitude": -6.190081,
+                "longitude": 106.760379
+            }
+        },
+        {
+            "id": 83,
+            "bencana": "Banjir",
+            "lokasi": "Rw. 05 Adhi Karya Kedoya Selatan",
+            "kecamatan": "Kebon Jeruk",
+            "kota": "Jakarta Barat",
+            "location": {
+                "latitude": -6.17869,
+                "longitude": 106.754555
+            }
+        },
+        {
+            "id": 84,
+            "bencana": "Banjir",
+            "lokasi": "Jl. Kebon Raya Patra Kel. Duri Kepa",
+            "kecamatan": "Kebon Jeruk",
+            "kota": "Jakarta Barat",
+            "location": {
+                "latitude": -6.184452,
+                "longitude": 106.777749
+            }
+        },
+        {
+            "id": 85,
+            "bencana": "Banjir",
+            "lokasi": "Jl. Mangga Raya Kel. Duri Kepa",
+            "kecamatan": "Kebon Jeruk",
+            "kota": "Jakarta Barat",
+            "location": {
+                "latitude": -6.172428,
+                "longitude": 106.776849
+            }
+        },
+        {
+            "id": 86,
+            "bencana": "Banjir",
+            "lokasi": "Jl. Asia Baru Kel. Duri Kepa",
+            "kecamatan": "Kebon Jeruk",
+            "kota": "Jakarta Barat",
+            "location": {
+                "latitude": -6.173414,
+                "longitude": 106.771847
+            }
+        },
+        {
+            "id": 87,
+            "bencana": "Banjir",
+            "lokasi": "Jl. Kali Sekretaris Kel. Duri Kepa",
+            "kecamatan": "Kebon Jeruk",
+            "kota": "Jakarta Barat",
+            "location": {
+                "latitude": -6.166609,
+                "longitude": 106.778262
+            }
+        },
+        {
+            "id": 88,
+            "bencana": "Banjir",
+            "lokasi": "Jl. Komplek Green Vile Kel. Duri Kepa",
+            "kecamatan": "Kebon Jeruk",
+            "kota": "Jakarta Barat",
+            "location": {
+                "latitude": -6.170219,
+                "longitude": 106.77859
+            }
+        },
+        {
+            "id": 89,
+            "bencana": "Banjir",
+            "lokasi": "Jl. Taman Ratu Rw. 13 Kel. Duri Kepa",
+            "kecamatan": "Kebon Jeruk",
+            "kota": "Jakarta Barat",
+            "location": {
+                "latitude": -6.177482,
+                "longitude": 106.767598
+            }
+        },
+        {
+            "id": 90,
+            "bencana": "Banjir",
+            "lokasi": "Rw. 01 Rt. 05 dan 08 Kel. Kebon Jeruk",
+            "kecamatan": "Kebon Jeruk",
+            "kota": "Jakarta Barat",
+            "location": {
+                "latitude": -6.198597,
+                "longitude": 106.763823
+            }
+        },
+        {
+            "id": 91,
+            "bencana": "Banjir",
+            "lokasi": "Rw. 10 Jl. Pejuangan Kel. Kebon Jeruk",
+            "kecamatan": "Kebon Jeruk",
+            "kota": "Jakarta Barat",
+            "location": {
+                "latitude": -6.194107,
+                "longitude": 106.76312
+            }
+        },
+        {
+            "id": 92,
+            "bencana": "Banjir",
+            "lokasi": "Jl. KPBD Rw. 01 Kel. Sukabumi Selatan",
+            "kecamatan": "Kebon Jeruk",
+            "kota": "Jakarta Barat",
+            "location": {
+                "latitude": -6.223616,
+                "longitude": 106.774899
+            }
+        },
+        {
+            "id": 93,
+            "bencana": "Banjir",
+            "lokasi": "Jl. Pos Pengumben Lama Suka Bumi Selatan",
+            "kecamatan": "Kebon Jeruk",
+            "kota": "Jakarta Barat",
+            "location": {
+                "latitude": -6.217107,
+                "longitude": 106.770873
+            }
+        },
+        {
+            "id": 94,
+            "bencana": "Banjir",
+            "lokasi": "Jl. H. Muhayar Rw. 03 Sukabumi Selatan",
+            "kecamatan": "Kebon Jeruk",
+            "kota": "Jakarta Barat",
+            "location": {
+                "latitude": -6.222116,
+                "longitude": 106.775201
+            }
+        },
+        {
+            "id": 95,
+            "bencana": "Banjir",
+            "lokasi": "Jl. H. Soleh I Sukabumi Selatan",
+            "kecamatan": "Kebon Jeruk",
+            "kota": "Jakarta Barat",
+            "location": {
+                "latitude": -6.220384,
+                "longitude": 106.774434
+            }
+        },
+        {
+            "id": 96,
+            "bencana": "Banjir",
+            "lokasi": "Komplek Yonhub Rw. 04 Kel. Kelapa Dua",
+            "kecamatan": "Kebon Jeruk",
+            "kota": "Jakarta Barat",
+            "location": {
+                "latitude": -6.211587,
+                "longitude": 106.770604
+            }
+        },
+        {
+            "id": 97,
+            "bencana": "Banjir",
+            "lokasi": "Jl. Harun Rw. 07 Sukabumi Utara",
+            "kecamatan": "Kebon Jeruk",
+            "kota": "Jakarta Barat",
+            "location": {
+                "latitude": -6.203698,
+                "longitude": 106.775482
+            }
+        },
+        {
+            "id": 98,
+            "bencana": "Banjir",
+            "lokasi": "Jl. Yusuf Rw. 03 dan Rw. 011 Sukabumi Utara",
+            "kecamatan": "Kebon Jeruk",
+            "kota": "Jakarta Barat",
+            "location": {
+                "latitude": -6.206475,
+                "longitude": 106.779783
+            }
+        },
+        {
+            "id": 99,
+            "bencana": "Banjir",
+            "lokasi": "Rw. 08, 10, 11 dan 12 Pesing Koneng",
+            "kecamatan": "Kebon Jeruk",
+            "kota": "Jakarta Barat",
+            "location": {
+                "latitude": -6.159875,
+                "longitude": 106.760904
+            }
+        },
+        {
+            "id": 100,
+            "bencana": "Banjir",
+            "lokasi": "Perumahan Green Garden Rw. 04 dan 05",
+            "kecamatan": "Kebon Jeruk",
+            "kota": "Jakarta Barat",
+            "location": {
+                "latitude": -6.161582,
+                "longitude": 106.760456
+            }
+        },
+        {
+            "id": 101,
+            "bencana": "Banjir",
+            "lokasi": "Jl. Panjang TL. Green Garden ",
+            "kecamatan": "Kebon Jeruk",
+            "kota": "Jakarta Barat",
+            "location": {
+                "latitude": -6.165675,
+                "longitude": 106.763063
+            }
+        },
+        {
+            "id": 102,
+            "bencana": "Banjir",
+            "lokasi": "Perumahan Cosmos Rw. 01 ",
+            "kecamatan": "Kebon Jeruk",
+            "kota": "Jakarta Barat",
+            "location": {
+                "latitude": -6.167669,
+                "longitude": 106.766979
+            }
+        },
+        {
+            "id": 103,
+            "bencana": "Banjir",
+            "lokasi": "Perumahan Taman Ratu Rw. 02 ",
+            "kecamatan": "Kebon Jeruk",
+            "kota": "Jakarta Barat",
+            "location": {
+                "latitude": -6.169821,
+                "longitude": 106.766326
+            }
+        },
+        {
+            "id": 104,
+            "bencana": "Banjir",
+            "lokasi": "Perumahan Sunrise Garden",
+            "kecamatan": "Kebon Jeruk",
+            "kota": "Jakarta Barat",
+            "location": {
+                "latitude": -6.169821,
+                "longitude": 106.766326
+            }
+        },
+        {
+            "id": 105,
+            "bencana": "Banjir",
+            "lokasi": "Jl. Surya Jaya ",
+            "kecamatan": "Kebon Jeruk",
+            "kota": "Jakarta Barat",
+            "location": {
+                "latitude": -6.169821,
+                "longitude": 106.766326
+            }
+        },
+        {
+            "id": 106,
+            "bencana": "Banjir",
+            "lokasi": "Jl. Nirmala ",
+            "kecamatan": "Kebon Jeruk",
+            "kota": "Jakarta Barat",
+            "location": {
+                "latitude": -6.173,
+                "longitude": 106.762161
+            }
+        },
+        {
+            "id": 107,
+            "bencana": "Kebakaran",
+            "lokasi": "Rt. 15 Rw. 01 Kedoya Selatan",
+            "kecamatan": "Kebon Jeruk",
+            "kota": "Jakarta Barat",
+            "location": {
+                "latitude": -6.177102,
+                "longitude": 106.755055
+            }
+        },
+        {
+            "id": 108,
+            "bencana": "Kebakaran",
+            "lokasi": "Jl. Asia Baru Rw. 04 Duri Kepa",
+            "kecamatan": "Kebon Jeruk",
+            "kota": "Jakarta Barat",
+            "location": {
+                "latitude": -6.17365,
+                "longitude": 106.770746
+            }
+        },
+        {
+            "id": 109,
+            "bencana": "Kebakaran",
+            "lokasi": "Jl. Guji Baru Rw 02 Duri Kepa",
+            "kecamatan": "Kebon Jeruk",
+            "kota": "Jakarta Barat",
+            "location": {
+                "latitude": -6.18524,
+                "longitude": 106.780495
+            }
+        },
+        {
+            "id": 110,
+            "bencana": "Kebakaran",
+            "lokasi": "Jl. H. Seleh Kel. Sukabumi Selatan",
+            "kecamatan": "Kebon Jeruk",
+            "kota": "Jakarta Barat",
+            "location": {
+                "latitude": -6.220384,
+                "longitude": 106.774434
+            }
+        },
+        {
+            "id": 111,
+            "bencana": "Kebakaran",
+            "lokasi": "Jl. Sasak Rw. 02 Kelapa Dua ",
+            "kecamatan": "Kebon Jeruk",
+            "kota": "Jakarta Barat",
+            "location": {
+                "latitude": -6.206779,
+                "longitude": 106.770339
+            }
+        },
+        {
+            "id": 112,
+            "bencana": "Kebakaran",
+            "lokasi": "Perum Villa Kelapa Dua Rw. 07",
+            "kecamatan": "Kebon Jeruk",
+            "kota": "Jakarta Barat",
+            "location": {
+                "latitude": -6.215978,
+                "longitude": 106.766939
+            }
+        },
+        {
+            "id": 113,
+            "bencana": "Banjir",
+            "lokasi": "Kota Bambu Selatan",
+            "kecamatan": "Palmerah",
+            "kota": "Jakarta Barat",
+            "location": {
+                "latitude": -6.1850874,
+                "longitude": 106.8019313
+            }
+        },
+        {
+            "id": 114,
+            "bencana": "Banjir",
+            "lokasi": "Jati Pulo",
+            "kecamatan": "Palmerah",
+            "kota": "Jakarta Barat",
+            "location": {
+                "latitude": -6.1781045,
+                "longitude": 106.8027889
+            }
+        },
+        {
+            "id": 115,
+            "bencana": "Banjir",
+            "lokasi": "Jalan Haji Kelik",
+            "kecamatan": "Kembangan",
+            "kota": "Jakarta Barat",
+            "location": {
+                "latitude": -6.212755,
+                "longitude": 106.764315
+            }
+        },
+        {
+            "id": 116,
+            "bencana": "Banjir",
+            "lokasi": "Lampu Merah Ring Road Kembangan Selatan",
+            "kecamatan": "Kembangan",
+            "kota": "Jakarta Barat",
+            "location": {
+                "latitude": -6.1882001,
+                "longitude": 106.7318538
+            }
+        },
+        {
+            "id": 117,
+            "bencana": "Banjir",
+            "lokasi": "Jalan Kamal Raya",
+            "kecamatan": "Kalideres",
+            "kota": "Jakarta Barat",
+            "location": {
+                "latitude": -6.1041602,
+                "longitude": 106.7087073
+            }
+        },
+        {
+            "id": 118,
+            "bencana": "Banjir",
+            "lokasi": "Gang Mandor",
+            "kecamatan": "Kalideres",
+            "kota": "Jakarta Barat",
+            "location": {
+                "latitude": -6.1041602,
+                "longitude": 106.7087073
+            }
+        },
+        {
+            "id": 119,
+            "bencana": "Banjir",
+            "lokasi": "Jalan  Manyar 1 dan 2",
+            "kecamatan": "Kalideres",
+            "kota": "Jakarta Barat",
+            "location": {
+                "latitude": -6.1242393,
+                "longitude": 106.7109648
+            }
+        },
+        {
+            "id": 120,
+            "bencana": "Banjir",
+            "lokasi": "Jalan  Pelopor",
+            "kecamatan": "Kalideres",
+            "kota": "Jakarta Barat",
+            "location": {
+                "latitude": -6.123642,
+                "longitude": 102.7143
+            }
+        },
+        {
+            "id": 121,
+            "bencana": "Banjir",
+            "lokasi": "Jalan Kebersihan",
+            "kecamatan": "Kalideres",
+            "kota": "Jakarta Barat",
+            "location": {
+                "latitude": -6.12761,
+                "longitude": 106.71998
+            }
+        },
+        {
+            "id": 122,
+            "bencana": "Banjir",
+            "lokasi": "Jalan Jaya XXV",
+            "kecamatan": "Kalideres",
+            "kota": "Jakarta Barat",
+            "location": {
+                "latitude": -6.129658,
+                "longitude": 106.72378
+            }
+        },
+        {
+            "id": 123,
+            "bencana": "Banjir",
+            "lokasi": "Jl. Taman Surya",
+            "kecamatan": "Kalideres",
+            "kota": "Jakarta Barat",
+            "location": {
+                "latitude": 6.137033,
+                "longitude": 106.7102244
+            }
+        },
+        {
+            "id": 124,
+            "bencana": "Banjir",
+            "lokasi": "Jl. Slamet Riyadi IV",
+            "kecamatan": "Matraman",
+            "kota": "Jakarta Timur",
+            "location": {
+                "latitude": -6.2110875,
+                "longitude": 106.855137
+            }
+        },
+        {
+            "id": 125,
+            "bencana": "Kebakaran",
+            "lokasi": "Jl.Bunga Dalam Rt.05 RW.09",
+            "kecamatan": "Matraman",
+            "kota": "Jakarta Timur",
+            "location": {
+                "latitude": -6.21162,
+                "longitude": 106.861297
+            }
+        },
+        {
+            "id": 126,
+            "bencana": "Banjir",
+            "lokasi": "Jl. Slamet Riyadi IV",
+            "kecamatan": "Matraman",
+            "kota": "Jakarta Timur",
+            "location": {
+                "latitude": -6.2110875,
+                "longitude": 106.855137
+            }
+        },
+        {
+            "id": 127,
+            "bencana": "Kebakaran",
+            "lokasi": "Jl.Ksatrian Va",
+            "kecamatan": "Matraman",
+            "kota": "Jakarta Timur",
+            "location": {
+                "latitude": -6.208182,
+                "longitude": 106.855235
+            }
+        },
+        {
+            "id": 128,
+            "bencana": "Banjir",
+            "lokasi": "Jalan Pulomas selatan Kelurahan kayu putih ",
+            "kecamatan": "Pulo Gadung",
+            "kota": "Jakarta Timur",
+            "location": {
+                "latitude": null,
+                "longitude": 106876280
+            }
+        },
+        {
+            "id": 129,
+            "bencana": "Banjir ",
+            "lokasi": "Jl. Kebon Pala RT. 12,13 RW. 04  RT. 06,10,11 RW.05",
+            "kecamatan": "Jatinegara",
+            "kota": "Jakarta Timur",
+            "location": {
+                "latitude": -6.216343,
+                "longitude": 106.857065
+            }
+        },
+        {
+            "id": 130,
+            "bencana": "Banjir ",
+            "lokasi": "Jl. Tanah Rendah RT. 01,05,16 RW. 07, RT. 04,06,13,14,15 RW. 08",
+            "kecamatan": "Jatinegara",
+            "kota": "Jakarta Timur",
+            "location": {
+                "latitude": -6.217102,
+                "longitude": 106.857818
+            }
+        },
+        {
+            "id": 131,
+            "bencana": "Banjir ",
+            "lokasi": "Jl. Tanjung Lengkong Bantaran Kali RW. 06",
+            "kecamatan": "Jatinegara",
+            "kota": "Jakarta Timur",
+            "location": {
+                "latitude": -6.239089,
+                "longitude": 106.866134
+            }
+        },
+        {
+            "id": 132,
+            "bencana": "Banjir ",
+            "lokasi": "Jl. Tanjung Lengkong Bantaran Kali RW 07 ",
+            "kecamatan": "Jatinegara",
+            "kota": "Jakarta Timur",
+            "location": {
+                "latitude": -6.239302,
+                "longitude": 106.862345
+            }
+        },
+        {
+            "id": 133,
+            "bencana": "Kebakaran",
+            "lokasi": "Kel. Cip. Cempedak RW. 08",
+            "kecamatan": "Jatinegara",
+            "kota": "Jakarta Timur",
+            "location": {
+                "latitude": -6.232862,
+                "longitude": 106.870387
+            }
+        },
+        {
+            "id": 134,
+            "bencana": "Kebakaran",
+            "lokasi": "Kel. Cip. Cempedak RW. 04",
+            "kecamatan": "Jatinegara",
+            "kota": "Jakarta Timur",
+            "location": {
+                "latitude": -6.2295,
+                "longitude": 106.87555
+            }
+        },
+        {
+            "id": 135,
+            "bencana": "Kebakaran",
+            "lokasi": "Jl. Bekasi Timur II RW. 04",
+            "kecamatan": "Jatinegara",
+            "kota": "Jakarta Timur",
+            "location": {
+                "latitude": -6.226458,
+                "longitude": 106.880714
+            }
+        },
+        {
+            "id": 136,
+            "bencana": "Kebakaran",
+            "lokasi": "Jl. H. Kaiman RW. 05",
+            "kecamatan": "Jatinegara",
+            "kota": "Jakarta Timur",
+            "location": {
+                "latitude": -6.219485,
+                "longitude": 106.873585
+            }
+        },
+        {
+            "id": 137,
+            "bencana": "Kebakaran",
+            "lokasi": "Jl. Swadaya (Prumpung) RW.06",
+            "kecamatan": "Jatinegara",
+            "kota": "Jakarta Timur",
+            "location": {
+                "latitude": -6.223272,
+                "longitude": 106.872677
+            }
+        },
+        {
+            "id": 138,
+            "bencana": "Banjir ",
+            "lokasi": "RW 02, 03, 04 Kel. Cawang",
+            "kecamatan": "Kramat Jati",
+            "kota": "Jakarta Timur",
+            "location": {
+                "latitude": -6.247029,
+                "longitude": 106.862399
+            }
+        },
+        {
+            "id": 139,
+            "bencana": "Banjir ",
+            "lokasi": "RW  06, 07 dan 016 Kel. Cililitan",
+            "kecamatan": "Kramat Jati",
+            "kota": "Jakarta Timur",
+            "location": {
+                "latitude": -6.263133,
+                "longitude": 106.858065
+            }
+        },
+        {
+            "id": 140,
+            "bencana": "Banjir ",
+            "lokasi": "RW 02 Kel. Dukuh",
+            "kecamatan": "Kramat Jati",
+            "kota": "Jakarta Timur",
+            "location": {
+                "latitude": -6.302549,
+                "longitude": 106.880338
+            }
+        },
+        {
+            "id": 141,
+            "bencana": "Banjir ",
+            "lokasi": "RW 05 Kel. Balekambang",
+            "kecamatan": "Kramat Jati",
+            "kota": "Jakarta Timur",
+            "location": {
+                "latitude": -6.285785,
+                "longitude": 106.847637
+            }
+        },
+        {
+            "id": 142,
+            "bencana": "Kebakaran",
+            "lokasi": "RW. 03 Kel. Kramat Jati",
+            "kecamatan": "Kramat Jati",
+            "kota": "Jakarta Timur",
+            "location": {
+                "latitude": -6.266877,
+                "longitude": 106.870286
+            }
+        },
+        {
+            "id": 143,
+            "bencana": "Kebakaran",
+            "lokasi": "RW. 06 dan 07 Kel.Tengah",
+            "kecamatan": "Kramat Jati",
+            "kota": "Jakarta Timur",
+            "location": {
+                "latitude": -6.292618,
+                "longitude": 106.867882
+            }
+        },
+        {
+            "id": 144,
+            "bencana": "Kebakaran",
+            "lokasi": "RW. 011 Kel. Cawang",
+            "kecamatan": "Kramat Jati",
+            "kota": "Jakarta Timur",
+            "location": {
+                "latitude": -6.248764,
+                "longitude": 106.86901
+            }
+        },
+        {
+            "id": 145,
+            "bencana": "Banjir",
+            "lokasi": "RT. 003 RW. 03 Kel. Cijantung",
+            "kecamatan": "Pasar Rebo",
+            "kota": "Jakarta Timur",
+            "location": {
+                "latitude": -6.318023,
+                "longitude": 106.858912
+            }
+        },
+        {
+            "id": 146,
+            "bencana": "Banjir",
+            "lokasi": "(RT. 002 RT. 003 RT. 004 RT. 005) RW. 05 Kel. Cijantung",
+            "kecamatan": "Pasar Rebo",
+            "kota": "Jakarta Timur",
+            "location": {
+                "latitude": -6.318322,
+                "longitude": 106.855768
+            }
+        },
+        {
+            "id": 147,
+            "bencana": "Banjir",
+            "lokasi": "(RT,001 RW, 07 RT. 012 RT. 011) RW. 09 Kel. Cijantung",
+            "kecamatan": "Pasar Rebo",
+            "kota": "Jakarta Timur",
+            "location": {
+                "latitude": -6.331142,
+                "longitude": 106.862108
+            }
+        },
+        {
+            "id": 148,
+            "bencana": "Banjir",
+            "lokasi": "RW 06 Pamitran",
+            "kecamatan": "Pasar Rebo",
+            "kota": "Jakarta Timur",
+            "location": {
+                "latitude": -6.31925,
+                "longitude": 106.859656
+            }
+        },
+        {
+            "id": 149,
+            "bencana": "Banjir ",
+            "lokasi": "Jl. Petukangan  RT.10 RW.05 (Kampung Sawah)",
+            "kecamatan": "Cakung",
+            "kota": "Jakarta Timur",
+            "location": {
+                "latitude": -6.178445,
+                "longitude": 106.92258
+            }
+        },
+        {
+            "id": 150,
+            "bencana": "Banjir ",
+            "lokasi": "Jl. Raya Bekasi RT.016 RW. 004  Kel. Rawaterate",
+            "kecamatan": "Cakung",
+            "kota": "Jakarta Timur",
+            "location": {
+                "latitude": null,
+                "longitude": 106.927328
+            }
+        },
+        {
+            "id": 151,
+            "bencana": "Banjir ",
+            "lokasi": "RT. 004 RW. 006 Kelurahan Cakung Barat",
+            "kecamatan": "Cakung",
+            "kota": "Jakarta Timur",
+            "location": {
+                "latitude": -6.181175,
+                "longitude": 106.929297
+            }
+        },
+        {
+            "id": 152,
+            "bencana": "Banjir ",
+            "lokasi": "RT.016, 017, 018  RW.007 Kelurahan Cakung Barat",
+            "kecamatan": "Cakung",
+            "kota": "Jakarta Timur",
+            "location": {
+                "latitude": -6.174629,
+                "longitude": 106.938658
+            }
+        },
+        {
+            "id": 153,
+            "bencana": "Banjir ",
+            "lokasi": "RT.006 RW.008 Kelurahan Cakung Barat",
+            "kecamatan": "Cakung",
+            "kota": "Jakarta Timur",
+            "location": {
+                "latitude": -6.154205,
+                "longitude": 106.939172
+            }
+        },
+        {
+            "id": 154,
+            "bencana": "Banjir ",
+            "lokasi": "RT.009, RW.008 Kelurahan Cakung Barat",
+            "kecamatan": "Cakung",
+            "kota": "Jakarta Timur",
+            "location": {
+                "latitude": -6.154205,
+                "longitude": 106.939172
+            }
+        },
+        {
+            "id": 155,
+            "bencana": "Banjir ",
+            "lokasi": "Talang Irigasi Kel Pondok Bambu Rt 01/04",
+            "kecamatan": "Duren Sawit",
+            "kota": "Jakarta Timur",
+            "location": {
+                "latitude": -6.234979,
+                "longitude": 106.892933
+            }
+        },
+        {
+            "id": 156,
+            "bencana": "Banjir ",
+            "lokasi": "Jl. H. Jenih Rt. 012/ 01",
+            "kecamatan": "Ciracas",
+            "kota": "Jakarta Timur",
+            "location": {
+                "latitude": null,
+                "longitude": 106.872608
+            }
+        },
+        {
+            "id": 157,
+            "bencana": "Banjir ",
+            "lokasi": "Jl. Laning Rt. 04, 014, 015/03",
+            "kecamatan": "Ciracas",
+            "kota": "Jakarta Timur",
+            "location": {
+                "latitude": null,
+                "longitude": 106.875235
+            }
+        },
+        {
+            "id": 158,
+            "bencana": "Banjir ",
+            "lokasi": "Jl. Bungur Rt. 03, 09, 017, 018, 019/06",
+            "kecamatan": "Ciracas",
+            "kota": "Jakarta Timur",
+            "location": {
+                "latitude": null,
+                "longitude": 106.884602
+            }
+        },
+        {
+            "id": 159,
+            "bencana": "Banjir ",
+            "lokasi": "Jl. Penganten Ali",
+            "kecamatan": "Ciracas",
+            "kota": "Jakarta Timur",
+            "location": {
+                "latitude": null,
+                "longitude": 106.883753
+            }
+        },
+        {
+            "id": 160,
+            "bencana": "Banjir ",
+            "lokasi": "Jl. Suci Rt. 12, 14, 16 Rw. 004",
+            "kecamatan": "Ciracas",
+            "kota": "Jakarta Timur",
+            "location": {
+                "latitude": null,
+                "longitude": 106.870484
+            }
+        },
+        {
+            "id": 161,
+            "bencana": "Banjir ",
+            "lokasi": "Jl. Tanah Merdeka Rt. 04, 06, 07, 08, 09, 10, 14, 15 Rw. 005",
+            "kecamatan": "Ciracas",
+            "kota": "Jakarta Timur",
+            "location": {
+                "latitude": null,
+                "longitude": 106.878862
+            }
+        },
+        {
+            "id": 162,
+            "bencana": "Banjir ",
+            "lokasi": "Jl. Raya Kelapa Dua Wetan",
+            "kecamatan": "Ciracas",
+            "kota": "Jakarta Timur",
+            "location": {
+                "latitude": null,
+                "longitude": 106.884727
+            }
+        },
+        {
+            "id": 163,
+            "bencana": "Banjir ",
+            "lokasi": "Jl. Nurul Hidayah Rw. 002",
+            "kecamatan": "Ciracas",
+            "kota": "Jakarta Timur",
+            "location": {
+                "latitude": null,
+                "longitude": 106.879951
+            }
+        },
+        {
+            "id": 164,
+            "bencana": "Banjir ",
+            "lokasi": "Jl. Nurul Hidayah Rw. 009",
+            "kecamatan": "Ciracas",
+            "kota": "Jakarta Timur",
+            "location": {
+                "latitude": null,
+                "longitude": 106.879951
+            }
+        },
+        {
+            "id": 165,
+            "bencana": "Banjir ",
+            "lokasi": "Jl. Kaja Rw. 011",
+            "kecamatan": "Ciracas",
+            "kota": "Jakarta Timur",
+            "location": {
+                "latitude": null,
+                "longitude": 106.881926
+            }
+        },
+        {
+            "id": 166,
+            "bencana": "Banjir ",
+            "lokasi": "Jl. Cibubur I Rt. 01/01",
+            "kecamatan": "Ciracas",
+            "kota": "Jakarta Timur",
+            "location": {
+                "latitude": null,
+                "longitude": 106.881604
+            }
+        },
+        {
+            "id": 167,
+            "bencana": "Banjir ",
+            "lokasi": "Gg. Rukun Rt. 04/02",
+            "kecamatan": "Ciracas",
+            "kota": "Jakarta Timur",
+            "location": {
+                "latitude": null,
+                "longitude": 106.871557
+            }
+        },
+        {
+            "id": 168,
+            "bencana": "Banjir ",
+            "lokasi": "Jl. Parkit Rt. 01/03",
+            "kecamatan": "Ciracas",
+            "kota": "Jakarta Timur",
+            "location": {
+                "latitude": null,
+                "longitude": 106.872124
+            }
+        },
+        {
+            "id": 169,
+            "bencana": "Banjir ",
+            "lokasi": "Jl. SMU 99 Rt. 003/03",
+            "kecamatan": "Ciracas",
+            "kota": "Jakarta Timur",
+            "location": {
+                "latitude": null,
+                "longitude": 106.871012
+            }
+        },
+        {
+            "id": 170,
+            "bencana": "Banjir ",
+            "lokasi": "Jl. H. Mardah Rt. 06,09,011,015,018/005",
+            "kecamatan": "Ciracas",
+            "kota": "Jakarta Timur",
+            "location": {
+                "latitude": null,
+                "longitude": 106.872828
+            }
+        },
+        {
+            "id": 171,
+            "bencana": "Banjir ",
+            "lokasi": "Jl. SMP 258 Rt. 06,08,015/010",
+            "kecamatan": "Ciracas",
+            "kota": "Jakarta Timur",
+            "location": {
+                "latitude": null,
+                "longitude": 106.874447
+            }
+        },
+        {
+            "id": 172,
+            "bencana": "Banjir",
+            "lokasi": "Rw.05, 07 dan 09 Kel.Makasar",
+            "kecamatan": "Makasar",
+            "kota": "Jakarta Timur",
+            "location": {
+                "latitude": -6.277177,
+                "longitude": 106.878499
+            }
+        },
+        {
+            "id": 173,
+            "bencana": "Banjir",
+            "lokasi": "RW.04, 03 Kel. Cipinang Melayu",
+            "kecamatan": "Makasar",
+            "kota": "Jakarta Timur",
+            "location": {
+                "latitude": -6.241588,
+                "longitude": 106.893336
+            }
+        },
+        {
+            "id": 174,
+            "bencana": "Banjir",
+            "lokasi": "Rw.04 dan 01 Kel.Pinang Ranti",
+            "kecamatan": "Makasar",
+            "kota": "Jakarta Timur",
+            "location": {
+                "latitude": -6.2753473,
+                "longitude": 106.883154
+            }
+        },
+        {
+            "id": 175,
+            "bencana": "Banjir",
+            "lokasi": "Rw.09 Kel.Kebon Pala",
+            "kecamatan": "Makasar",
+            "kota": "Jakarta Timur",
+            "location": {
+                "latitude": -6.261388,
+                "longitude": 106.880172
+            }
+        },
+        {
+            "id": 176,
+            "bencana": "Banjir",
+            "lokasi": "Rw.05 Kel.Halim",
+            "kecamatan": "Makasar",
+            "kota": "Jakarta Timur",
+            "location": {
+                "latitude": -6.267675,
+                "longitude": 106.878701
+            }
+        },
+        {
+            "id": 177,
+            "bencana": "Banjir ",
+            "lokasi": "RT.002/01 Bambu Apus , Jl.PPA",
+            "kecamatan": "Cipayung",
+            "kota": "Jakarta Timur",
+            "location": {
+                "latitude": -6.31967,
+                "longitude": 106.897024
+            }
+        },
+        {
+            "id": 178,
+            "bencana": "Banjir ",
+            "lokasi": "RT.010/01 (PPA) Bambu Apus , Jl.Mandor Hasan",
+            "kecamatan": "Cipayung",
+            "kota": "Jakarta Timur",
+            "location": {
+                "latitude": -6.322752,
+                "longitude": 106.894545
+            }
+        },
+        {
+            "id": 179,
+            "bencana": "Banjir ",
+            "lokasi": "RT.006/02 Bambu Apus , Jl.Masjid Al-Ikhlas",
+            "kecamatan": "Cipayung",
+            "kota": "Jakarta Timur",
+            "location": {
+                "latitude": -6.309939,
+                "longitude": 106.895475
+            }
+        },
+        {
+            "id": 180,
+            "bencana": "Banjir ",
+            "lokasi": "RT.006/02 Bambu Apus , Jl.Madrasah",
+            "kecamatan": "Cipayung",
+            "kota": "Jakarta Timur",
+            "location": {
+                "latitude": -6.317673,
+                "longitude": 106.895935
+            }
+        },
+        {
+            "id": 181,
+            "bencana": "Banjir ",
+            "lokasi": "Jl.Mabes Hankam Bambu Apus (Kali Jati )",
+            "kecamatan": "Cipayung",
+            "kota": "Jakarta Timur",
+            "location": {
+                "latitude": -6.6,
+                "longitude": 106.905638
+            }
+        },
+        {
+            "id": 182,
+            "bencana": "Banjir ",
+            "lokasi": "Depan Kampus Urindo",
+            "kecamatan": "Cipayung",
+            "kota": "Jakarta Timur",
+            "location": {
+                "latitude": -6.3192882,
+                "longitude": 106.8943942
+            }
+        },
+        {
+            "id": 183,
+            "bencana": "Banjir ",
+            "lokasi": "RT.002,003,005/012 Lubang Buaya, Jl.Molek ",
+            "kecamatan": "Cipayung",
+            "kota": "Jakarta Timur",
+            "location": {
+                "latitude": -6.2873629,
+                "longitude": 106.9076025
+            }
+        },
+        {
+            "id": 184,
+            "bencana": "Banjir ",
+            "lokasi": "RT.002,003/03 Lubang Buaya , Jl.Pagelarang",
+            "kecamatan": "Cipayung",
+            "kota": "Jakarta Timur",
+            "location": {
+                "latitude": -6.301554,
+                "longitude": 106.912539
+            }
+        },
+        {
+            "id": 185,
+            "bencana": "Banjir ",
+            "lokasi": "RT.005,013/09 Lubang Buaya",
+            "kecamatan": "Cipayung",
+            "kota": "Jakarta Timur",
+            "location": {
+                "latitude": null,
+                "longitude": null
+            }
+        },
+        {
+            "id": 186,
+            "bencana": "Banjir ",
+            "lokasi": "RT.001/02 Cilangkap , Jl.Giri Kencana",
+            "kecamatan": "Cipayung",
+            "kota": "Jakarta Timur",
+            "location": {
+                "latitude": -6.3384822,
+                "longitude": 106.9019215
+            }
+        },
+        {
+            "id": 187,
+            "bencana": "Banjir ",
+            "lokasi": "RT.002/02 Cilangkap , Jl.Giri Kencana",
+            "kecamatan": "Cipayung",
+            "kota": "Jakarta Timur",
+            "location": {
+                "latitude": -6.3384822,
+                "longitude": 106.9019215
+            }
+        },
+        {
+            "id": 188,
+            "bencana": "Banjir ",
+            "lokasi": "RT.003/02 Cilangkap , Jl.Giri Kencana",
+            "kecamatan": "Cipayung",
+            "kota": "Jakarta Timur",
+            "location": {
+                "latitude": -6.3384822,
+                "longitude": 106.9019215
+            }
+        },
+        {
+            "id": 189,
+            "bencana": "Banjir ",
+            "lokasi": "RT.006/02 Cilangkap , Jl.Giri Kencana",
+            "kecamatan": "Cipayung",
+            "kota": "Jakarta Timur",
+            "location": {
+                "latitude": -6.3384822,
+                "longitude": 106.9019215
+            }
+        },
+        {
+            "id": 190,
+            "bencana": "Banjir ",
+            "lokasi": "RT.007/03 Cilangkap, Jl.Masjid Al-Khoir",
+            "kecamatan": "Cipayung",
+            "kota": "Jakarta Timur",
+            "location": {
+                "latitude": -6.6,
+                "longitude": 106.8946177
+            }
+        },
+        {
+            "id": 191,
+            "bencana": "Banjir ",
+            "lokasi": "RT.003/04 Cilangkap , Jl.Suralaya",
+            "kecamatan": "Cipayung",
+            "kota": "Jakarta Timur",
+            "location": {
+                "latitude": -6.3289521,
+                "longitude": 106.9010058
+            }
+        },
+        {
+            "id": 192,
+            "bencana": "Banjir ",
+            "lokasi": "RT.004/04 Cilangkap, Jl.Suralaya",
+            "kecamatan": "Cipayung",
+            "kota": "Jakarta Timur",
+            "location": {
+                "latitude": -6.3289521,
+                "longitude": 106.9010058
+            }
+        },
+        {
+            "id": 193,
+            "bencana": "Banjir ",
+            "lokasi": "RT.006/04 Cilangkap , Jl.Tani",
+            "kecamatan": "Cipayung",
+            "kota": "Jakarta Timur",
+            "location": {
+                "latitude": -6.3319639,
+                "longitude": 106.8974916
+            }
+        },
+        {
+            "id": 194,
+            "bencana": "Banjir ",
+            "lokasi": "RT.007/06 Cilangkap, Jl.Basuki / Pulo Harapan",
+            "kecamatan": "Cipayung",
+            "kota": "Jakarta Timur",
+            "location": {
+                "latitude": -6.3342763,
+                "longitude": 106.903663
+            }
+        },
+        {
+            "id": 195,
+            "bencana": "Banjir ",
+            "lokasi": "RT.008/06 Cilangkap",
+            "kecamatan": "Cipayung",
+            "kota": "Jakarta Timur",
+            "location": {
+                "latitude": -6.3342763,
+                "longitude": 106.903663
+            }
+        },
+        {
+            "id": 196,
+            "bencana": "Banjir ",
+            "lokasi": "Jl.Manunggal Ceger , terusan terminal Kp.Rambutan",
+            "kecamatan": "Cipayung",
+            "kota": "Jakarta Timur",
+            "location": {
+                "latitude": -6.310423,
+                "longitude": 106.885749
+            }
+        },
+        {
+            "id": 197,
+            "bencana": "Banjir ",
+            "lokasi": "Jl.Bantar Jati RT.001/02 Setu",
+            "kecamatan": "Cipayung",
+            "kota": "Jakarta Timur",
+            "location": {
+                "latitude": -6.310567,
+                "longitude": 106.9165858
+            }
+        },
+        {
+            "id": 198,
+            "bencana": "Banjir ",
+            "lokasi": "Jl.Mabes Hankam RT.001/03 Setu",
+            "kecamatan": "Cipayung",
+            "kota": "Jakarta Timur",
+            "location": {
+                "latitude": -6.6,
+                "longitude": 106.9067579
+            }
+        },
+        {
+            "id": 199,
+            "bencana": "Banjir ",
+            "lokasi": "RT.008,009,010/04 Setu",
+            "kecamatan": "Cipayung",
+            "kota": "Jakarta Timur",
+            "location": {
+                "latitude": -6.3160975,
+                "longitude": 106.9132724
+            }
+        },
+        {
+            "id": 200,
+            "bencana": "Banjir ",
+            "lokasi": "Jl.Beringin RT.001/01 Pondok Ranggon",
+            "kecamatan": "Cipayung",
+            "kota": "Jakarta Timur",
+            "location": {
+                "latitude": -6.3485475,
+                "longitude": 106.9130824
+            }
+        },
+        {
+            "id": 201,
+            "bencana": "Banjir",
+            "lokasi": "Jl. Karet Sawah, Kel. Karet Semanggi ",
+            "kecamatan": "Sertia Budi",
+            "kota": "Jakarta Selatan",
+            "location": {
+                "latitude": -6.221,
+                "longitude": 106.817
+            }
+        },
+        {
+            "id": 202,
+            "bencana": "Banjir",
+            "lokasi": "Jl. Kemang Utara IX, Kel. Bangka",
+            "kecamatan": "Mampang Prapatan",
+            "kota": "Jakarta Selatan",
+            "location": {
+                "latitude": -6.255,
+                "longitude": 106.824
+            }
+        },
+        {
+            "id": 203,
+            "bencana": "Banjir",
+            "lokasi": "Jl. Duren Bangka, Kel. Bangka",
+            "kecamatan": "Mampang Prapatan",
+            "kota": "Jakarta Selatan",
+            "location": {
+                "latitude": -6.259,
+                "longitude": 106.826
+            }
+        },
+        {
+            "id": 204,
+            "bencana": "Banjir",
+            "lokasi": "Pondok Karya, Kel. Pela Mampang",
+            "kecamatan": "Mampang Prapatan",
+            "kota": "Jakarta Selatan",
+            "location": {
+                "latitude": -6.242,
+                "longitude": 106.821
+            }
+        },
+        {
+            "id": 205,
+            "bencana": "Banjir",
+            "lokasi": "Jl. H. Ali RW 7, 5, 4, Kel. Tegal Parang",
+            "kecamatan": "Mampang Prapatan",
+            "kota": "Jakarta Selatan",
+            "location": {
+                "latitude": -6.248,
+                "longitude": 106.834
+            }
+        },
+        {
+            "id": 206,
+            "bencana": "Banjir",
+            "lokasi": "Jl. Mampang Prapatan XIV, Kel. Tegal Parang",
+            "kecamatan": "Mampang Prapatan",
+            "kota": "Jakarta Selatan",
+            "location": {
+                "latitude": -6.251,
+                "longitude": 106.831
+            }
+        },
+        {
+            "id": 207,
+            "bencana": "Banjir",
+            "lokasi": "Jl. Mampang Prapatan XIII, Kel. Tegal Parang",
+            "kecamatan": "Mampang Prapatan",
+            "kota": "Jakarta Selatan",
+            "location": {
+                "latitude": -6.251,
+                "longitude": 106.824
+            }
+        },
+        {
+            "id": 208,
+            "bencana": "Banjir",
+            "lokasi": "Jl. Gunuk Rt. 010/003",
+            "kecamatan": "Pasar Minggu",
+            "kota": "Jakarta Selatan",
+            "location": {
+                "latitude": -6.294,
+                "longitude": 106.853
+            }
+        },
+        {
+            "id": 209,
+            "bencana": "Banjir",
+            "lokasi": "Jl. Rukun Ujung Rt. 005/005",
+            "kecamatan": "Pasar Minggu",
+            "kota": "Jakarta Selatan",
+            "location": {
+                "latitude": -6.271,
+                "longitude": 106.855
+            }
+        },
+        {
+            "id": 210,
+            "bencana": "Banjir",
+            "lokasi": "Jl. Angkasa Ujung Rt.001/006",
+            "kecamatan": "Pasar Minggu",
+            "kota": "Jakarta Selatan",
+            "location": {
+                "latitude": -6.273,
+                "longitude": 106.85
+            }
+        },
+        {
+            "id": 211,
+            "bencana": "Banjir",
+            "lokasi": "Jl. Kemuning Rt. 011/006",
+            "kecamatan": "Pasar Minggu",
+            "kota": "Jakarta Selatan",
+            "location": {
+                "latitude": -6.275,
+                "longitude": 106.851
+            }
+        },
+        {
+            "id": 212,
+            "bencana": "Banjir",
+            "lokasi": "Jl. Kemuning Rt. 012/006",
+            "kecamatan": "Pasar Minggu",
+            "kota": "Jakarta Selatan",
+            "location": {
+                "latitude": -6.277,
+                "longitude": 106.848
+            }
+        },
+        {
+            "id": 213,
+            "bencana": "Banjir",
+            "lokasi": "Jl. Kemuning Rt. 013/006",
+            "kecamatan": "Pasar Minggu",
+            "kota": "Jakarta Selatan",
+            "location": {
+                "latitude": -6.277,
+                "longitude": 106.847
+            }
+        },
+        {
+            "id": 214,
+            "bencana": "Banjir",
+            "lokasi": "Jl. Kemuning Rt. 014/006",
+            "kecamatan": "Pasar Minggu",
+            "kota": "Jakarta Selatan",
+            "location": {
+                "latitude": -6.278,
+                "longitude": 106.846
+            }
+        },
+        {
+            "id": 215,
+            "bencana": "Banjir",
+            "lokasi": "Jl. Pagujaten Rt. 001/007",
+            "kecamatan": "Pasar Minggu",
+            "kota": "Jakarta Selatan",
+            "location": {
+                "latitude": -6.28,
+                "longitude": 106.848
+            }
+        },
+        {
+            "id": 216,
+            "bencana": "Banjir",
+            "lokasi": "Jl. Masjid Al Makmur Rt. 011/007",
+            "kecamatan": "Pasar Minggu",
+            "kota": "Jakarta Selatan",
+            "location": {
+                "latitude": -6.281,
+                "longitude": 106.847
+            }
+        },
+        {
+            "id": 217,
+            "bencana": "Banjir",
+            "lokasi": "Jl. Masjid Al Makmur Rt. 016/007",
+            "kecamatan": "Pasar Minggu",
+            "kota": "Jakarta Selatan",
+            "location": {
+                "latitude": -6.283,
+                "longitude": 106.847
+            }
+        },
+        {
+            "id": 218,
+            "bencana": "Banjir",
+            "lokasi": "Jl. Masjid Al Makmur Rt. 017/007",
+            "kecamatan": "Pasar Minggu",
+            "kota": "Jakarta Selatan",
+            "location": {
+                "latitude": -6.283,
+                "longitude": 106.848
+            }
+        },
+        {
+            "id": 219,
+            "bencana": "Banjir",
+            "lokasi": "Jl. Masjid Al Makmur Rt. 005/008",
+            "kecamatan": "Pasar Minggu",
+            "kota": "Jakarta Selatan",
+            "location": {
+                "latitude": -6.284,
+                "longitude": 106.847
+            }
+        },
+        {
+            "id": 220,
+            "bencana": "Banjir",
+            "lokasi": "Jl. Masjid Al Makmur Rt. 006/008",
+            "kecamatan": "Pasar Minggu",
+            "kota": "Jakarta Selatan",
+            "location": {
+                "latitude": -6.285,
+                "longitude": 106.847
+            }
+        },
+        {
+            "id": 221,
+            "bencana": "Banjir",
+            "lokasi": "Jl. Masjid Al Makmur Rt. 007/008",
+            "kecamatan": "Pasar Minggu",
+            "kota": "Jakarta Selatan",
+            "location": {
+                "latitude": -6.285,
+                "longitude": 106.845
+            }
+        },
+        {
+            "id": 222,
+            "bencana": "Banjir",
+            "lokasi": "Jl. Lebak Pasar Rt. 008/008",
+            "kecamatan": "Pasar Minggu",
+            "kota": "Jakarta Selatan",
+            "location": {
+                "latitude": -6.286,
+                "longitude": 106.846
+            }
+        },
+        {
+            "id": 223,
+            "bencana": "Banjir",
+            "lokasi": "Jl. Swadaya I Rt. 015/009",
+            "kecamatan": "Pasar Minggu",
+            "kota": "Jakarta Selatan",
+            "location": {
+                "latitude": -6.288,
+                "longitude": 106.85
+            }
+        },
+        {
+            "id": 224,
+            "bencana": "Banjir",
+            "lokasi": "Jl. Swadaya I Rt. 015/009",
+            "kecamatan": "Pasar Minggu",
+            "kota": "Jakarta Selatan",
+            "location": {
+                "latitude": -6.29,
+                "longitude": 106.849
+            }
+        },
+        {
+            "id": 225,
+            "bencana": "Banjir",
+            "lokasi": "Jl. Swadaya I Rt. 012/010",
+            "kecamatan": "Pasar Minggu",
+            "kota": "Jakarta Selatan",
+            "location": {
+                "latitude": -6.289,
+                "longitude": 106.845
+            }
+        },
+        {
+            "id": 226,
+            "bencana": "Longsor",
+            "lokasi": "Jl. Rukun Ujung Rt. 004/005",
+            "kecamatan": "Pasar Minggu",
+            "kota": "Jakarta Selatan",
+            "location": {
+                "latitude": -6.27,
+                "longitude": 106.854
+            }
+        },
+        {
+            "id": 227,
+            "bencana": "Longsor",
+            "lokasi": "Jl. Tanjung Barat Rt. 012/008",
+            "kecamatan": "Pasar Minggu",
+            "kota": "Jakarta Selatan",
+            "location": {
+                "latitude": -6.287,
+                "longitude": 106.845
+            }
+        },
+        {
+            "id": 228,
+            "bencana": "Longsor",
+            "lokasi": "Jl. Poltangan Raya Rt. 001/010",
+            "kecamatan": "Pasar Minggu",
+            "kota": "Jakarta Selatan",
+            "location": {
+                "latitude": -6.294,
+                "longitude": 106.842
+            }
+        },
+        {
+            "id": 229,
+            "bencana": "Longsor",
+            "lokasi": "Jl. Swadaya I Rt. 007/010",
+            "kecamatan": "Pasar Minggu",
+            "kota": "Jakarta Selatan",
+            "location": {
+                "latitude": -6.293,
+                "longitude": 106.845
+            }
+        },
+        {
+            "id": 230,
+            "bencana": "Kebakaran",
+            "lokasi": "Jl. Pagujaten Rt. 001/007",
+            "kecamatan": "Pasar Minggu",
+            "kota": "Jakarta Selatan",
+            "location": {
+                "latitude": -6.28,
+                "longitude": 106.848
+            }
+        },
+        {
+            "id": 231,
+            "bencana": "Kebakaran",
+            "lokasi": "Jl. Pagujaten Rt. 009/007",
+            "kecamatan": "Pasar Minggu",
+            "kota": "Jakarta Selatan",
+            "location": {
+                "latitude": -6.282,
+                "longitude": 106.845
+            }
+        },
+        {
+            "id": 232,
+            "bencana": "Kebakaran",
+            "lokasi": "Jl. Masjid Al Makmur Rt. 015/007",
+            "kecamatan": "Pasar Minggu",
+            "kota": "Jakarta Selatan",
+            "location": {
+                "latitude": -6.284,
+                "longitude": 106.845
+            }
+        },
+        {
+            "id": 233,
+            "bencana": "Banjir ",
+            "lokasi": "Jl. Kampung Baru No. 22, Kel. Pondok Pinang",
+            "kecamatan": "Kebayoran Lama",
+            "kota": "Jakarta Selatan",
+            "location": {
+                "latitude": -6.273,
+                "longitude": 106.769
+            }
+        },
+        {
+            "id": 234,
+            "bencana": "Banjir ",
+            "lokasi": "Jl. Sultan Iskandar Muda, Kel. Keb. Lama Utara",
+            "kecamatan": "Kebayoran Lama",
+            "kota": "Jakarta Selatan",
+            "location": {
+                "latitude": -6.246,
+                "longitude": 106.781
+            }
+        },
+        {
+            "id": 235,
+            "bencana": "Banjir ",
+            "lokasi": "Rt. 08/10, Kel. Cipulir",
+            "kecamatan": "Kebayoran Lama",
+            "kota": "Jakarta Selatan",
+            "location": {
+                "latitude": -6.238305,
+                "longitude": 106.766171
+            }
+        },
+        {
+            "id": 236,
+            "bencana": "Banjir",
+            "lokasi": "Jl. H. Nawi",
+            "kecamatan": "Kebayoran Baru",
+            "kota": "Jakarta Selatan",
+            "location": {
+                "latitude": -6.264,
+                "longitude": 106.7966
+            }
+        },
+        {
+            "id": 237,
+            "bencana": "Banjir",
+            "lokasi": "Jl. Damai",
+            "kecamatan": "Kebayoran Baru",
+            "kota": "Jakarta Selatan",
+            "location": {
+                "latitude": -6.2598,
+                "longitude": 106.8045
+            }
+        },
+        {
+            "id": 238,
+            "bencana": "Banjir",
+            "lokasi": "Jl. Sawo",
+            "kecamatan": "Kebayoran Baru",
+            "kota": "Jakarta Selatan",
+            "location": {
+                "latitude": -6.2615,
+                "longitude": 106.8024
+            }
+        },
+        {
+            "id": 239,
+            "bencana": "Banjir",
+            "lokasi": "Jl. Dharmawangsa",
+            "kecamatan": "Kebayoran Baru",
+            "kota": "Jakarta Selatan",
+            "location": {
+                "latitude": -6.2547,
+                "longitude": 106.8028
+            }
+        },
+        {
+            "id": 240,
+            "bencana": "Banjir",
+            "lokasi": "Jl. Wijaya Timur",
+            "kecamatan": "Kebayoran Baru",
+            "kota": "Jakarta Selatan",
+            "location": {
+                "latitude": 6.244,
+                "longitude": 106.8136
+            }
+        },
+        {
+            "id": 241,
+            "bencana": "Banjir",
+            "lokasi": "Depan Pintu Keluar Blok M",
+            "kecamatan": "Kebayoran Baru",
+            "kota": "Jakarta Selatan",
+            "location": {
+                "latitude": -6.2415,
+                "longitude": 106.8024
+            }
+        },
+        {
+            "id": 242,
+            "bencana": "Banjir",
+            "lokasi": "Jl. Kebalen",
+            "kecamatan": "Kebayoran Baru",
+            "kota": "Jakarta Selatan",
+            "location": {
+                "latitude": -6.2356,
+                "longitude": 106.8176
+            }
+        },
+        {
+            "id": 243,
+            "bencana": "Banjir",
+            "lokasi": "RT. 08/08, Kel. Lebak Bulus, Kec. Cilandak",
+            "kecamatan": "Cilandak",
+            "kota": "Jakarta Selatan",
+            "location": {
+                "latitude": -6.30338,
+                "longitude": 106.78978
+            }
+        },
+        {
+            "id": 244,
+            "bencana": "Banjir",
+            "lokasi": "RW. 01/RT. 05, Kel. Cipete Selatan",
+            "kecamatan": "Cilandak",
+            "kota": "Jakarta Selatan",
+            "location": {
+                "latitude": -6.2629,
+                "longitude": 106.81206
+            }
+        },
+        {
+            "id": 245,
+            "bencana": "Banjir",
+            "lokasi": "RW. 07/RT. 02, Kel. Cipete Selatan",
+            "kecamatan": "Cilandak",
+            "kota": "Jakarta Selatan",
+            "location": {
+                "latitude": -6.27304,
+                "longitude": 106.81365
+            }
+        },
+        {
+            "id": 246,
+            "bencana": "Banjir",
+            "lokasi": "Jl. Poncol RT. 10, 11, Kel. Gandaria Selatan",
+            "kecamatan": "Cilandak",
+            "kota": "Jakarta Selatan",
+            "location": {
+                "latitude": -6.27385,
+                "longitude": 106.79298
+            }
+        },
+        {
+            "id": 247,
+            "bencana": "Banjir",
+            "lokasi": "RT. 13,14/RW. 07, Kel. Gandaria Selatan",
+            "kecamatan": "Cilandak",
+            "kota": "Jakarta Selatan",
+            "location": {
+                "latitude": -6.27645,
+                "longitude": 106.79373
+            }
+        },
+        {
+            "id": 248,
+            "bencana": "Banjir",
+            "lokasi": "Jl. H. Ipin, Kel. Pondok Labu",
+            "kecamatan": "Cilandak",
+            "kota": "Jakarta Selatan",
+            "location": {
+                "latitude": -6.31136,
+                "longitude": 106.78815
+            }
+        },
+        {
+            "id": 249,
+            "bencana": "Banjir",
+            "lokasi": "Jl. P. Antasari RW. 02 , Kel. Cilandak Barat ",
+            "kecamatan": "Cilandak",
+            "kota": "Jakarta Selatan",
+            "location": {
+                "latitude": -6.28637,
+                "longitude": 106.80893
+            }
+        },
+        {
+            "id": 250,
+            "bencana": "Banjir",
+            "lokasi": "Jl. P. Antasari RW. 04 , Kel. Cilandak Barat ",
+            "kecamatan": "Cilandak",
+            "kota": "Jakarta Selatan",
+            "location": {
+                "latitude": -6.28361,
+                "longitude": 106.80931
+            }
+        },
+        {
+            "id": 251,
+            "bencana": "Banjir",
+            "lokasi": "Jl. P. Antasari RW. 11 , Kel. Cilandak Barat ",
+            "kecamatan": "Cilandak",
+            "kota": "Jakarta Selatan",
+            "location": {
+                "latitude": -6.28217,
+                "longitude": 106.80923
+            }
+        },
+        {
+            "id": 252,
+            "bencana": "Banjir",
+            "lokasi": "Pengadegan Timur II",
+            "kecamatan": "Pancoran",
+            "kota": "Jakarta Selatan",
+            "location": {
+                "latitude": -6.1455,
+                "longitude": 106.5145
+            }
+        },
+        {
+            "id": 253,
+            "bencana": "",
+            "lokasi": "Jalan Ambalat RT 004/01 (Perbatasan Pulau Harapan dan Pulau Kelapa)",
+            "kecamatan": "Kepulauan Seribu Utara",
+            "kota": "Kepulauan Seribu",
+            "location": {
+                "latitude": -5.653302,
+                "longitude": 106.576173
+            }
+        },
+        {
+            "id": 254,
+            "bencana": "",
+            "lokasi": "RW.01 Kel. Pulau Kelapa",
+            "kecamatan": "Kepulauan Seribu Utara",
+            "kota": "Kepulauan Seribu",
+            "location": {
+                "latitude": -5.654763,
+                "longitude": 106.566109
+            }
+        },
+        {
+            "id": 255,
+            "bencana": "",
+            "lokasi": "RW.03 Kel. Pulau Kelapa",
+            "kecamatan": "Kepulauan Seribu Utara",
+            "kota": "Kepulauan Seribu",
+            "location": {
+                "latitude": -5.653051,
+                "longitude": 106.569442
+            }
+        },
+        {
+            "id": 256,
+            "bencana": "",
+            "lokasi": "RW.04 Kel. Pulau Kelapa",
+            "kecamatan": "Kepulauan Seribu Utara",
+            "kota": "Kepulauan Seribu",
+            "location": {
+                "latitude": -5.652689,
+                "longitude": 106.571409
+            }
+        },
+        {
+            "id": 257,
+            "bencana": "",
+            "lokasi": "Hutan mangrouve",
+            "kecamatan": "Kepulauan Seribu Selatan",
+            "kota": "Kepulauan Seribu",
+            "location": {
+                "latitude": -5.975643,
+                "longitude": 106.703308
+            }
+        },
+        {
+            "id": 258,
+            "bencana": "",
+            "lokasi": "Bumi perkemahan",
+            "kecamatan": "Kepulauan Seribu Selatan",
+            "kota": "Kepulauan Seribu",
+            "location": {
+                "latitude": -5.976731,
+                "longitude": 106.703201
+            }
+        },
+        {
+            "id": 259,
+            "bencana": "",
+            "lokasi": "Pantai Sentigi",
+            "kecamatan": "Kepulauan Seribu Selatan",
+            "kota": "Kepulauan Seribu",
+            "location": {
+                "latitude": -5.977307,
+                "longitude": 106.703372
+            }
+        },
+        {
+            "id": 260,
+            "bencana": "",
+            "lokasi": "Pantai Arsa",
+            "kecamatan": "Kepulauan Seribu Selatan",
+            "kota": "Kepulauan Seribu",
+            "location": {
+                "latitude": -5.97878,
+                "longitude": 106.705647
+            }
+        },
+        {
+            "id": 261,
+            "bencana": "Kebakaran Semak",
+            "lokasi": "Pulau Pari, RT.003/04",
+            "kecamatan": "Kepulauan Seribu Selatan",
+            "kota": "Kepulauan Seribu",
+            "location": {
+                "latitude": null,
+                "longitude": 106.617844
+            }
+        },
+        {
+            "id": 262,
+            "bencana": "",
+            "lokasi": "Hutan sebelah barat pulau tidung besar",
+            "kecamatan": "Kepulauan Seribu Selatan",
+            "kota": "Kepulauan Seribu",
+            "location": {
+                "latitude": -5.794028,
+                "longitude": 106.483138
+            }
+        },
+        {
+            "id": 263,
+            "bencana": "",
+            "lokasi": "Pulau tidung kecil",
+            "kecamatan": "Kepulauan Seribu Selatan",
+            "kota": "Kepulauan Seribu",
+            "location": {
+                "latitude": -5.803393,
+                "longitude": 106.523804
+            }
+        },
+        {
+            "id": 264,
+            "bencana": "",
+            "lokasi": "Hutan sebelah barat pulau payung besar",
+            "kecamatan": "Kepulauan Seribu Selatan",
+            "kota": "Kepulauan Seribu",
+            "location": {
+                "latitude": -5.820922,
+                "longitude": 106.552217
+            }
+        },
+        {
+            "id": 265,
+            "bencana": "Banjir",
+            "lokasi": "Komplek Zeni Rawajati",
+            "kecamatan": "Pancoran",
+            "kota": "Jakarta Selatan",
+            "location": {
+                "latitude": -6.1541,
+                "longitude": 106.51244152
+            }
+        },
+        {
+            "id": 266,
+            "bencana": "Banjir",
+            "lokasi": "Duren Bangka IX",
+            "kecamatan": "Pancoran",
+            "kota": "Jakarta Selatan",
+            "location": {
+                "latitude": -6.1528,
+                "longitude": 106.49342084
+            }
+        },
+        {
+            "id": 267,
+            "bencana": "Banjir",
+            "lokasi": "Bojong Raya No. 48M, RT.05, Rw. 04 Rawa Buaya                                         ",
+            "kecamatan": "Cengkareng",
+            "kota": "Jakarta Barat",
+            "location": {
+                "latitude": -6.1707969,
+                "longitude": 106.73117417
+            }
+        },
+        {
+            "id": 268,
+            "bencana": "Banjir ",
+            "lokasi": "RW.22 Jl. Rawa Sengon Raya Kelurahan Kelapa Gading Barat",
+            "kecamatan": "Kelapa Gading",
+            "kota": "Jakarta Utara",
+            "location": {
+                "latitude": -6.1405353,
+                "longitude": 106.9022105344
+            }
+        },
+        {
+            "id": 269,
+            "bencana": "Banjir ",
+            "lokasi": "RW.02 Jl. H. Oyar Kelurahan Pegangsaan Dua",
+            "kecamatan": "Kelapa Gading",
+            "kota": "Jakarta Utara",
+            "location": {
+                "latitude": -6.1792127,
+                "longitude": 106.9146838785
+            }
+        },
+        {
+            "id": 270,
+            "bencana": "Banjir dan kebakaran",
+            "lokasi": "Tanah Merah Koramil, Kel. Rawa Badak Selatan",
+            "kecamatan": "Koja",
+            "kota": "Jakarta Utara",
+            "location": {
+                "latitude": 6.1348953,
+                "longitude": 106.899853217
+            }
+        }
+    ]

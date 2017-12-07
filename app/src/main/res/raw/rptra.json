@@ -1,0 +1,3130 @@
+[
+        {
+            "id": 1,
+            "nama_rptra": "Kenanga.1",
+            "alamat": "Jl. Makian No. 1, RT 02 RW 05, Kode Pos 10150",
+            "kelurahan": "Cideng",
+            "kecamatan": "Gambir",
+            "luas": "2,583 ",
+            "waktu_peresmian": "2015-05-30",
+            "telepon": "081388007545",
+            "email": "rptrakenanga@gmail.com",
+            "fasilitas": "Lapangan Futsal, Mading / Papan Informasi, Amphitheater, Toilet Dewasa, Toilet Disabilitas, Toilet Anak, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Pagar, Pintu gerbang, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air",
+            "permasalahan": "Penduduk usia anak yang banyak, Memiliki Anak usia sekolah yang tidak sekolah",
+            "location": {
+                "latitude": -6.167257,
+                "longitude": 106.807
+            }
+        },
+        {
+            "id": 2,
+            "nama_rptra": "Pintu Air",
+            "alamat": "Jl.Krekot, RT 01 RW 02, Kode Pos 10710",
+            "kelurahan": "Pasar Baru",
+            "kecamatan": "Sawah Besar",
+            "luas": "5,000 ",
+            "waktu_peresmian": "2016-05-24",
+            "telepon": "085776447337",
+            "email": "rptrapintuairpasarbaru@gmail.com",
+            "fasilitas": "Lapangan Futsal, Amphitheater, Wifi / Internet, Toilet Dewasa, Toilet Disabilitas, Tempat Sampah terpilah, Kursi taman, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air, Papan nama sedang diperbaiki",
+            "permasalahan": "Padat Penduduk, Kumuh/Miskin, Penduduk usia anak yang banyak, Memiliki Anak usia sekolah yang tidak sekolah, Memiliki anak bergizi buruk",
+            "location": {
+                "latitude": -6.161061,
+                "longitude": 106.8292
+            }
+        },
+        {
+            "id": 3,
+            "nama_rptra": "Intiland Teduh @ Karet Tengsin",
+            "alamat": "Jl. Karet Pasar Baru Barat I, RT 18 RW 07, Kode Pos 10220",
+            "kelurahan": "Karet Tengsin",
+            "kecamatan": "Tanah Abang",
+            "luas": "800 ",
+            "waktu_peresmian": "2015-12-30",
+            "telepon": "081380208981",
+            "email": "rptra.intilandteduh.karteng@gmail.com",
+            "fasilitas": "Lapangan Basket, Mading / Papan Informasi, Toilet Dewasa, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Kursi taman, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air",
+            "permasalahan": "Padat Penduduk, Penduduk usia anak yang banyak, Memiliki Anak usia sekolah yang tidak sekolah",
+            "location": {
+                "latitude": -6.205142,
+                "longitude": 106.8101
+            }
+        },
+        {
+            "id": 4,
+            "nama_rptra": "Madusela",
+            "alamat": "Jl. Mangga Besar XIII, RT 02 RW 03, Kode Pos 10730",
+            "kelurahan": "Mangga Dua Selatan",
+            "kecamatan": "Sawah Besar",
+            "luas": "5,000 ",
+            "waktu_peresmian": "2016-06-01",
+            "telepon": "089654043594",
+            "email": "rptra.madusela.manggadua@gmail.com",
+            "fasilitas": "Lapangan Futsal, Amphitheater, Wifi / Internet, Toilet Dewasa, Toilet Disabilitas, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Kursi taman, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air",
+            "permasalahan": "Padat Penduduk, Kumuh/Miskin",
+            "location": {
+                "latitude": -6.144622,
+                "longitude": 106.8264
+            }
+        },
+        {
+            "id": 5,
+            "nama_rptra": "Tanah Abang 3",
+            "alamat": "Jl.Taman tanah abang 3, RT 02 RW 04, Kode Pos 10160",
+            "kelurahan": "Petojo Selatan",
+            "kecamatan": "Gambir",
+            "luas": "1,054 ",
+            "waktu_peresmian": "2016-03-24",
+            "telepon": "082139732867",
+            "email": "rptratanahabang@gmail.com",
+            "fasilitas": "",
+            "permasalahan": "",
+            "location": {
+                "latitude": -6.177045,
+                "longitude": 106.8145
+            }
+        },
+        {
+            "id": 6,
+            "nama_rptra": "Amir Hamzah",
+            "alamat": "Jl.Taman Amir Hamzah No.1, RT 02 RW 04, Kode Pos 10320",
+            "kelurahan": "Pegangsaan",
+            "kecamatan": "Menteng",
+            "luas": "3,988 ",
+            "waktu_peresmian": "2016-02-26",
+            "telepon": "081212599918",
+            "email": "rptraamirhamzah.dkimenteng@gmail.com",
+            "fasilitas": "Lapangan Futsal, Lapangan Basket, Mading / Papan Informasi, Amphitheater, Wifi / Internet, Toilet Dewasa, Toilet Disabilitas, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Kursi taman, Pagar, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang",
+            "permasalahan": "Padat Penduduk, Kumuh/Miskin, Penduduk usia anak yang banyak, Memiliki Anak usia sekolah yang tidak sekolah, Rawan Tawuran Warga/Pelajar/Pemuda",
+            "location": {
+                "latitude": -6.204033,
+                "longitude": 106.8504
+            }
+        },
+        {
+            "id": 7,
+            "nama_rptra": "Rustanti",
+            "alamat": "Jl.Baladewa, Rumah Susun Tanah Tinggi, RT 16 RW 03, Kode Pos 10540",
+            "kelurahan": "Tanah Tinggi",
+            "kecamatan": "Johar Baru",
+            "luas": "987 ",
+            "waktu_peresmian": "2016-04-21",
+            "telepon": "081280326620",
+            "email": "rptrarustanti@gmail.com",
+            "fasilitas": "Lapangan Futsal, Amphitheater, Wifi / Internet, Toilet Dewasa, Toilet Disabilitas, Toilet Anak, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi penggunaan alat permainan, Kursi taman, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air",
+            "permasalahan": "Padat Penduduk, Kumuh/Miskin, Memiliki Pengunjung Anak Berkebutuhan Khusus, Memiliki Anak usia sekolah yang tidak sekolah, Memiliki anak bergizi buruk, Memiliki Lansia yang tidak diurus Keluarga, Rawan Tawuran Warga/Pelajar/Pemuda",
+            "location": {
+                "latitude": -6.176387,
+                "longitude": 106.8495
+            }
+        },
+        {
+            "id": 8,
+            "nama_rptra": "Borobudur",
+            "alamat": "Jl.Borobudur no.9, RT 09 RW 02, Kode Pos 10320",
+            "kelurahan": "Pegangsaan",
+            "kecamatan": "Menteng",
+            "luas": "1,750 ",
+            "waktu_peresmian": "2016-02-05",
+            "telepon": "081281223446",
+            "email": "rptraborobudur.mentengdki@gmail.com",
+            "fasilitas": "",
+            "permasalahan": "",
+            "location": {
+                "latitude": -6.20088,
+                "longitude": 106.8473
+            }
+        },
+        {
+            "id": 9,
+            "nama_rptra": "Harapan Mulia",
+            "alamat": "Jl. Harapan Mulia Barat, RT 01 RW 04, Kode Pos 10640",
+            "kelurahan": "Harapan Mulia",
+            "kecamatan": "Kemayoran",
+            "luas": "3,446 ",
+            "waktu_peresmian": "2016-06-01",
+            "telepon": "08387896269",
+            "email": "rptraharapanmulia@gmail.com",
+            "fasilitas": "Lapangan Futsal, Lapangan Basket, Mading / Papan Informasi, Amphitheater, Toilet Dewasa, Toilet Disabilitas, Toilet Anak, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Kursi taman, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air, Bak Pemilah sampah (Komposting)",
+            "permasalahan": "Padat Penduduk, Penduduk usia anak yang banyak",
+            "location": {
+                "latitude": -6.170266,
+                "longitude": 106.855
+            }
+        },
+        {
+            "id": 10,
+            "nama_rptra": "Karang Anyar",
+            "alamat": "Jl. Karang Anyar Utara Raya, RT 00 RW 00, Kode Pos 10220",
+            "kelurahan": "Karang Anyar",
+            "kecamatan": "Sawah Besar",
+            "luas": "5,000 ",
+            "waktu_peresmian": "2016-05-24",
+            "telepon": "089644718412",
+            "email": "rptrakaranganyar@gmail.com",
+            "fasilitas": "",
+            "permasalahan": "",
+            "location": {
+                "latitude": -6.151539,
+                "longitude": 106.8273
+            }
+        },
+        {
+            "id": 11,
+            "nama_rptra": "Krida Serdang",
+            "alamat": "Jl.Bendungan jago, RT 09 RW 01, Kode Pos 10650",
+            "kelurahan": "Serdang",
+            "kecamatan": "Kemayoran",
+            "luas": "639 ",
+            "waktu_peresmian": "2016-06-01",
+            "telepon": "081399176688",
+            "email": "rptrakridaserdang@gmail.com",
+            "fasilitas": "Lapangan Futsal, Lapangan Basket, Amphitheater, Wifi / Internet, Toilet Dewasa, Toilet Disabilitas, Informasi tentang kawasan bebas rokok, Kursi taman, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air",
+            "permasalahan": "Padat Penduduk, Penduduk usia anak yang banyak, Memiliki Anak usia sekolah yang tidak sekolah",
+            "location": {
+                "latitude": -6.156691,
+                "longitude": 106.8588
+            }
+        },
+        {
+            "id": 12,
+            "nama_rptra": "Melati Duri Pulo",
+            "alamat": "Jl. Petojo Barat V, RT 12 RW 01, Kode Pos 10140",
+            "kelurahan": "Duri Pulo",
+            "kecamatan": "Gambir",
+            "luas": "2,027 ",
+            "waktu_peresmian": "2016-01-20",
+            "telepon": "081213132091",
+            "email": "rptramelatiduripulo@gmail.com",
+            "fasilitas": "Lapangan Futsal, Lapangan Basket, Lapangan Badminton, Amphitheater, Wifi / Internet, Toilet Dewasa, Toilet Anak, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Kursi taman, Pagar, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Mesin Air",
+            "permasalahan": "Penduduk usia anak yang banyak",
+            "location": {
+                "latitude": -6.163097,
+                "longitude": 106.8093
+            }
+        },
+        {
+            "id": 13,
+            "nama_rptra": "Pulo Gundul",
+            "alamat": "Jl. Kramat pulo gundul, RT 05 RW 013, Kode Pos 10540",
+            "kelurahan": "Tanah Tinggi",
+            "kecamatan": "Johar Baru",
+            "luas": "2,028 ",
+            "waktu_peresmian": "2016-03-17",
+            "telepon": "085883279201",
+            "email": "rptrapulogundul@gmail.com",
+            "fasilitas": "Lapangan Futsal, Lapangan Badminton, Mading / Papan Informasi, Amphitheater, Wifi / Internet, Toilet Dewasa, Toilet Disabilitas, Toilet Anak, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Kursi taman, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Mesin Air, Bak Pemilah sampah (Komposting)",
+            "permasalahan": "Padat Penduduk, Kumuh/Miskin, Penduduk usia anak yang banyak, Memiliki Anak usia sekolah yang tidak sekolah, Rawan Tawuran Warga/Pelajar/Pemuda",
+            "location": {
+                "latitude": -6.184043,
+                "longitude": 106.8497
+            }
+        },
+        {
+            "id": 14,
+            "nama_rptra": "Kampung Benda",
+            "alamat": "Jl. Cempaka Putih Tengah XV RT 002 RW 08, Kode Pos 10510",
+            "kelurahan": "Cempaka Putih Timur",
+            "kecamatan": "Cempaka Putih",
+            "luas": "1,300 ",
+            "waktu_peresmian": "2016-10-20",
+            "telepon": "081932188704",
+            "email": "rptrakampungbenda@gmail.com",
+            "fasilitas": "",
+            "permasalahan": "",
+            "location": {
+                "latitude": -6.174799,
+                "longitude": 106.8651
+            }
+        },
+        {
+            "id": 15,
+            "nama_rptra": "Kejora",
+            "alamat": "Jl. Pembangunan II RT.009 / RW.02 ",
+            "kelurahan": "Petojo Utara",
+            "kecamatan": "Gambir",
+            "luas": "1,066 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "082210989849",
+            "email": "rptrakejora17@gmail.com",
+            "fasilitas": "Lapangan Badminton, Mading / Papan Informasi, Amphitheater, Toilet Dewasa, Toilet Disabilitas, Toilet Anak, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Kursi taman, Rambu lalu lintas (Zona bermain anak), Pagar, Pintu gerbang, CCTV, Prasasti RPTRA, Sarana menyiram tanaman otomatis, Thoren air, Selang Panjang, Mesin Air",
+            "permasalahan": "Penduduk usia anak yang banyak, Memiliki Pengunjung Anak Berkebutuhan Khusus",
+            "location": {
+                "latitude": -6.162612,
+                "longitude": 106.8176
+            }
+        },
+        {
+            "id": 16,
+            "nama_rptra": "Bandar Kemayoran",
+            "alamat": "Jl. Kemayoran Timur Gg. VIII No. 18 Rt.012 Rw. 07 ",
+            "kelurahan": "Kemayoran ",
+            "kecamatan": "Kemayoran",
+            "luas": "586 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "087877602202",
+            "email": "rptrabandarkemayoran@gmail.com",
+            "fasilitas": "Lapangan Badminton, Mading / Papan Informasi, Amphitheater, Toilet Dewasa, Toilet Disabilitas, Tempat Sampah terpilah, Informasi penggunaan alat permainan, Informasi tentang kawasan bebas rokok, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air",
+            "permasalahan": "Padat Penduduk, Kumuh/Miskin, Penduduk usia anak yang banyak, Memiliki Pengunjung Anak Berkebutuhan Khusus, Memiliki Anak usia sekolah yang tidak sekolah, Memiliki Lansia yang tidak diurus Keluarga, Memiliki Kasus Kekerasan terhadap Perempuan, Memiliki Kasus Kekerasan terhadap Anak, Rawan Tawuran Warga/Pelajar/Pemuda",
+            "location": {
+                "latitude": -6.163309,
+                "longitude": 106.8485
+            }
+        },
+        {
+            "id": 17,
+            "nama_rptra": "Kampung Budaya",
+            "alamat": "Taman Budaya Jl. Utan Panjang 3 RT 011 RW 07",
+            "kelurahan": "Utan Panjang ",
+            "kecamatan": "Kemayoran",
+            "luas": "515 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "087880873337",
+            "email": "rptrakampungbudaya@gmail.com",
+            "fasilitas": "",
+            "permasalahan": "",
+            "location": {
+                "latitude": -6.165335,
+                "longitude": 106.8533
+            }
+        },
+        {
+            "id": 18,
+            "nama_rptra": "Mutiara Sumur Batu",
+            "alamat": "Taman Mutiara  Jalan Mutiara RT 13 RW 03 ",
+            "kelurahan": "Sumur Batu",
+            "kecamatan": "Kemayoran",
+            "luas": "1,202 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "085368634907",
+            "email": "rptramutiarasumurbatu3@gmail.com",
+            "fasilitas": "Lapangan Badminton, Mading / Papan Informasi, Toilet Dewasa, Toilet Disabilitas, Toilet Anak, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Kursi taman, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Mesin Air",
+            "permasalahan": "Padat Penduduk, Kumuh/Miskin, Penduduk usia anak yang banyak, Memiliki Anak usia sekolah yang tidak sekolah, Rawan Tawuran Warga/Pelajar/Pemuda",
+            "location": {
+                "latitude": -6.164891,
+                "longitude": 106.867
+            }
+        },
+        {
+            "id": 19,
+            "nama_rptra": "Serdang Baru",
+            "alamat": "Taman Serdang Jl. Serdang Baru IX RT. 010/ RW 05",
+            "kelurahan": "Serdang",
+            "kecamatan": "Kemayoran",
+            "luas": "782 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "085880487595",
+            "email": "rptraserdangbaru@gmail.com",
+            "fasilitas": "",
+            "permasalahan": "",
+            "location": {
+                "latitude": -6.159463,
+                "longitude": 106.8644
+            }
+        },
+        {
+            "id": 20,
+            "nama_rptra": "Mardani Asri",
+            "alamat": "Jl. Mardani Raya RT 01,  02 / RW 05 ",
+            "kelurahan": "Cempaka Putih Barat ",
+            "kecamatan": "Cempaka Putih",
+            "luas": "826 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "081381100175",
+            "email": "rptra.mardaniasricpb@gmail.com",
+            "fasilitas": "Lapangan Badminton, Mading / Papan Informasi, Amphitheater, Toilet Dewasa, Toilet Disabilitas, Keran Cuci Tangan ramah anak, Informasi tentang kawasan bebas rokok, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air",
+            "permasalahan": "Padat Penduduk, Penduduk usia anak yang banyak, Masih ada remaja yg nongkrong di sekitar RPTRA saat sdh lewat jam 22.00",
+            "location": {
+                "latitude": -6.18124,
+                "longitude": 106.862
+            }
+        },
+        {
+            "id": 21,
+            "nama_rptra": "Kebon Melati",
+            "alamat": "Jl. Awaludin III RT 03/17",
+            "kelurahan": "Kebon Melati",
+            "kecamatan": "Tanah Abang",
+            "luas": "2,000 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "BELUM ADA PENGELOLA",
+            "email": "BELUM ADA PENGELOLA",
+            "fasilitas": "Lapangan Badminton, Amphitheater, Wifi / Internet, Toilet Dewasa, Toilet Disabilitas, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air",
+            "permasalahan": "Padat Penduduk, Kumuh/Miskin, Penduduk usia anak yang banyak, Tempat tinggal yg kurang Layak",
+            "location": {
+                "latitude": -6.200173,
+                "longitude": 106.8142
+            }
+        },
+        {
+            "id": 22,
+            "nama_rptra": "Gondangdia",
+            "alamat": "Jl. Cik Di Tiro II (Kolong Rel KA)",
+            "kelurahan": "Gondangdia ",
+            "kecamatan": "Menteng",
+            "luas": "1,600 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "085230835143",
+            "email": "rptragondangdia@gmail.com",
+            "fasilitas": "Lapangan Badminton, Mading / Papan Informasi, Amphitheater, Wifi / Internet, Toilet Dewasa, Toilet Disabilitas, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Kursi taman, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air",
+            "permasalahan": "Rw yang aktif mengakses rptra hanya dari rw 02 saja. Wilayah rptra gondangdia banyak gedung perkantoran dan rumah makan serta rumah elit yang jarang dihuni oleh pemilik rumah.",
+            "location": {
+                "latitude": -6.193593,
+                "longitude": 106.8374
+            }
+        },
+        {
+            "id": 23,
+            "nama_rptra": "Kebun Sirih",
+            "alamat": "RW 07 (Kolong Rel KA) Depan Gedung MNC ",
+            "kelurahan": "Kebon Sirih ",
+            "kecamatan": "Menteng",
+            "luas": "1,138 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "08568803230",
+            "email": "rptrakebonsirih@gmail.com",
+            "fasilitas": "Lapangan Badminton, Amphitheater, Toilet Dewasa, Toilet Disabilitas, Toilet Anak, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air",
+            "permasalahan": "Kumuh/Miskin, Memiliki Anak usia sekolah yang tidak sekolah",
+            "location": {
+                "latitude": -6.183877,
+                "longitude": 106.8324
+            }
+        },
+        {
+            "id": 24,
+            "nama_rptra": "Hati Suci",
+            "alamat": "Jl. Hati Suci Rt. 002 Rw 07",
+            "kelurahan": "Kampung Bali ",
+            "kecamatan": "Tanah abang",
+            "luas": "1,151 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "085773990511",
+            "email": "hatisuci0207@gmail.com",
+            "fasilitas": "Lapangan Futsal, Amphitheater, Toilet Dewasa, Toilet Disabilitas, Toilet Anak, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang",
+            "permasalahan": "Rawan Tawuran Warga/Pelajar/Pemuda",
+            "location": {
+                "latitude": -6.18321,
+                "longitude": 106.8173
+            }
+        },
+        {
+            "id": 25,
+            "nama_rptra": "Petamburan",
+            "alamat": "Rusun Petamburan RW 11",
+            "kelurahan": "Petamburan ",
+            "kecamatan": "Tanah abang",
+            "luas": "750 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "08983886106",
+            "email": "rptrapetamburan@gmail.com",
+            "fasilitas": "",
+            "permasalahan": "",
+            "location": {
+                "latitude": -6.198211,
+                "longitude": 106.8087
+            }
+        },
+        {
+            "id": 26,
+            "nama_rptra": "Taman Guntur",
+            "alamat": "Taman Guntur Jl. Danau Bratan RW. 03 ",
+            "kelurahan": "Bendungan Hilir ",
+            "kecamatan": "Tanah abang",
+            "luas": "2,463 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "085715474540",
+            "email": "rptratamangunturbenhil@gmail.com",
+            "fasilitas": "Lapangan Futsal, Amphitheater, Toilet Dewasa, Toilet Disabilitas, Toilet Anak, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi penggunaan alat permainan, Informasi tentang kawasan bebas rokok, Rambu lalu lintas (Zona bermain anak), Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air",
+            "permasalahan": "1. Adanya pos bekas warga untuk berkumpul ojek online. 2. Parkiran Mobil yang ada di sekitar area Rptra yang menutupi Pagar.",
+            "location": {
+                "latitude": -6.209829,
+                "longitude": 106.8105
+            }
+        },
+        {
+            "id": 27,
+            "nama_rptra": "Taman Keuangan",
+            "alamat": "Taman Komp. Keuangan RW 06 ",
+            "kelurahan": "Bendungan Hilir ",
+            "kecamatan": "Tanah abang",
+            "luas": "657 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "085714141968",
+            "email": "rptratamankeuanganbenhil@gmail.com",
+            "fasilitas": "Mading / Papan Informasi, Amphitheater, Toilet Disabilitas, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Mesin Air",
+            "permasalahan": "Padat Penduduk",
+            "location": {
+                "latitude": -6.202923,
+                "longitude": 106.8046
+            }
+        },
+        {
+            "id": 28,
+            "nama_rptra": "Rawa Indah",
+            "alamat": "Jl. Rawa Selatan V RT 017 RW 04 ",
+            "kelurahan": "Kampung Rawa",
+            "kecamatan": "Johar Baru",
+            "luas": "446 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "081399902742",
+            "email": "rptrarawaindah@gmail.com",
+            "fasilitas": "Lapangan Badminton, Mading / Papan Informasi, Amphitheater, Wifi / Internet, Toilet Dewasa, Toilet Disabilitas, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Selang Panjang, Mesin Air, Bak Pemilah sampah (Komposting)",
+            "permasalahan": "Padat Penduduk, Kumuh/Miskin, Penduduk usia anak yang banyak, Memiliki Pengunjung Anak Berkebutuhan Khusus, Memiliki Anak usia sekolah yang tidak sekolah, Rawan Tawuran Warga/Pelajar/Pemuda",
+            "location": {
+                "latitude": -6.179813,
+                "longitude": 106.8557
+            }
+        },
+        {
+            "id": 29,
+            "nama_rptra": "Komando Ceria",
+            "alamat": "Taman Komando JL. Rawa tengah I RT 04 RW 06 ",
+            "kelurahan": "Galur ",
+            "kecamatan": "Johar Baru",
+            "luas": "485 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "089638247929",
+            "email": "rptrakomandoceria@gmail.com",
+            "fasilitas": "Lapangan Badminton, Mading / Papan Informasi, Amphitheater, Toilet Dewasa, Toilet Disabilitas, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Mesin Air, Bak Pemilah sampah (Komposting)",
+            "permasalahan": "Padat Penduduk, Kumuh/Miskin, Penduduk usia anak yang banyak, Memiliki Pengunjung Anak Berkebutuhan Khusus, Memiliki Anak usia sekolah yang tidak sekolah, Memiliki anak bergizi buruk, Memiliki Lansia yang tidak diurus Keluarga, Rawan Tawuran Warga/Pelajar/Pemuda",
+            "location": {
+                "latitude": -6.176255,
+                "longitude": 106.8561
+            }
+        },
+        {
+            "id": 30,
+            "nama_rptra": "Sungai Bambu",
+            "alamat": "Jl.Jati Raya, RT 10 RW 06, Kode Pos 14330",
+            "kelurahan": "Sungai Bambu",
+            "kecamatan": "Tanjung Priok",
+            "luas": "3,838 ",
+            "waktu_peresmian": "2015-05-13",
+            "telepon": "081213701570",
+            "email": "rptrasumbu13052015@gmail.com",
+            "fasilitas": "Lapangan Futsal, Mading / Papan Informasi, Amphitheater, Wifi / Internet, Toilet Dewasa, Toilet Anak, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi penggunaan alat permainan, Informasi tentang kawasan bebas rokok, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air, Gazebo",
+            "permasalahan": "Padat Penduduk, Kumuh/Miskin",
+            "location": {
+                "latitude": -6.130399,
+                "longitude": 106.8907
+            }
+        },
+        {
+            "id": 31,
+            "nama_rptra": "Pademangan Timur",
+            "alamat": "Jl. Pademangan 7 raya no 12, RT 09 RW 10, Kode Pos 14410",
+            "kelurahan": "Pademangan Timur",
+            "kecamatan": "Pademangan",
+            "luas": "1,551 ",
+            "waktu_peresmian": "2016-04-21",
+            "telepon": "082299407920",
+            "email": "rptrapadtim@gmail.com",
+            "fasilitas": "Lapangan Futsal, Mading / Papan Informasi, Amphitheater, Wifi / Internet, Toilet Dewasa, Toilet Disabilitas, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Kursi taman, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air",
+            "permasalahan": "Padat Penduduk, Kumuh/Miskin, Penduduk usia anak yang banyak",
+            "location": {
+                "latitude": -6.129585,
+                "longitude": 106.8455
+            }
+        },
+        {
+            "id": 32,
+            "nama_rptra": "H. Oyar",
+            "alamat": "Jl. H. Oyar, RT 02 RW 02, Kode Pos 14250",
+            "kelurahan": "Pegangsaan Dua",
+            "kecamatan": "Kelapa Gading",
+            "luas": "1,500 ",
+            "waktu_peresmian": "2016-04-21",
+            "telepon": "087888124850",
+            "email": "rptrahoyar@gmail.com",
+            "fasilitas": "",
+            "permasalahan": "",
+            "location": {
+                "latitude": -6.177216,
+                "longitude": 106.9175
+            }
+        },
+        {
+            "id": 33,
+            "nama_rptra": "Manunggal Juang",
+            "alamat": "Jl. Manunggal Juang Dua, RT 02 RW 07, Kode Pos 14140",
+            "kelurahan": "Sukapura",
+            "kecamatan": "Cilincing",
+            "luas": "1,145 ",
+            "waktu_peresmian": "2016-04-21",
+            "telepon": "087780288335",
+            "email": "rptramanunggaljuang@gmail.com",
+            "fasilitas": "Amphitheater, Wifi / Internet, Toilet Dewasa, Toilet Disabilitas, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang",
+            "permasalahan": "Padat Penduduk",
+            "location": {
+                "latitude": -6.154808,
+                "longitude": 106.9255
+            }
+        },
+        {
+            "id": 34,
+            "nama_rptra": "Rawa Badak Utara",
+            "alamat": "Jl. Inspeksi Kali Sunter, RT 012 RW 08, Kode Pos 14230",
+            "kelurahan": "Rawa Badak Utara",
+            "kecamatan": "Koja",
+            "luas": "2,000 ",
+            "waktu_peresmian": "2016-05-26",
+            "telepon": "085890007886",
+            "email": "rptrarawabadakutara@gmail.com",
+            "fasilitas": "Lapangan Futsal, Amphitheater, Wifi / Internet, Toilet Dewasa, Toilet Disabilitas, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Kursi taman, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air",
+            "permasalahan": "Padat Penduduk, Penduduk usia anak yang banyak, Rawan Tawuran Warga/Pelajar/Pemuda",
+            "location": {
+                "latitude": -6.119987,
+                "longitude": 106.9024
+            }
+        },
+        {
+            "id": 35,
+            "nama_rptra": "Dharma Suci",
+            "alamat": "Jl.Pluit mas, RT 07 RW 016, Kode Pos 14450",
+            "kelurahan": "Pejagalan",
+            "kecamatan": "Penjaringan",
+            "luas": "5,000 ",
+            "waktu_peresmian": "2016-04-06",
+            "telepon": "083806737732",
+            "email": "rptradharmasuci@gmail.com",
+            "fasilitas": "Lapangan Futsal, Mading / Papan Informasi, Amphitheater, Wifi / Internet, Toilet Dewasa, Toilet Disabilitas, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi penggunaan alat permainan, Informasi tentang kawasan bebas rokok, Kursi taman, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Shelter sepeda yang terkunci, Thoren air, Selang Panjang, Mesin Air, Gazebo",
+            "permasalahan": "Padat Penduduk, Kumuh/Miskin, Penduduk usia anak yang banyak, Memiliki Pengunjung Anak Berkebutuhan Khusus, Memiliki Anak usia sekolah yang tidak sekolah",
+            "location": {
+                "latitude": -6.132664,
+                "longitude": 106.7922
+            }
+        },
+        {
+            "id": 36,
+            "nama_rptra": "Penjaringan Indah",
+            "alamat": "Jl. Bandengan Utara 80, RT 010 RW 016, Kode Pos 14440",
+            "kelurahan": "Penjaringan",
+            "kecamatan": "Penjaringan",
+            "luas": "4,741 ",
+            "waktu_peresmian": "2016-06-23",
+            "telepon": "081282429620",
+            "email": "rptrapenjaringanindah@gmail.com",
+            "fasilitas": "",
+            "permasalahan": "",
+            "location": {
+                "latitude": -6.133978,
+                "longitude": 106.7963
+            }
+        },
+        {
+            "id": 37,
+            "nama_rptra": "Marunda",
+            "alamat": "Rusunawa Marunda Kluster A Blok 9 RT 09 RW 010, Kode Pos 14150",
+            "kelurahan": "Marunda",
+            "kecamatan": "Cilincing",
+            "luas": "2,777 ",
+            "waktu_peresmian": "2016-10-18",
+            "telepon": "082213637071",
+            "email": "rptramarunda@gmail.com",
+            "fasilitas": "Lapangan Futsal, Lapangan Basket, Mading / Papan Informasi, Amphitheater, Wifi / Internet, Toilet Dewasa, Toilet Disabilitas, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Pagar, CCTV, Papan nama RPTRA, Prasasti RPTRA, Mesin Air",
+            "permasalahan": "Padat Penduduk, Kumuh/Miskin, Penduduk usia anak yang banyak, Memiliki Pengunjung Anak Berkebutuhan Khusus, Memiliki Anak usia sekolah yang tidak sekolah, Memiliki Kasus Kekerasan terhadap Anak",
+            "location": {
+                "latitude": -6.097343,
+                "longitude": 106.9633
+            }
+        },
+        {
+            "id": 38,
+            "nama_rptra": "Intiland Teduh @ Semper Barat",
+            "alamat": "Jl. Bengawan Solo RW 01",
+            "kelurahan": "Semper Barat",
+            "kecamatan": "Cilincing",
+            "luas": "2,388 ",
+            "waktu_peresmian": "2016-10-22",
+            "telepon": "081210072365",
+            "email": "rptra.intilandteduh.sembar@gmail.com",
+            "fasilitas": "Lapangan Futsal, Mading / Papan Informasi, Amphitheater, Toilet Dewasa, Toilet Disabilitas, Toilet Anak, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi penggunaan alat permainan, Informasi tentang kawasan bebas rokok, Kursi taman, Pagar, Pintu gerbang, Papan nama RPTRA, Prasasti RPTRA, Sarana menyiram tanaman otomatis, Selang Panjang, Mesin Air, Bak Pemilah sampah (Komposting)",
+            "permasalahan": "Padat Penduduk, Kumuh/Miskin, Penduduk usia anak yang banyak",
+            "location": {
+                "latitude": -6.129919,
+                "longitude": 106.9267
+            }
+        },
+        {
+            "id": 39,
+            "nama_rptra": "Sunter Jaya Berseri",
+            "alamat": "Jl. SKY IV Bentengan 6 , RT 013 RW 05, Kode Pos 14350",
+            "kelurahan": "Sunter Jaya",
+            "kecamatan": "Tanjung Priok",
+            "luas": "3,513 ",
+            "waktu_peresmian": "2015-12-18",
+            "telepon": "089631944600",
+            "email": "rptrasunterjayaberseri@gmail.com",
+            "fasilitas": "",
+            "permasalahan": "",
+            "location": {
+                "latitude": -6.14968,
+                "longitude": 106.8673
+            }
+        },
+        {
+            "id": 40,
+            "nama_rptra": "NKRI",
+            "alamat": "Jl.Kelapa lilin Vlll, RT 031 RW 012, Kode Pos 14250",
+            "kelurahan": "Pegangsaan Dua",
+            "kecamatan": "Kelapa Gading",
+            "luas": "2,224 ",
+            "waktu_peresmian": "2016-04-01",
+            "telepon": "083893114355",
+            "email": "rptrankri@gmail.com",
+            "fasilitas": "",
+            "permasalahan": "",
+            "location": {
+                "latitude": -6.156456,
+                "longitude": 106.9126
+            }
+        },
+        {
+            "id": 41,
+            "nama_rptra": "Tunas Harapan",
+            "alamat": "Jalan Haji Amsir RW. 003",
+            "kelurahan": "Sunter Jaya",
+            "kecamatan": "Tanjung Priok",
+            "luas": "954 ",
+            "waktu_peresmian": "2016-10-20",
+            "telepon": "089771001089",
+            "email": "tunasharapan.201016@gmail.com",
+            "fasilitas": "Lapangan Badminton, Amphitheater, Wifi / Internet, Toilet Dewasa, Toilet Disabilitas, Toilet Anak, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi penggunaan alat permainan, Informasi tentang kawasan bebas rokok, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air, Bak Pemilah sampah (Komposting)",
+            "permasalahan": "Padat Penduduk, Kumuh/Miskin, Penduduk usia anak yang banyak, Memiliki Anak usia sekolah yang tidak sekolah, Memiliki anak bergizi buruk, Rawan Tawuran Warga/Pelajar/Pemuda",
+            "location": {
+                "latitude": -6.156251,
+                "longitude": 106.8668
+            }
+        },
+        {
+            "id": 42,
+            "nama_rptra": "Kelapa Nias IX",
+            "alamat": "Jl. Kelapa Nias IX RT. 08 RW. 017, Kode Pos 14250",
+            "kelurahan": "Pegangsaan Dua",
+            "kecamatan": "Kelapa Gading",
+            "luas": "6,000 ",
+            "waktu_peresmian": "2016-10-20",
+            "telepon": "081284827395",
+            "email": "rptra.kelnis9@gmail.com",
+            "fasilitas": "Lapangan Basket, Mading / Papan Informasi, Amphitheater, Toilet Dewasa, Toilet Disabilitas, Toilet Anak, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Kursi taman, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air",
+            "permasalahan": "Warga sekitar yg individualistis",
+            "location": {
+                "latitude": -6.151008,
+                "longitude": 106.9107
+            }
+        },
+        {
+            "id": 43,
+            "nama_rptra": "Biru Laut",
+            "alamat": "Komplek Walikota, Jl. Biru Laut Tengah RT. 009 RW. 010, Kode Pos 14240",
+            "kelurahan": "Kelapa Gading Timur",
+            "kecamatan": "Kelapa Gading",
+            "luas": "1,750 ",
+            "waktu_peresmian": "2016-10-20",
+            "telepon": "081290731371",
+            "email": "rptra.birulaut86@gmail.com",
+            "fasilitas": "",
+            "permasalahan": "",
+            "location": {
+                "latitude": -6.1675,
+                "longitude": 106.9032
+            }
+        },
+        {
+            "id": 44,
+            "nama_rptra": "Amanah",
+            "alamat": "Halaman Islamic Center",
+            "kelurahan": "Tugu Utara",
+            "kecamatan": "Koja",
+            "luas": "2,000 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "081298108192",
+            "email": "rptraalamanah98@gmail.com",
+            "fasilitas": "Lapangan Futsal, Amphitheater, Toilet Dewasa, Toilet Disabilitas, Toilet Anak, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Mesin Air, Rambu dilarang injak rumput",
+            "permasalahan": "Padat Penduduk, Kumuh/Miskin, Penduduk usia anak yang banyak, Memiliki Anak usia sekolah yang tidak sekolah, Anak anak pergaulannya terlalu bebas,dan menggunakan bahasa yang kasar dan kotor,sulit untuk dinasehatin",
+            "location": {
+                "latitude": -6.1237699,
+                "longitude": 106.9159
+            }
+        },
+        {
+            "id": 45,
+            "nama_rptra": "Angke Interaktif",
+            "alamat": "Taman Interaktif Muara Angke RT. 006 RW. 001",
+            "kelurahan": "Pluit",
+            "kecamatan": "Penjaringan",
+            "luas": "1,200 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "081318338600",
+            "email": "rptraangkeinteraktif@gmail.com",
+            "fasilitas": "Lapangan Badminton, Mading / Papan Informasi, Wifi / Internet, Toilet Dewasa, Toilet Disabilitas, Toilet Anak, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi penggunaan alat permainan, Informasi tentang kawasan bebas rokok, Pagar, Pintu gerbang, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Mesin Air",
+            "permasalahan": "Padat Penduduk, Penduduk usia anak yang banyak",
+            "location": {
+                "latitude": -6.1095579,
+                "longitude": 106.7719
+            }
+        },
+        {
+            "id": 46,
+            "nama_rptra": "Bahari",
+            "alamat": "Kebun/ Balai Pembibitan Jakarta Utara Jl. Kamal Muara Raya RT. 007 Rw. 001",
+            "kelurahan": "Kamal Muara",
+            "kecamatan": "Penjaringan",
+            "luas": "899 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "087870597287",
+            "email": "rptrakamalbahari@gmail.com",
+            "fasilitas": "Lapangan Futsal, Lapangan Badminton, Amphitheater, Wifi / Internet, Toilet Disabilitas, Toilet Anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air, Bak Pemilah sampah (Komposting)",
+            "permasalahan": "Padat Penduduk, Penduduk usia anak yang banyak, Memiliki Pengunjung Anak Berkebutuhan Khusus",
+            "location": {
+                "latitude": -6.279322,
+                "longitude": 106.7934
+            }
+        },
+        {
+            "id": 47,
+            "nama_rptra": "Bawang Putih",
+            "alamat": "Jl. Kebon Bawang VII RT. 004 RW. 006",
+            "kelurahan": "Kebon Bawang",
+            "kecamatan": "Tanjung Priok",
+            "luas": "2,160 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "081385205353",
+            "email": "rptrabawangputih@gmail.com",
+            "fasilitas": "Lapangan Futsal, Lapangan Badminton, Mading / Papan Informasi, Amphitheater, Toilet Dewasa, Toilet Disabilitas, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Pagar, Pintu gerbang, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Mesin Air",
+            "permasalahan": "Padat Penduduk, Penduduk usia anak yang banyak, Memiliki Pengunjung Anak Berkebutuhan Khusus, Memiliki Anak usia sekolah yang tidak sekolah, Memiliki Kasus Kekerasan terhadap Anak, Rawan Tawuran Warga/Pelajar/Pemuda, Sangat rawan terhadap pencuri, peminum, perokok, pemabuk dan tawuran",
+            "location": {
+                "latitude": -6.115184,
+                "longitude": 106.8914
+            }
+        },
+        {
+            "id": 48,
+            "nama_rptra": "Bellyra Taman Taska",
+            "alamat": "Taman Taska RT. 005 RW. 010",
+            "kelurahan": "Pegangsaan Dua",
+            "kecamatan": "Kelapa Gading",
+            "luas": "960 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "081319055177",
+            "email": "rptrabellyra@yahoo.com",
+            "fasilitas": "Lapangan Badminton, Mading / Papan Informasi, Amphitheater, Toilet Dewasa, Toilet Disabilitas, Toilet Anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Pagar, Pintu gerbang, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air",
+            "permasalahan": "Gaya hidup individualisme di masyarakat sekitar rptra",
+            "location": {
+                "latitude": -6.1670039,
+                "longitude": 106.9047
+            }
+        },
+        {
+            "id": 49,
+            "nama_rptra": "Budi Mulia",
+            "alamat": "Jl. Budi Mulia Rt. 008 RW 016",
+            "kelurahan": "Pademangan Barat ",
+            "kecamatan": "Pademangan",
+            "luas": "3,880 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "088213673900",
+            "email": "rptrabudimulia@gmail.com",
+            "fasilitas": "Lapangan Futsal, Mading / Papan Informasi, Amphitheater, Wifi / Internet, Toilet Dewasa, Toilet Disabilitas, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Pagar, Pintu gerbang, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air",
+            "permasalahan": "Penduduk usia anak yang banyak, Memiliki Pengunjung Anak Berkebutuhan Khusus, Memiliki Anak usia sekolah yang tidak sekolah, Memiliki Lansia yang tidak diurus Keluarga, Rawan Tawuran Warga/Pelajar/Pemuda",
+            "location": {
+                "latitude": -6.1327,
+                "longitude": 106.8235
+            }
+        },
+        {
+            "id": 50,
+            "nama_rptra": "Danau Sunter",
+            "alamat": "Jl. Sunter Jaya Belakang Pompa Air RW. 001",
+            "kelurahan": "Sunter Jaya",
+            "kecamatan": "Tanjung Priok",
+            "luas": "2,556 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "085813215374",
+            "email": "rptra76danausunter@gmail.com",
+            "fasilitas": "Lapangan Badminton, Amphitheater, Wifi / Internet, Toilet Dewasa, Toilet Disabilitas, Toilet Anak, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Papan nama RPTRA, Prasasti RPTRA, Selang Panjang",
+            "permasalahan": "Padat Penduduk, Kumuh/Miskin, Penduduk usia anak yang banyak, Memiliki Anak usia sekolah yang tidak sekolah, Memiliki anak bergizi buruk",
+            "location": {
+                "latitude": -6.1497339,
+                "longitude": 106.8652
+            }
+        },
+        {
+            "id": 51,
+            "nama_rptra": "Gading Ayu",
+            "alamat": "Jl Gading Ayu 1 Komplek Hibrida RW 015",
+            "kelurahan": "Pegangsaan Dua",
+            "kecamatan": "Kelapa Gading",
+            "luas": "1,500 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "081291682031",
+            "email": "rptragadingayu@gmail.com",
+            "fasilitas": "Lapangan Basket, Amphitheater, Toilet Dewasa, Toilet Disabilitas, Toilet Anak, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi penggunaan alat permainan, Informasi tentang kawasan bebas rokok, Pagar, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air",
+            "permasalahan": "Memiliki Pengunjung Anak Berkebutuhan Khusus, Lingkungan rptra merupakan lingkungan kompleks",
+            "location": {
+                "latitude": -6.144182,
+                "longitude": 106.9024
+            }
+        },
+        {
+            "id": 52,
+            "nama_rptra": "Gading Harmoni",
+            "alamat": "Jl. Janur Kuning I (Perum Gading Harmoni) RT 09/015",
+            "kelurahan": "Kelapa Gading Timur",
+            "kecamatan": "Kelapa Gading",
+            "luas": "1,566 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "081286782147",
+            "email": "rptragadingharmoni@gmail.com",
+            "fasilitas": "Lapangan Futsal, Amphitheater, Toilet Dewasa, Toilet Disabilitas, Toilet Anak, Keran Cuci Tangan ramah anak, Informasi tentang kawasan bebas rokok, Kursi taman, Pagar, Pintu gerbang, Papan nama RPTRA, Prasasti RPTRA, Thoren air",
+            "permasalahan": "Tidak ada",
+            "location": {
+                "latitude": -6.16435,
+                "longitude": 106.9005
+            }
+        },
+        {
+            "id": 53,
+            "nama_rptra": "Griya Pratama",
+            "alamat": "Taman Griya Pratama RW. 020",
+            "kelurahan": "Pegangsaan Dua",
+            "kecamatan": "Kelapa Gading",
+            "luas": "1,000 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "083875392106",
+            "email": "rptragriyapratama@gmail.com",
+            "fasilitas": "Mading / Papan Informasi, Amphitheater, Toilet Dewasa, Toilet Disabilitas, Toilet Anak, Keran Cuci Tangan ramah anak, Informasi tentang kawasan bebas rokok, Pagar, Pintu gerbang, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang",
+            "permasalahan": "Tidak ada",
+            "location": {
+                "latitude": -6.1702227,
+                "longitude": 106.9071
+            }
+        },
+        {
+            "id": 54,
+            "nama_rptra": "Kelapa Nias Iii",
+            "alamat": "Taman Jl. Kelapa Nias III RW. 014 (Belakang Kantor Lurah)",
+            "kelurahan": "Pegangsaan Dua",
+            "kecamatan": "Kelapa Gading",
+            "luas": "1,295 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "081382304101",
+            "email": "nias3rptra@gmail.com",
+            "fasilitas": "Lapangan Badminton, Mading / Papan Informasi, Amphitheater, Toilet Dewasa, Toilet Disabilitas, Toilet Anak, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Kursi taman, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air",
+            "permasalahan": "warga butuh sarana dan fasilitas untuk bisa menyalurkan hobby mrk spt berkebun, merawat kolam gizi sehingga timbul rasa memiliki yg kuat thd RPTRA yang ada di lingkungan nya",
+            "location": {
+                "latitude": -6.1544697,
+                "longitude": 106.9081
+            }
+        },
+        {
+            "id": 55,
+            "nama_rptra": "Kelapa Puan",
+            "alamat": "Taman Kelapa Puan RT. 005 RW. 012",
+            "kelurahan": "Pegangsaan Dua",
+            "kecamatan": "Kelapa Gading",
+            "luas": "1,784 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "089629892297",
+            "email": "rptrakelapapuan@gmail.com",
+            "fasilitas": "Lapangan Badminton, Amphitheater, Toilet Dewasa, Toilet Disabilitas, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Pagar, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air",
+            "permasalahan": "Memiliki Pengunjung Anak Berkebutuhan Khusus",
+            "location": {
+                "latitude": -6.1631494,
+                "longitude": 106.9024
+            }
+        },
+        {
+            "id": 56,
+            "nama_rptra": "Lestari indah",
+            "alamat": "Jl. Warakas 1 Gg. 26 RT. 008 RW. 08",
+            "kelurahan": "Papanggo",
+            "kecamatan": "Tanjung Priok",
+            "luas": "3,300 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "087884601860",
+            "email": "rptralestariindah8@gmail.com",
+            "fasilitas": "Lapangan Badminton, Mading / Papan Informasi, Toilet Dewasa, Toilet Disabilitas, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi penggunaan alat permainan, Informasi tentang kawasan bebas rokok, Pagar, Pintu gerbang, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air",
+            "permasalahan": "Padat Penduduk, Kumuh/Miskin, Penduduk usia anak yang banyak, Memiliki Pengunjung Anak Berkebutuhan Khusus, Memiliki Anak usia sekolah yang tidak sekolah, Memiliki Lansia yang tidak diurus Keluarga",
+            "location": {
+                "latitude": -6.1227622,
+                "longitude": 106.8666
+            }
+        },
+        {
+            "id": 57,
+            "nama_rptra": "Nirmala",
+            "alamat": "Jl. Bingkesmas RW. 004",
+            "kelurahan": "Sunter Jaya",
+            "kecamatan": "Tanjung Priok",
+            "luas": "1,382 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "089696143919",
+            "email": "rptranirmala75@gmail.com",
+            "fasilitas": "",
+            "permasalahan": "",
+            "location": {
+                "latitude": -6.1551382,
+                "longitude": 106.8634
+            }
+        },
+        {
+            "id": 58,
+            "nama_rptra": "Permata",
+            "alamat": "Taman Permata RW. 016",
+            "kelurahan": "Tugu Utara",
+            "kecamatan": "Koja",
+            "luas": "3,000 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "081281863368",
+            "email": "rptrapermata99@gmail.com",
+            "fasilitas": "Lapangan Badminton, Amphitheater, Toilet Dewasa, Toilet Disabilitas, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Pagar, Pintu gerbang, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Mesin Air",
+            "permasalahan": "Padat Penduduk, Penduduk usia anak yang banyak, Memiliki Pengunjung Anak Berkebutuhan Khusus",
+            "location": {
+                "latitude": -6.1253784,
+                "longitude": 106.9055
+            }
+        },
+        {
+            "id": 59,
+            "nama_rptra": "Radar Pembangunan",
+            "alamat": "Jl. Inspeksi Kali Sunter RT 005/03",
+            "kelurahan": "Rawabadak Utara",
+            "kecamatan": "Koja",
+            "luas": "1,715 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "085212144603",
+            "email": "rptraradar096@gmail.com",
+            "fasilitas": "Lapangan Futsal, Amphitheater, Wifi / Internet, Toilet Dewasa, Toilet Disabilitas, Toilet Anak, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi penggunaan alat permainan, Informasi tentang kawasan bebas rokok, Pagar, Pintu gerbang, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air, Bak Pemilah sampah (Komposting)",
+            "permasalahan": "Padat Penduduk, Kumuh/Miskin, Penduduk usia anak yang banyak, Memiliki Anak usia sekolah yang tidak sekolah, Rawan Tawuran Warga/Pelajar/Pemuda",
+            "location": {
+                "latitude": -6.128903,
+                "longitude": 106.8948
+            }
+        },
+        {
+            "id": 60,
+            "nama_rptra": "Rasela",
+            "alamat": "Stadion Rawabadak Jl. Alur Laut RT. 009 RW. 05",
+            "kelurahan": "Rawabadak Selatan",
+            "kecamatan": "Koja",
+            "luas": "5,061 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "085213853159",
+            "email": "rptrarasela@gmail.com",
+            "fasilitas": "",
+            "permasalahan": "",
+            "location": {
+                "latitude": -6.126417,
+                "longitude": 106.8984
+            }
+        },
+        {
+            "id": 61,
+            "nama_rptra": "Rorotan Indah",
+            "alamat": "RT. 009 RW. 007 (Komplek Polri)",
+            "kelurahan": "Rorotan ",
+            "kecamatan": "Cilincing",
+            "luas": "4,963 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "081290249004",
+            "email": "rptrarorotanindah@gmail.com",
+            "fasilitas": "Lapangan Badminton, Amphitheater, Toilet Dewasa, Toilet Disabilitas, Toilet Anak, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Pagar, Pintu gerbang, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Mesin Air",
+            "permasalahan": "Padat Penduduk, Kumuh/Miskin, Memiliki anak bergizi buruk",
+            "location": {
+                "latitude": -6.142934,
+                "longitude": 106.8411
+            }
+        },
+        {
+            "id": 62,
+            "nama_rptra": "Sindang Raya",
+            "alamat": "Jl. Raya Sindang",
+            "kelurahan": "Koja",
+            "kecamatan": "Koja",
+            "luas": "645 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "081322255505",
+            "email": "rptrasindangraya@gmail.com",
+            "fasilitas": "Amphitheater, Toilet Dewasa, Toilet Disabilitas, Toilet Anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Pagar, Pintu gerbang, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Mesin Air",
+            "permasalahan": "Padat Penduduk, Kumuh/Miskin, Penduduk usia anak yang banyak, Memiliki Anak usia sekolah yang tidak sekolah, Memiliki anak bergizi buruk, Rawan Tawuran Warga/Pelajar/Pemuda",
+            "location": {
+                "latitude": -6.1128875,
+                "longitude": 106.8951
+            }
+        },
+        {
+            "id": 63,
+            "nama_rptra": "Sunter Indah",
+            "alamat": "Jl. Sunter Indah VIII RT. 011 RW. 012",
+            "kelurahan": "Sunter Jaya",
+            "kecamatan": "Tanjung Priok",
+            "luas": "1,240 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "082165102909",
+            "email": "rptrasunterindah@gmail.com",
+            "fasilitas": "Lapangan Basket, Amphitheater, Wifi / Internet, Toilet Dewasa, Toilet Disabilitas, Toilet Anak, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Pagar, Pintu gerbang, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Mesin Air",
+            "permasalahan": "Tidak ada",
+            "location": {
+                "latitude": -6.1180438,
+                "longitude": 106.8945
+            }
+        },
+        {
+            "id": 64,
+            "nama_rptra": "Sunter Mas",
+            "alamat": "Jl. Sunter Mas Timur RT. 010 RW. 08",
+            "kelurahan": "Sunter Jaya",
+            "kecamatan": "Tanjung Priok",
+            "luas": "1,032 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "081293772028",
+            "email": "suntermas.rptra77@gmail.com",
+            "fasilitas": "Lapangan Badminton, Mading / Papan Informasi, Amphitheater, Wifi / Internet, Toilet Dewasa, Toilet Disabilitas, Toilet Anak, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Mesin Air, Lapangan permainan tradisional (demprak), WIFI",
+            "permasalahan": "Memiliki Pengunjung Anak Berkebutuhan Khusus",
+            "location": {
+                "latitude": -6.1497392,
+                "longitude": 106.8652
+            }
+        },
+        {
+            "id": 65,
+            "nama_rptra": "Sutra Indah 1",
+            "alamat": "Taman Blok A RW. 013",
+            "kelurahan": "Sunter Agung",
+            "kecamatan": "Tanjung Priok",
+            "luas": "1,320 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "08998235176",
+            "email": "rptra81@gmail.com",
+            "fasilitas": "",
+            "permasalahan": "",
+            "location": {
+                "latitude": -6.1410285,
+                "longitude": 106.8684
+            }
+        },
+        {
+            "id": 66,
+            "nama_rptra": "Sutra Indah 2",
+            "alamat": "Taman Blok B RW.13",
+            "kelurahan": "Sunter Agung",
+            "kecamatan": "Tanjung Priok",
+            "luas": "2,200 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "085711222852",
+            "email": "sutraindahdua@gmail.com",
+            "fasilitas": "Lapangan Badminton, Amphitheater, Toilet Dewasa, Toilet Disabilitas, Toilet Anak, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Kursi taman, Pagar, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air",
+            "permasalahan": "Memiliki Pengunjung Anak Berkebutuhan Khusus",
+            "location": {
+                "latitude": -6.1405914,
+                "longitude": 106.8679
+            }
+        },
+        {
+            "id": 67,
+            "nama_rptra": "Sutra Indah 3",
+            "alamat": "Taman Komp. Sekneg RW. 009",
+            "kelurahan": "Sunter Agung",
+            "kecamatan": "Tanjung Priok",
+            "luas": "3,100 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "089678979979",
+            "email": "rptra.sutra.indah3@gmail.com",
+            "fasilitas": "Lapangan Futsal, Lapangan Badminton, Mading / Papan Informasi, Amphitheater, Toilet Dewasa, Toilet Disabilitas, Toilet Anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Kursi taman, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Mesin Air",
+            "permasalahan": "Memiliki Anak usia sekolah yang tidak sekolah",
+            "location": {
+                "latitude": -6.1410017,
+                "longitude": 106.8618
+            }
+        },
+        {
+            "id": 68,
+            "nama_rptra": "Sutra Indah 4",
+            "alamat": "Jalan Agung Permai (Taman Gajah) RW. 011",
+            "kelurahan": "Sunter Agung",
+            "kecamatan": "Tanjung Priok",
+            "luas": "1,400 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "082113043518",
+            "email": "rptrasutraindah4@gmail.com",
+            "fasilitas": "Amphitheater, Toilet Dewasa, Toilet Disabilitas, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Pagar, Pintu gerbang, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Mesin Air",
+            "permasalahan": "Pemukimam tidak padat penduduk",
+            "location": {
+                "latitude": -6.1180438,
+                "longitude": 106.8945
+            }
+        },
+        {
+            "id": 69,
+            "nama_rptra": "Taman Pinus",
+            "alamat": "Taman Pinus RT. 004 dan 005 RW. 012",
+            "kelurahan": "Sukapura ",
+            "kecamatan": "Cilincing",
+            "luas": "4,266 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "085714216629",
+            "email": "pengelola.rptrapinus@gmail.com",
+            "fasilitas": "",
+            "permasalahan": "",
+            "location": {
+                "latitude": -6.1180438,
+                "longitude": 106.8945
+            }
+        },
+        {
+            "id": 70,
+            "nama_rptra": "Tugu Permai",
+            "alamat": "Taman Tugu Permai RT. 014/02",
+            "kelurahan": "Tugu Utara",
+            "kecamatan": "Koja",
+            "luas": "900 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "08119629738",
+            "email": "rptra97@gmail.com",
+            "fasilitas": "",
+            "permasalahan": "",
+            "location": {
+                "latitude": -6.1273732,
+                "longitude": 106.905
+            }
+        },
+        {
+            "id": 71,
+            "nama_rptra": "Villa Kapuk Mas 2",
+            "alamat": "Jl. Vikamas Barat 6 RT. 003, 04,  005 RW. 03",
+            "kelurahan": "Kapuk Muara",
+            "kecamatan": "Penjaringan",
+            "luas": "1,500 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "081213648066",
+            "email": "rptravillakapukmas2@gmail.com",
+            "fasilitas": "Lapangan Basket, Mading / Papan Informasi, Amphitheater, Toilet Dewasa, Toilet Disabilitas, Toilet Anak, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi penggunaan alat permainan, Informasi tentang kawasan bebas rokok, Kursi taman, Pagar, Pintu gerbang, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Mesin Air",
+            "permasalahan": "Lokasi banyak anjing berkeliaran sehingga masyarakat yang ingin berkunjung ke RPTRA takut dikejar.",
+            "location": {
+                "latitude": -6.1145223,
+                "longitude": 106.7308
+            }
+        },
+        {
+            "id": 72,
+            "nama_rptra": "Kembangan",
+            "alamat": "Jl.Kompas, RT 01 RW 01, Kode Pos 11610",
+            "kelurahan": "Kembangan Utara",
+            "kecamatan": "Kembangan",
+            "luas": "3,250 ",
+            "waktu_peresmian": "2015-06-05",
+            "telepon": "087877991877",
+            "email": "rptrakembanganutara@gmail.com",
+            "fasilitas": "Lapangan Futsal, Mading / Papan Informasi, Amphitheater, Wifi / Internet, Toilet Dewasa, Toilet Disabilitas, Toilet Anak, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Sarana menyiram tanaman otomatis, Thoren air, Selang Panjang, Mesin Air",
+            "permasalahan": "Padat Penduduk",
+            "location": {
+                "latitude": -6.201156,
+                "longitude": 106.737
+            }
+        },
+        {
+            "id": 73,
+            "nama_rptra": "Duri Kosambi",
+            "alamat": "Jl Daan Mogot Rusunawa pesakih, RT 014 RW 014, Kode Pos 11750",
+            "kelurahan": "Duri Kosambi",
+            "kecamatan": "Cengkareng",
+            "luas": "2,000 ",
+            "waktu_peresmian": "2016-03-05",
+            "telepon": "082225971516",
+            "email": "rptradurikosambi05@gmail.com",
+            "fasilitas": "Lapangan Futsal, Amphitheater, Toilet Dewasa, Toilet Disabilitas, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Kursi taman, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air",
+            "permasalahan": "Memiliki Anak usia sekolah yang tidak sekolah",
+            "location": {
+                "latitude": -6.161917,
+                "longitude": 106.7159
+            }
+        },
+        {
+            "id": 74,
+            "nama_rptra": "Intiland Teduh @ Rawa Buaya",
+            "alamat": "Jl. Bojong Raya, RT 05 RW 04, Kode Pos 11740",
+            "kelurahan": "Cengkareng",
+            "kecamatan": "Rawa Buaya",
+            "luas": "678 ",
+            "waktu_peresmian": "2016-04-19",
+            "telepon": "081808905450",
+            "email": "rptrarawabuaya@gmail.com",
+            "fasilitas": "Lapangan Basket, Mading / Papan Informasi, Toilet Dewasa, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Kursi taman, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Mesin Air, Wastafek dewasa dan tempat wudhu",
+            "permasalahan": "Kumuh/Miskin, Memiliki Pengunjung Anak Berkebutuhan Khusus, Memiliki Anak usia sekolah yang tidak sekolah",
+            "location": {
+                "latitude": -6.169489,
+                "longitude": 106.7344
+            }
+        },
+        {
+            "id": 75,
+            "nama_rptra": "Cengkareng Timur Berseri",
+            "alamat": "Jl. Kayu Besar Outer Ringroad, RT 012 RW 011, Kode Pos 11730",
+            "kelurahan": "Cengkareng Timur",
+            "kecamatan": "Cengkareng",
+            "luas": "1,651 ",
+            "waktu_peresmian": "2016-02-18",
+            "telepon": "081281851234",
+            "email": "rptra.cengkarengtimur@gmail.com",
+            "fasilitas": "Lapangan Futsal, Mading / Papan Informasi, Amphitheater, Toilet Dewasa, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Kursi taman, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air",
+            "permasalahan": "Padat Penduduk, Kumuh/Miskin, Penduduk usia anak yang banyak, Memiliki Anak usia sekolah yang tidak sekolah, Rawan Tawuran Warga/Pelajar/Pemuda",
+            "location": {
+                "latitude": -6.123767,
+                "longitude": 106.7309
+            }
+        },
+        {
+            "id": 76,
+            "nama_rptra": "Kalideres",
+            "alamat": "Jl.Bukit elok blok e6, RT 01 RW 09, Kode Pos 11840",
+            "kelurahan": "Kalideres",
+            "kecamatan": "Kalideres",
+            "luas": "3,401 ",
+            "waktu_peresmian": "2016-05-03",
+            "telepon": "081219687050",
+            "email": "rptrakalideres@gmail.com",
+            "fasilitas": "",
+            "permasalahan": "",
+            "location": {
+                "latitude": -6.143512,
+                "longitude": 106.6938
+            }
+        },
+        {
+            "id": 77,
+            "nama_rptra": "Pegadungan",
+            "alamat": "Citra Garden 2 Blok M3, RT 02 RW 012, Kode Pos 11830",
+            "kelurahan": "Pegadungan",
+            "kecamatan": "Kalideres",
+            "luas": "788 ",
+            "waktu_peresmian": "2016-05-04",
+            "telepon": "081210399255",
+            "email": "rptrapegadungan@gmail.com",
+            "fasilitas": "Lapangan Futsal, Wifi / Internet, Toilet Disabilitas, Toilet Anak, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Kursi taman, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Selang Panjang, Wifi sudah ada tp belum terkoneksi",
+            "permasalahan": "Padat Penduduk, Kumuh/Miskin, Penduduk usia anak yang banyak, Memiliki Anak usia sekolah yang tidak sekolah, Memiliki Kasus Kekerasan terhadap Anak",
+            "location": {
+                "latitude": -6.142503,
+                "longitude": 106.7106
+            }
+        },
+        {
+            "id": 78,
+            "nama_rptra": "Krendang",
+            "alamat": "Jln.Krendang Selatan, RT 05 RW 07, Kode Pos 11260",
+            "kelurahan": "Krendang",
+            "kecamatan": "Tambora",
+            "luas": "2,692 ",
+            "waktu_peresmian": "2016-02-03",
+            "telepon": "085770405758",
+            "email": "rptrakrendang@gmail.com",
+            "fasilitas": "Lapangan Futsal, Lapangan Basket, Amphitheater, Wifi / Internet, Toilet Dewasa, Toilet Disabilitas, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Kursi taman, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Selang Panjang, Mesin Air, Bak Pemilah sampah (Komposting)",
+            "permasalahan": "Padat Penduduk, Kumuh/Miskin, Memiliki Pengunjung Anak Berkebutuhan Khusus, Memiliki Anak usia sekolah yang tidak sekolah, Rawan Tawuran Warga/Pelajar/Pemuda",
+            "location": {
+                "latitude": -6.152078,
+                "longitude": 106.8015
+            }
+        },
+        {
+            "id": 79,
+            "nama_rptra": "Kedoya Utara",
+            "alamat": "Jl. Ratu Mawar Blok J Ujung, RT 02 RW 01, Kode Pos 11520",
+            "kelurahan": "Kedoya Utara",
+            "kecamatan": "Kebon Jeruk",
+            "luas": "2,374 ",
+            "waktu_peresmian": "2016-02-03",
+            "telepon": "081319621174",
+            "email": "rptrakukedoyautara@gmail.com",
+            "fasilitas": "Lapangan Futsal, Mading / Papan Informasi, Amphitheater, Wifi / Internet, Toilet Dewasa, Toilet Disabilitas, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Rambu lalu lintas (Zona bermain anak), Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Selang Panjang, Mesin Air, Ring basket fortable",
+            "permasalahan": "Padat Penduduk",
+            "location": {
+                "latitude": -6.16421,
+                "longitude": 106.76606
+            }
+        },
+        {
+            "id": 80,
+            "nama_rptra": "Meruya Utara",
+            "alamat": "Kampung Kembang Kerep, RT 017 RW 04, Kode Pos 11620",
+            "kelurahan": "Meruya Utara",
+            "kecamatan": "Kembangan",
+            "luas": "4,994 ",
+            "waktu_peresmian": "2015-12-29",
+            "telepon": "085717632491",
+            "email": "rptrameruyautara@gmail.com",
+            "fasilitas": "Lapangan Futsal, Mading / Papan Informasi, Amphitheater, Toilet Disabilitas, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Kursi taman, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air",
+            "permasalahan": "Padat Penduduk, Kumuh/Miskin, Penduduk usia anak yang banyak, Memiliki Anak usia sekolah yang tidak sekolah",
+            "location": {
+                "latitude": -6.201167,
+                "longitude": 106.737
+            }
+        },
+        {
+            "id": 81,
+            "nama_rptra": "Meruya Selatan",
+            "alamat": "Jl. H.Saaba Ujung, RT 08 RW 03, Kode Pos 11650",
+            "kelurahan": "Meruya Selatan",
+            "kecamatan": "Kembangan",
+            "luas": "1,189 ",
+            "waktu_peresmian": "2016-03-17",
+            "telepon": "085773831247",
+            "email": "rptrameruyaselatan@gmail.com",
+            "fasilitas": "Lapangan Futsal, Lapangan Basket, Lapangan Badminton, Mading / Papan Informasi, Amphitheater, Wifi / Internet, Toilet Dewasa, Toilet Disabilitas, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Kursi taman, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Selang Panjang, Mesin Air, Bak Pemilah sampah (Komposting)",
+            "permasalahan": "Tidak ada",
+            "location": {
+                "latitude": -6.21031,
+                "longitude": 106.7257
+            }
+        },
+        {
+            "id": 82,
+            "nama_rptra": "Kembangan Selatan",
+            "alamat": "Jl.Kembang Abadi, RT 01 RW 08, Kode Pos 11620",
+            "kelurahan": "Kembangan Selatan",
+            "kecamatan": "Kembangan",
+            "luas": "2,304 ",
+            "waktu_peresmian": "2016-03-10",
+            "telepon": "087803703790",
+            "email": "rptra.kembanganselatan@gmail.com",
+            "fasilitas": "Lapangan Futsal, Mading / Papan Informasi, Amphitheater, Wifi / Internet, Toilet Dewasa, Toilet Disabilitas, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Kursi taman, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Sarana menyiram tanaman otomatis, Thoren air, Selang Panjang, Mesin Air",
+            "permasalahan": "Padat Penduduk, Penduduk usia anak yang banyak",
+            "location": {
+                "latitude": -6.184498,
+                "longitude": 106.7523
+            }
+        },
+        {
+            "id": 83,
+            "nama_rptra": "Kalijodo",
+            "alamat": "Jl. Pangeran Tubagus Angke No.19",
+            "kelurahan": "Angke",
+            "kecamatan": "Tambora",
+            "luas": "4,300 ",
+            "waktu_peresmian": "2017-02-22",
+            "telepon": "81293458842",
+            "email": "rptrakalijodo@gmai.com",
+            "fasilitas": "Lapangan Futsal, Toilet Dewasa, Toilet Disabilitas, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi penggunaan alat permainan, Informasi tentang kawasan bebas rokok, Pagar, Pintu gerbang, CCTV, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air",
+            "permasalahan": "Padat Penduduk, Penduduk usia anak yang banyak, Rawan Tawuran Warga/Pelajar/Pemuda",
+            "location": {
+                "latitude": -6.14268,
+                "longitude": 106.7901
+            }
+        },
+        {
+            "id": 84,
+            "nama_rptra": "Ceria",
+            "alamat": "Komplek Rusun Damkar Jl. Taman Surya II RT 01 RW 05, Kode Pos 11730",
+            "kelurahan": "Cengkareng Barat",
+            "kecamatan": "Cengkareng",
+            "luas": "1,750 ",
+            "waktu_peresmian": "2016-10-20",
+            "telepon": "085219659667",
+            "email": "rptraceria.cb05@gmail.com",
+            "fasilitas": "Lapangan Futsal, Mading / Papan Informasi, Amphitheater, Toilet Dewasa, Toilet Disabilitas, Keran Cuci Tangan ramah anak, Informasi tentang kawasan bebas rokok, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air",
+            "permasalahan": "Padat Penduduk, Kumuh/Miskin, Memiliki Anak usia sekolah yang tidak sekolah",
+            "location": {
+                "latitude": -6.139907,
+                "longitude": 106.7163
+            }
+        },
+        {
+            "id": 85,
+            "nama_rptra": "Joglo",
+            "alamat": "Komplek DKI Joglo Blok R, RT 12 RW 04, 11640",
+            "kelurahan": "Joglo",
+            "kecamatan": "Kembangan",
+            "luas": "800 ",
+            "waktu_peresmian": "2016-10-20",
+            "telepon": "082297646726",
+            "email": "rptrakasihjoglo120@gmail.com",
+            "fasilitas": "Lapangan Badminton, Toilet Dewasa, Toilet Disabilitas, Toilet Anak, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air",
+            "permasalahan": "Lingkungan RPTRA komplek",
+            "location": {
+                "latitude": -6.222594,
+                "longitude": 106.7313
+            }
+        },
+        {
+            "id": 86,
+            "nama_rptra": "Alur Anggrek",
+            "alamat": "Jl. Komplek Kebersihan",
+            "kelurahan": "Tegal alur ",
+            "kecamatan": "Kalideres",
+            "luas": "2,995 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "089677388975",
+            "email": "rptraanggrek04@gmail.com",
+            "fasilitas": "",
+            "permasalahan": "",
+            "location": {
+                "latitude": -6.128375,
+                "longitude": 106.7187
+            }
+        },
+        {
+            "id": 87,
+            "nama_rptra": "Alur Dahlia",
+            "alamat": "Jl. Mushola Gg. 14",
+            "kelurahan": "Tegal alur ",
+            "kecamatan": "Kalideres",
+            "luas": "2,268 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "082111606002",
+            "email": "rptraalurdahlia@gmail.com",
+            "fasilitas": "Lapangan Futsal, Lapangan Badminton, Mading / Papan Informasi, Amphitheater, Wifi / Internet, Toilet Dewasa, Toilet Disabilitas, Toilet Anak, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Pagar, Pintu gerbang, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air",
+            "permasalahan": "Padat Penduduk, Penduduk usia anak yang banyak, Memiliki Pengunjung Anak Berkebutuhan Khusus, Memiliki Anak usia sekolah yang tidak sekolah",
+            "location": {
+                "latitude": -6.121493,
+                "longitude": 106.7174
+            }
+        },
+        {
+            "id": 88,
+            "nama_rptra": "Alur Kemuning",
+            "alamat": "Jl. Bhakti Mulya III Rt. 08 Rw. 02",
+            "kelurahan": "Tegal alur ",
+            "kecamatan": "Kalideres",
+            "luas": "1,216 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "081806761100",
+            "email": "rptra.alurkemuning114@gmail.com",
+            "fasilitas": "Lapangan Badminton, Mading / Papan Informasi, Amphitheater, Wifi / Internet, Toilet Dewasa, Toilet Disabilitas, Toilet Anak, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Pagar, Pintu gerbang, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air",
+            "permasalahan": "Padat Penduduk, Penduduk usia anak yang banyak, Memiliki Pengunjung Anak Berkebutuhan Khusus",
+            "location": {
+                "latitude": -6.116573,
+                "longitude": 106.715
+            }
+        },
+        {
+            "id": 89,
+            "nama_rptra": "Amanah Bunda",
+            "alamat": "Gang Manggis XIX Rt. 10 Rw. 04",
+            "kelurahan": "Tanjung Duren Selatan ",
+            "kecamatan": "Grogol Petamburan",
+            "luas": "669 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "085782333511",
+            "email": "rptraamanahbunda@gmail.com",
+            "fasilitas": "Lapangan Futsal, Lapangan Badminton, Mading / Papan Informasi, Amphitheater, Toilet Dewasa, Toilet Disabilitas, Toilet Anak, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi penggunaan alat permainan, Informasi tentang kawasan bebas rokok, Kursi taman, Pagar, Pintu gerbang, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air, Bak Pemilah sampah (Komposting)",
+            "permasalahan": "Padat Penduduk, Penduduk usia anak yang banyak, Memiliki Anak usia sekolah yang tidak sekolah",
+            "location": {
+                "latitude": -6.179104,
+                "longitude": 106.7865
+            }
+        },
+        {
+            "id": 90,
+            "nama_rptra": "Cambela",
+            "alamat": "Jl. Kampung Belakang Rt.09 Rw. 03",
+            "kelurahan": "Kamal",
+            "kecamatan": "Kalideres",
+            "luas": "1,141 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "089616260853",
+            "email": "rptrachampbella@gmail.com",
+            "fasilitas": "",
+            "permasalahan": "",
+            "location": {
+                "latitude": -6.100411,
+                "longitude": 106.6965
+            }
+        },
+        {
+            "id": 91,
+            "nama_rptra": "Carina Sayang",
+            "alamat": "Taman Karina Sayang Rw. 10",
+            "kelurahan": "Rawa buaya ",
+            "kecamatan": "Cengkareng",
+            "luas": "2,401 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "081382463436",
+            "email": "rptrakarinasayang@gmail.com",
+            "fasilitas": "Lapangan Futsal, Amphitheater, Toilet Dewasa, Toilet Disabilitas, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Pagar, Pintu gerbang, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air",
+            "permasalahan": "Padat Penduduk, Kumuh/Miskin, Rawan Tawuran Warga/Pelajar/Pemuda",
+            "location": {
+                "latitude": -6.165126,
+                "longitude": 106.7462
+            }
+        },
+        {
+            "id": 92,
+            "nama_rptra": "Cempaka",
+            "alamat": "Jl. Cempaka Raya Rt.03 Rw.12 ",
+            "kelurahan": "Rawa buaya ",
+            "kecamatan": "Cengkareng",
+            "luas": "3,000 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "081284514920",
+            "email": "rptracempaka@gmail.com",
+            "fasilitas": "Lapangan Badminton, Amphitheater, Toilet Dewasa, Toilet Disabilitas, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Pagar, Pintu gerbang, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Mesin Air",
+            "permasalahan": "Padat Penduduk, Penduduk usia anak yang banyak, Memiliki Pengunjung Anak Berkebutuhan Khusus, Memiliki Anak usia sekolah yang tidak sekolah, Memiliki Lansia yang tidak diurus Keluarga, Rawan Tawuran Warga/Pelajar/Pemuda",
+            "location": {
+                "latitude": -6.160572,
+                "longitude": 106.7445
+            }
+        },
+        {
+            "id": 93,
+            "nama_rptra": "Dupa Wangi",
+            "alamat": "Jl. Mangga 14  Grenville ",
+            "kelurahan": "Duri Kepa ",
+            "kecamatan": "Kebon jeruk",
+            "luas": "3,056 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "087883265556",
+            "email": "rptradupawangi@gmail.com",
+            "fasilitas": "Lapangan Badminton, Toilet Dewasa, Toilet Disabilitas, Toilet Anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Pagar, Pintu gerbang, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air, Bak Pemilah sampah (Komposting)",
+            "permasalahan": "Padat Penduduk",
+            "location": {
+                "latitude": -6.172245,
+                "longitude": 106.7747
+            }
+        },
+        {
+            "id": 94,
+            "nama_rptra": "Duta Mas",
+            "alamat": "Taman Duta Mas Blok A5",
+            "kelurahan": "Jelambar Baru ",
+            "kecamatan": "Grogol Petamburan",
+            "luas": "1,015 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "085780049406",
+            "email": "rptradutamas313@gmail.com",
+            "fasilitas": "",
+            "permasalahan": "",
+            "location": {
+                "latitude": -6.149357,
+                "longitude": 106.7809
+            }
+        },
+        {
+            "id": 95,
+            "nama_rptra": "Jeruk Manis",
+            "alamat": "Komp. Perumahan Kebon Jeruk Blok A8 RW. 08 ",
+            "kelurahan": "Kebon Jeruk ",
+            "kecamatan": "Kebon jeruk",
+            "luas": "2,374 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "085693889711",
+            "email": "rptra.jerukmanis@gmail.com",
+            "fasilitas": "",
+            "permasalahan": "",
+            "location": {
+                "latitude": -6.190058,
+                "longitude": 106.7733
+            }
+        },
+        {
+            "id": 96,
+            "nama_rptra": "Kenanga",
+            "alamat": "Komp. Taman Permata Palem Blok A1 No. 51",
+            "kelurahan": "Pegadungan ",
+            "kecamatan": "Kalideres",
+            "luas": "3,745 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "089654849978",
+            "email": "rptrakenanga01@gmail.com",
+            "fasilitas": "Lapangan Futsal, Mading / Papan Informasi, Amphitheater, Toilet Dewasa, Toilet Disabilitas, Toilet Anak, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Pagar, Pintu gerbang, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air",
+            "permasalahan": "Penduduk usia anak yang banyak, Memiliki Anak usia sekolah yang tidak sekolah",
+            "location": {
+                "latitude": -6.129941,
+                "longitude": 106.7073
+            }
+        },
+        {
+            "id": 97,
+            "nama_rptra": "Mahkota",
+            "alamat": "Komp. Walikota Blok C",
+            "kelurahan": "Meruya selatan ",
+            "kecamatan": "Kembangan",
+            "luas": "2,033 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "082298453175",
+            "email": "rptra.mahkota@gmail.com",
+            "fasilitas": "Lapangan Futsal, Toilet Dewasa, Toilet Disabilitas, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Kursi taman, Pagar, Pintu gerbang, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air, Gazebo",
+            "permasalahan": "Tidak ada",
+            "location": {
+                "latitude": -6.213105,
+                "longitude": 106.7229
+            }
+        },
+        {
+            "id": 98,
+            "nama_rptra": "Manggis",
+            "alamat": "Jln. Anggrek Rosliana 2 ",
+            "kelurahan": "Kemanggisan ",
+            "kecamatan": "Palmerah",
+            "luas": "2,010 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "081212585454",
+            "email": "rptra.manggis@gmail.com",
+            "fasilitas": "Lapangan Badminton, Mading / Papan Informasi, Toilet Dewasa, Toilet Disabilitas, Toilet Anak, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Kursi taman, Pagar, Pintu gerbang, Prasasti RPTRA, Thoren air, Mesin Air",
+            "permasalahan": "Rawan Tawuran Warga/Pelajar/Pemuda",
+            "location": {
+                "latitude": -6.193959,
+                "longitude": 106.7941
+            }
+        },
+        {
+            "id": 99,
+            "nama_rptra": "Matahari",
+            "alamat": "Jl. Kebon Jeruk XIII Rt. 013 Rw. 05",
+            "kelurahan": "Maphar ",
+            "kecamatan": "Taman sari",
+            "luas": "690 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "085772008879",
+            "email": "rptramatahari@gmail.com",
+            "fasilitas": "",
+            "permasalahan": "",
+            "location": {
+                "latitude": -6.153925,
+                "longitude": 106.8247
+            }
+        },
+        {
+            "id": 100,
+            "nama_rptra": "Mawar Duri Kosambi",
+            "alamat": "Jl. Mawar Utama  Perumahan Kosambi Baru ",
+            "kelurahan": "Duri Kosambi ",
+            "kecamatan": "Cengkareng",
+            "luas": "1,243 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "085714154080",
+            "email": "rptramawardurkos@gmail.com",
+            "fasilitas": "Lapangan Badminton, Toilet Dewasa, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Kursi taman, Prasasti RPTRA, Thoren air, Mesin Air, Bak Pemilah sampah (Komposting)",
+            "permasalahan": "Kumuh/Miskin, Memiliki Anak usia sekolah yang tidak sekolah",
+            "location": {
+                "latitude": -6.167601,
+                "longitude": 106.7159
+            }
+        },
+        {
+            "id": 101,
+            "nama_rptra": "Melati Indah",
+            "alamat": "Jl. Melati 2 ",
+            "kelurahan": "Kapuk ",
+            "kecamatan": "Cengkareng",
+            "luas": "2,245 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "089610822241",
+            "email": "rptramelati02@gmail.com",
+            "fasilitas": "",
+            "permasalahan": "",
+            "location": {
+                "latitude": -6.149901,
+                "longitude": 106.7441
+            }
+        },
+        {
+            "id": 102,
+            "nama_rptra": "Pandawa",
+            "alamat": "Jl. Kedoya Azalea II",
+            "kelurahan": "Kedoya Selatan ",
+            "kecamatan": "Kebon jeruk",
+            "luas": "4,397 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "081289505927",
+            "email": "rptrapandawa.kedoyaselatan@gmail.com",
+            "fasilitas": "",
+            "permasalahan": "",
+            "location": {
+                "latitude": -6.184001,
+                "longitude": 106.7634
+            }
+        },
+        {
+            "id": 103,
+            "nama_rptra": "Poraya",
+            "alamat": "Jl. Kamal Rt. 01 Rw. 08",
+            "kelurahan": "Kamal",
+            "kecamatan": "Kalideres",
+            "luas": "800 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "085882944369",
+            "email": "rptraporayakamal@gmail.com",
+            "fasilitas": "Lapangan Badminton, Mading / Papan Informasi, Amphitheater, Toilet Dewasa, Toilet Disabilitas, Toilet Anak, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Pagar, Pintu gerbang, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air, Papan Informasi Assembly Point",
+            "permasalahan": "Padat Penduduk, Penduduk usia anak yang banyak",
+            "location": {
+                "latitude": -6.105626,
+                "longitude": 106.7043
+            }
+        },
+        {
+            "id": 104,
+            "nama_rptra": "Rambutan",
+            "alamat": "Jl. Rambutan Raya / Jl. Tanjung Duren Barat II",
+            "kelurahan": "Tanjung Duren Utara ",
+            "kecamatan": "Grogol Petamburan",
+            "luas": "2,589 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "081315844316",
+            "email": "rptra.rambutan@gmail.com",
+            "fasilitas": "",
+            "permasalahan": "",
+            "location": {
+                "latitude": -6.175435,
+                "longitude": 106.7817
+            }
+        },
+        {
+            "id": 105,
+            "nama_rptra": "Sehati",
+            "alamat": "Jl. Mesjid",
+            "kelurahan": "Cengkareng Barat ",
+            "kecamatan": "Cengkareng",
+            "luas": "1,560 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "081210964400",
+            "email": "rptra.sehati06@gmail.com",
+            "fasilitas": "",
+            "permasalahan": "",
+            "location": {
+                "latitude": -6.149094,
+                "longitude": 106.7205
+            }
+        },
+        {
+            "id": 106,
+            "nama_rptra": "Sugriwa",
+            "alamat": "Jl. Taman Sugriwa Rw. 09",
+            "kelurahan": "Rawa buaya ",
+            "kecamatan": "Cengkareng",
+            "luas": "928 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "081314137389",
+            "email": "rptra.sugriwa@gmail.com",
+            "fasilitas": "",
+            "permasalahan": "",
+            "location": {
+                "latitude": -6.167837,
+                "longitude": 106.7385
+            }
+        },
+        {
+            "id": 107,
+            "nama_rptra": "Utama",
+            "alamat": "Jl. Utama Raya ",
+            "kelurahan": "Cengkareng Barat ",
+            "kecamatan": "Cengkareng",
+            "luas": "6,757 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "083870712787",
+            "email": "rptrautamaraya@gmail.com",
+            "fasilitas": "",
+            "permasalahan": "",
+            "location": {
+                "latitude": -6.149921,
+                "longitude": 106.7248
+            }
+        },
+        {
+            "id": 108,
+            "nama_rptra": "Bahari",
+            "alamat": "Jl. Bahari Raya, RT 09 RW 07, Kode Pos 12420",
+            "kelurahan": "Gandaria Selatan",
+            "kecamatan": "Cilandak",
+            "luas": "1,000 ",
+            "waktu_peresmian": "2015-05-21",
+            "telepon": "081213145622",
+            "email": "rptra.bahari@gmail.com",
+            "fasilitas": "Lapangan Futsal, Lapangan Badminton, Amphitheater, Wifi / Internet, Toilet Disabilitas, Toilet Anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air, Bak Pemilah sampah (Komposting)",
+            "permasalahan": "Padat Penduduk, Penduduk usia anak yang banyak, Memiliki Pengunjung Anak Berkebutuhan Khusus",
+            "location": {
+                "latitude": -6.1801619,
+                "longitude": 106.9591
+            }
+        },
+        {
+            "id": 109,
+            "nama_rptra": "Anggrek",
+            "alamat": "Jl. H. Gandun, RT 07 RW 08, Kode Pos 12440",
+            "kelurahan": "Lebak Bulus",
+            "kecamatan": "Cilandak",
+            "luas": "1,000 ",
+            "waktu_peresmian": "2015-12-30",
+            "telepon": "081288880453",
+            "email": "anggrek.lebakbulus@gmail.com",
+            "fasilitas": "Lapangan Badminton, Amphitheater, Wifi / Internet, Toilet Dewasa, Toilet Disabilitas, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Mesin Air",
+            "permasalahan": "Padat Penduduk, Penduduk usia anak yang banyak, Memiliki Kasus Kekerasan terhadap Perempuan, Rawan Tawuran Warga/Pelajar/Pemuda",
+            "location": {
+                "latitude": -6.308145,
+                "longitude": 106.7867
+            }
+        },
+        {
+            "id": 110,
+            "nama_rptra": "Ciganjur Berseri",
+            "alamat": "Rumah Dinas Guru, Jl.Pasir, RT 01 RW 06, Kode Pos 12630",
+            "kelurahan": "Ciganjur",
+            "kecamatan": "Jagakarsa",
+            "luas": "2,800 ",
+            "waktu_peresmian": "2016-01-20",
+            "telepon": "08588160020",
+            "email": "rptraciganjur12@gmail.com",
+            "fasilitas": "Lapangan Futsal, Mading / Papan Informasi, Amphitheater, Wifi / Internet, Toilet Dewasa, Toilet Disabilitas, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Kursi taman, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air, toilet dewasa, anak, laki perempuan di campur",
+            "permasalahan": "Padat Penduduk",
+            "location": {
+                "latitude": -6.336565,
+                "longitude": 106.8048
+            }
+        },
+        {
+            "id": 111,
+            "nama_rptra": "Saharjo Mentas",
+            "alamat": "Jl. DR. Sahardjo N0. 121, RT 01 RW 08, Kode Pos 12960",
+            "kelurahan": "Menteng Atas",
+            "kecamatan": "Setiabudi",
+            "luas": "700 ",
+            "waktu_peresmian": "2016-02-10",
+            "telepon": "081319826667",
+            "email": "rptrasahardjomentas@gmail.com",
+            "fasilitas": "Lapangan Futsal, Lapangan Badminton, Amphitheater, Wifi / Internet, Toilet Dewasa, Toilet Disabilitas, Toilet Anak, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Pagar, Pintu gerbang, CCTV, Prasasti RPTRA, Thoren air, Mesin Air",
+            "permasalahan": "Rawan Tawuran Warga/Pelajar/Pemuda",
+            "location": {
+                "latitude": -6.219092,
+                "longitude": 106.8453
+            }
+        },
+        {
+            "id": 112,
+            "nama_rptra": "Pinang Pola",
+            "alamat": "Jalan Pinang 2, RT 04 RW 08, Kode Pos 12450",
+            "kelurahan": "Pondok Labu",
+            "kecamatan": "Cilandak",
+            "luas": "857 ",
+            "waktu_peresmian": "2016-03-08",
+            "telepon": "081212101770",
+            "email": "rptra.pinangpola@gmail.com",
+            "fasilitas": "Lapangan Badminton, Mading / Papan Informasi, Amphitheater, Toilet Dewasa, Toilet Disabilitas, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air, Lampu taman",
+            "permasalahan": "Padat Penduduk, Penduduk usia anak yang banyak",
+            "location": {
+                "latitude": -6.309909,
+                "longitude": 106.7986
+            }
+        },
+        {
+            "id": 113,
+            "nama_rptra": "Taman Sawo",
+            "alamat": "Jl. Villa Sawo, RT 05 RW 02, Kode Pos 12150",
+            "kelurahan": "Cipete Utara",
+            "kecamatan": "Kebayoran Baru",
+            "luas": "1,108 ",
+            "waktu_peresmian": "2016-04-26",
+            "telepon": "085773804581",
+            "email": "rptratamansawo@gmail.com",
+            "fasilitas": "",
+            "permasalahan": "",
+            "location": {
+                "latitude": -6.260959,
+                "longitude": 106.7981
+            }
+        },
+        {
+            "id": 114,
+            "nama_rptra": "Rasamala",
+            "alamat": "Jl. Rasamala III, RT 03 RW 013, Kode Pos 12870",
+            "kelurahan": "Menteng Dalam",
+            "kecamatan": "Tebet",
+            "luas": "1,588 ",
+            "waktu_peresmian": "2016-04-29",
+            "telepon": "085921854656",
+            "email": "rptra.rasamala.alamsutera@gmail.com",
+            "fasilitas": "Lapangan Futsal, Lapangan Badminton, Mading / Papan Informasi, Wifi / Internet, Toilet Dewasa, Toilet Disabilitas, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Kursi taman, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air, Bak Pemilah sampah (Komposting)",
+            "permasalahan": "Padat Penduduk, Kumuh/Miskin, Penduduk usia anak yang banyak, Memiliki Pengunjung Anak Berkebutuhan Khusus, Memiliki Anak usia sekolah yang tidak sekolah, Memiliki anak bergizi buruk, Memiliki Lansia yang tidak diurus Keluarga, Memiliki Kasus Kekerasan terhadap Anak, Rawan Tawuran Warga/Pelajar/Pemuda",
+            "location": {
+                "latitude": -6.234572,
+                "longitude": 106.8376
+            }
+        },
+        {
+            "id": 115,
+            "nama_rptra": "Permai",
+            "alamat": "Jln.Permai III, RT 02 RW 09, Kode Pos 12330",
+            "kelurahan": "Bintaro",
+            "kecamatan": "Pesanggrahan",
+            "luas": "2,030 ",
+            "waktu_peresmian": "2016-04-29",
+            "telepon": "087878774532",
+            "email": "rptrapermai09@gmail.com",
+            "fasilitas": "Mading / Papan Informasi, Wifi / Internet, Toilet Dewasa, Toilet Disabilitas, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Kursi taman, Pagar, Pintu gerbang, CCTV, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air",
+            "permasalahan": "Kumuh/Miskin, Penduduk usia anak yang banyak",
+            "location": {
+                "latitude": -6.25882,
+                "longitude": 106.7597
+            }
+        },
+        {
+            "id": 116,
+            "nama_rptra": "Anggrek Bintaro",
+            "alamat": "Bintaro permai III, RT 02 RW 09, Kode Pos 12330",
+            "kelurahan": "Bintaro",
+            "kecamatan": "Pesanggrahan",
+            "luas": "6,500 ",
+            "waktu_peresmian": "2016-05-17",
+            "telepon": "081381264461",
+            "email": "rptraanggrek@gmail.com",
+            "fasilitas": "",
+            "permasalahan": "",
+            "location": {
+                "latitude": -6.264405,
+                "longitude": 106.7698
+            }
+        },
+        {
+            "id": 117,
+            "nama_rptra": "Bhinneka",
+            "alamat": "Jl. Swadarma Raya, RT 06 RW 04, Kode Pos 12260",
+            "kelurahan": "Petukangan Utara",
+            "kecamatan": "Pesanggarahan",
+            "luas": "980 ",
+            "waktu_peresmian": "2016-05-19",
+            "telepon": "083808434020",
+            "email": "rptrabhinneka@gmail.com",
+            "fasilitas": "Lapangan Futsal, Amphitheater, Toilet Dewasa, Toilet Disabilitas, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Thoren air, Selang Panjang, Mesin Air",
+            "permasalahan": "Padat Penduduk",
+            "location": {
+                "latitude": -6.23642,
+                "longitude": 106.7591
+            }
+        },
+        {
+            "id": 118,
+            "nama_rptra": "Kecapi",
+            "alamat": "Jl. Kebagusan 4 RT 011 RW 04, Kode Pos 12520",
+            "kelurahan": "Kebagusan",
+            "kecamatan": "Pasar Minggu",
+            "luas": "2,416 ",
+            "waktu_peresmian": "2016-05-31",
+            "telepon": "082298911874",
+            "email": "rptrakecapi137@gmail.com",
+            "fasilitas": "Lapangan Badminton, Mading / Papan Informasi, Amphitheater, Toilet Dewasa, Toilet Disabilitas, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air",
+            "permasalahan": "Padat Penduduk, Kumuh/Miskin, Penduduk usia anak yang banyak, Memiliki Pengunjung Anak Berkebutuhan Khusus",
+            "location": {
+                "latitude": -6.313944,
+                "longitude": 106.8303
+            }
+        },
+        {
+            "id": 119,
+            "nama_rptra": "Puspita",
+            "alamat": "Jl. H.Gari, RT 01 RW 03, Kode Pos 12320",
+            "kelurahan": "Pesanggrahan",
+            "kecamatan": "Pesanggrahan",
+            "luas": "2,238 ",
+            "waktu_peresmian": "2016-10-13",
+            "telepon": "089635556116",
+            "email": "rptrapuspita@gmail.com",
+            "fasilitas": "Lapangan Futsal, Lapangan Basket, Lapangan Badminton, Amphitheater, Wifi / Internet, Toilet Dewasa, Toilet Disabilitas, Toilet Anak, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air",
+            "permasalahan": "Padat Penduduk, Penduduk usia anak yang banyak, Memiliki Anak usia sekolah yang tidak sekolah, Memiliki Kasus Kekerasan terhadap Anak",
+            "location": {
+                "latitude": -6.253701,
+                "longitude": 106.7597
+            }
+        },
+        {
+            "id": 120,
+            "nama_rptra": "Mawar",
+            "alamat": "Jl. Mawar Indah RT 08 RW 02, Kode Pos 12440",
+            "kelurahan": "Lebak Bulus",
+            "kecamatan": "Cilandak",
+            "luas": "700 ",
+            "waktu_peresmian": "2016-10-13",
+            "telepon": "081286594648",
+            "email": "rptramawar.lebakbulusjs@gmail.com",
+            "fasilitas": "",
+            "permasalahan": "",
+            "location": {
+                "latitude": -6.297346,
+                "longitude": 106.7703
+            }
+        },
+        {
+            "id": 121,
+            "nama_rptra": "Akasia",
+            "alamat": "Tebet Barat Raya Trijaya 3, Rt 011, Rw 07",
+            "kelurahan": "Tebet Barat",
+            "kecamatan": "Tebet",
+            "luas": "2,310 ",
+            "waktu_peresmian": "2016-10-20",
+            "telepon": "081932973010",
+            "email": "rptraakasia@gmail.com",
+            "fasilitas": "Lapangan Futsal, Mading / Papan Informasi, Amphitheater, Wifi / Internet, Toilet Dewasa, Toilet Disabilitas, Toilet Anak, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Kursi taman, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air, Bak Pemilah sampah (Komposting), Gazebo",
+            "permasalahan": "Padat Penduduk, Penduduk usia anak yang banyak, Memiliki Pengunjung Anak Berkebutuhan Khusus",
+            "location": {
+                "latitude": -6.233031,
+                "longitude": 106.851
+            }
+        },
+        {
+            "id": 122,
+            "nama_rptra": "Manunggal",
+            "alamat": "Jl. Inpres, RT 04 RW 02, Kode Pos 12270",
+            "kelurahan": "Petukangan Selatan",
+            "kecamatan": "Pesanggrahan",
+            "luas": "2,400 ",
+            "waktu_peresmian": "2016-10-20",
+            "telepon": "081519331926",
+            "email": "manunggalpetukanganselatan@gmail.com",
+            "fasilitas": "Lapangan Futsal, Lapangan Badminton, Mading / Papan Informasi, Wifi / Internet, Toilet Dewasa, Toilet Disabilitas, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Kursi taman, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Mesin Air, Gazebo",
+            "permasalahan": "Padat Penduduk",
+            "location": {
+                "latitude": -6.243992,
+                "longitude": 106.7481
+            }
+        },
+        {
+            "id": 123,
+            "nama_rptra": "Baung",
+            "alamat": "Jl. Baung III RT 005/02",
+            "kelurahan": "Kebagusan",
+            "kecamatan": "Pasar Mingggu",
+            "luas": "1,900 ",
+            "waktu_peresmian": "2017-02-24",
+            "telepon": "08111886217",
+            "email": "rptrabaung@gmail.com",
+            "fasilitas": "Lapangan Futsal, Lapangan Basket, Lapangan Badminton, Mading / Papan Informasi, Amphitheater, Wifi / Internet, Toilet Disabilitas, Toilet Anak, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Kursi taman, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air",
+            "permasalahan": "Padat Penduduk",
+            "location": {
+                "latitude": -6.30545,
+                "longitude": 106.8361
+            }
+        },
+        {
+            "id": 124,
+            "nama_rptra": "Bagus",
+            "alamat": "Gg. H. Mansyur RT.07/07 ",
+            "kelurahan": "Kebagusan ",
+            "kecamatan": "Pasar Minggu",
+            "luas": "2,634 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "081382016886",
+            "email": "rptraggmansyur@gmail.com",
+            "fasilitas": "Lapangan Futsal, Mading / Papan Informasi, Amphitheater, Toilet Dewasa, Toilet Disabilitas, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Pagar, Pintu gerbang, CCTV, Prasasti RPTRA, Thoren air, Mesin Air, Bak Pemilah sampah (Komposting)",
+            "permasalahan": "Padat Penduduk",
+            "location": {
+                "latitude": -6.304102,
+                "longitude": 106.8287
+            }
+        },
+        {
+            "id": 125,
+            "nama_rptra": "Bango Krukut Pola",
+            "alamat": "Jl. Bango 4 RT 09/03 ",
+            "kelurahan": "Pondok Labu ",
+            "kecamatan": "Cilandak",
+            "luas": "4,081 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "085714171614",
+            "email": "rptra.bangopola@gmail.com",
+            "fasilitas": "Lapangan Futsal, Amphitheater, Toilet Dewasa, Toilet Anak, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Pagar, Pintu gerbang, CCTV, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air, Bak Pemilah sampah (Komposting)",
+            "permasalahan": "Padat Penduduk",
+            "location": {
+                "latitude": -6.304348,
+                "longitude": 106.8076
+            }
+        },
+        {
+            "id": 126,
+            "nama_rptra": "Belimbing",
+            "alamat": "Jl. Masjid Al Falah RT.05/02 ",
+            "kelurahan": "Pasar Minggu ",
+            "kecamatan": "Pasar Minggu",
+            "luas": "1,000 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "085882202150",
+            "email": "rptra.belimbing134@gmail.com",
+            "fasilitas": "Lapangan Futsal, Lapangan Basket, Mading / Papan Informasi, Amphitheater, Toilet Dewasa, Toilet Disabilitas, Toilet Anak, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air",
+            "permasalahan": "Padat Penduduk, Kumuh/Miskin, Penduduk usia anak yang banyak",
+            "location": {
+                "latitude": -6.281761,
+                "longitude": 106.8401
+            }
+        },
+        {
+            "id": 127,
+            "nama_rptra": "Cendekia",
+            "alamat": "Jl. Panjang RT.06/04 ",
+            "kelurahan": "Cipedak ",
+            "kecamatan": "Jagakarsa",
+            "luas": "10,299 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "08567549300",
+            "email": "rptracendekia141@gmail.com",
+            "fasilitas": "Lapangan Basket, Amphitheater, Toilet Dewasa, Toilet Disabilitas, Toilet Anak, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi penggunaan alat permainan, Informasi tentang kawasan bebas rokok, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Mesin Air",
+            "permasalahan": "Penduduk usia anak yang banyak",
+            "location": {
+                "latitude": -6.348321,
+                "longitude": 106.8034
+            }
+        },
+        {
+            "id": 128,
+            "nama_rptra": "Flamboyan",
+            "alamat": "Jl. Flamboyan Raya RT.11/010 ",
+            "kelurahan": "Menteng Dalam ",
+            "kecamatan": "Tebet",
+            "luas": "1,928 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "087884545200",
+            "email": "rptraflamboyan147@gmail.com",
+            "fasilitas": "Lapangan Badminton, Toilet Dewasa, Toilet Disabilitas, Toilet Anak, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air",
+            "permasalahan": "Padat Penduduk, Penduduk usia anak yang banyak, Memiliki Anak usia sekolah yang tidak sekolah, Rawan Tawuran Warga/Pelajar/Pemuda",
+            "location": {
+                "latitude": -6.228349,
+                "longitude": 106.8403
+            }
+        },
+        {
+            "id": 129,
+            "nama_rptra": "Kemandoran",
+            "alamat": "Gg. Sarmili  Jl. Kemandoran 8 RT.05/011 ",
+            "kelurahan": "Grogol Utara ",
+            "kecamatan": "Kebayoran lama",
+            "luas": "2,136 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "082110647275",
+            "email": "144.rptra.kemandoran8@gmail.com",
+            "fasilitas": "Lapangan Futsal, Lapangan Badminton, Mading / Papan Informasi, Amphitheater, Toilet Dewasa, Toilet Disabilitas, Toilet Anak, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Mesin Air",
+            "permasalahan": "Padat Penduduk, Penduduk usia anak yang banyak, Memiliki Anak usia sekolah yang tidak sekolah",
+            "location": {
+                "latitude": -6.2135157,
+                "longitude": 106.7873
+            }
+        },
+        {
+            "id": 130,
+            "nama_rptra": "Kampung Perigi",
+            "alamat": "Jl. Nimun Raya Gg Wakaf RT 007/10 ",
+            "kelurahan": "Kebayoran Lama Selatan",
+            "kecamatan": "Kebayoran lama",
+            "luas": "900 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "08131751502",
+            "email": "rptrakp.perigi@gmail.com",
+            "fasilitas": "",
+            "permasalahan": "",
+            "location": {
+                "latitude": -6.1529,
+                "longitude": 106.4622
+            }
+        },
+        {
+            "id": 131,
+            "nama_rptra": "Malinjo",
+            "alamat": "Eks Gedung SDN 04 Jl. Melinjo Pejaten Barat ",
+            "kelurahan": "Pejaten Barat ",
+            "kecamatan": "Pasar Minggu",
+            "luas": "1,512 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "089656571278",
+            "email": "rptra.pejatenbarat@gmail.com",
+            "fasilitas": "Lapangan Futsal, Mading / Papan Informasi, Toilet Dewasa, Toilet Disabilitas, Tempat Sampah terpilah, Informasi penggunaan alat permainan, Informasi tentang kawasan bebas rokok, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air",
+            "permasalahan": "Penduduk usia anak yang banyak",
+            "location": {
+                "latitude": -6.279019,
+                "longitude": 106.8372
+            }
+        },
+        {
+            "id": 132,
+            "nama_rptra": "Muawwanah",
+            "alamat": "Jl. Masjid Al Muawanah GG Komplek Guru RT 008/07 ",
+            "kelurahan": "Srengseh Sawah ",
+            "kecamatan": "Jagakarsa",
+            "luas": "1,000 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "081318281535",
+            "email": "rptramuawwanah150@gmail.com",
+            "fasilitas": "Mading / Papan Informasi, Amphitheater, Toilet Dewasa, Toilet Disabilitas, Toilet Anak, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi penggunaan alat permainan, Informasi tentang kawasan bebas rokok, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Mesin Air",
+            "permasalahan": "Kurangnya lahan bermain untuk anak dan kurangnya perhatian orang tua terhadap anaknya karena sering bermain di RPTRA tanpa di cemaskan oleh orang tua anak tersebut",
+            "location": {
+                "latitude": -6.355791,
+                "longitude": 106.8187
+            }
+        },
+        {
+            "id": 133,
+            "nama_rptra": "Nusantara",
+            "alamat": "Jl. Inspeksi Kali Pesanggrahan RT 004/07 ",
+            "kelurahan": "Ulujami ",
+            "kecamatan": "Pesanggrahan",
+            "luas": "1,632 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "081382318573",
+            "email": "rptranusantara132@gmail.com",
+            "fasilitas": "",
+            "permasalahan": "",
+            "location": {
+                "latitude": -6.246761,
+                "longitude": 106.7681
+            }
+        },
+        {
+            "id": 134,
+            "nama_rptra": "Pinang indah",
+            "alamat": "Jl. H. Muhi RT.06/04 ",
+            "kelurahan": "Pondok Pinang ",
+            "kecamatan": "Kebayoran lama",
+            "luas": "2,078 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "082213644247",
+            "email": "rptra.pinangindah@gmail.com",
+            "fasilitas": "Lapangan Futsal, Lapangan Basket, Mading / Papan Informasi, Amphitheater, Wifi / Internet, Toilet Dewasa, Toilet Disabilitas, Toilet Anak, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi penggunaan alat permainan, Informasi tentang kawasan bebas rokok, Kursi taman, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air",
+            "permasalahan": "Padat Penduduk",
+            "location": {
+                "latitude": -6.26625,
+                "longitude": 106.7718
+            }
+        },
+        {
+            "id": 135,
+            "nama_rptra": "Pola Idaman",
+            "alamat": "Jl. H.Kamang Bawah RT 02/10 ",
+            "kelurahan": "Pondok Labu ",
+            "kecamatan": "Cilandak",
+            "luas": "10,164 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "08129151321",
+            "email": "rptra.polaidaman@gmail.com",
+            "fasilitas": "Lapangan Futsal, Lapangan Badminton, Mading / Papan Informasi, Amphitheater, Toilet Dewasa, Toilet Disabilitas, Toilet Anak, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi penggunaan alat permainan, Informasi tentang kawasan bebas rokok, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air",
+            "permasalahan": "Padat Penduduk, Kumuh/Miskin, Penduduk usia anak yang banyak, Memiliki Pengunjung Anak Berkebutuhan Khusus, Rawan Tawuran Warga/Pelajar/Pemuda",
+            "location": {
+                "latitude": -6.308625,
+                "longitude": 106.7889
+            }
+        },
+        {
+            "id": 136,
+            "nama_rptra": "Ramli",
+            "alamat": "Taman Interaksi Sosial  Jl. Kapt. Tendean Gg. Jati RT.014/01 ",
+            "kelurahan": "Mampang Prapatan ",
+            "kecamatan": "Mampang prapatan",
+            "luas": "864 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "083812839611",
+            "email": "rptramp.prapatan151@gmail.com",
+            "fasilitas": "Lapangan Badminton, Mading / Papan Informasi, Amphitheater, Toilet Dewasa, Toilet Disabilitas, Toilet Anak, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air",
+            "permasalahan": "Padat Penduduk, Kumuh/Miskin, Penduduk usia anak yang banyak, Memiliki Pengunjung Anak Berkebutuhan Khusus, Memiliki Anak usia sekolah yang tidak sekolah, Rawan Tawuran Warga/Pelajar/Pemuda",
+            "location": {
+                "latitude": -6.241863,
+                "longitude": 106.8229
+            }
+        },
+        {
+            "id": 137,
+            "nama_rptra": "Seruni",
+            "alamat": "Jl. Saibun RTV 008/09 ",
+            "kelurahan": "Jatipadang ",
+            "kecamatan": "Pasar Minggu",
+            "luas": "1,069 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "087875951518",
+            "email": "rptra.terataimerah136@gmail.com",
+            "fasilitas": "Lapangan Futsal, Mading / Papan Informasi, Toilet Dewasa, Toilet Disabilitas, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Pagar, Pintu gerbang, CCTV, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air",
+            "permasalahan": "Padat Penduduk, Kumuh/Miskin, Penduduk usia anak yang banyak, Memiliki Pengunjung Anak Berkebutuhan Khusus, Memiliki Anak usia sekolah yang tidak sekolah",
+            "location": {
+                "latitude": -6.289393,
+                "longitude": 106.8322
+            }
+        },
+        {
+            "id": 138,
+            "nama_rptra": "Shibi",
+            "alamat": "Eks rumah dinas guru Jl. H. Shibi 4 RT.013/02 ",
+            "kelurahan": "Srengseng Sawah ",
+            "kecamatan": "Jagakarsa",
+            "luas": "3,621 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "081315239913",
+            "email": "rptra.shibi139@gmail.com",
+            "fasilitas": "Lapangan Badminton, Mading / Papan Informasi, Amphitheater, Toilet Dewasa, Toilet Disabilitas, Toilet Anak, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air",
+            "permasalahan": "Padat Penduduk, Penduduk usia anak yang banyak, Memiliki Pengunjung Anak Berkebutuhan Khusus, Memiliki Anak usia sekolah yang tidak sekolah",
+            "location": {
+                "latitude": -6.350044,
+                "longitude": 106.8346
+            }
+        },
+        {
+            "id": 139,
+            "nama_rptra": "Taman Batu",
+            "alamat": "Jl. Batu Raya RT.07/07 Kel. Menteng Atas Kec. Setiabudi",
+            "kelurahan": "Menteng Atas ",
+            "kecamatan": "Setiabudi",
+            "luas": "563 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "083894988558",
+            "email": "rptra149.baturaya@gmail.com",
+            "fasilitas": "",
+            "permasalahan": "",
+            "location": {
+                "latitude": -6.216165,
+                "longitude": 106.843
+            }
+        },
+        {
+            "id": 140,
+            "nama_rptra": "Taman Gajah",
+            "alamat": "Jl. Cipete Raya RT.07/03 ",
+            "kelurahan": "Cipete Selatan ",
+            "kecamatan": "Cilandak",
+            "luas": "291 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "087881874348",
+            "email": "rptratamangajah@gmail.com",
+            "fasilitas": "Lapangan Badminton, Mading / Papan Informasi, Amphitheater, Toilet Dewasa, Toilet Disabilitas, Toilet Anak, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air",
+            "permasalahan": "Padat Penduduk, Penduduk usia anak yang banyak, Memiliki Pengunjung Anak Berkebutuhan Khusus, Memiliki Anak usia sekolah yang tidak sekolah, Memiliki Lansia yang tidak diurus Keluarga, Rawan Tawuran Warga/Pelajar/Pemuda, Di sekitar RPTRA (di luar pagar RPTRA) banyak anak remaja berpacaran di luar jam operasional RPTRA",
+            "location": {
+                "latitude": -6.277434,
+                "longitude": 106.7996
+            }
+        },
+        {
+            "id": 141,
+            "nama_rptra": "Taman Jangkrik",
+            "alamat": "Jl. Jangkrik RT.06/05 ",
+            "kelurahan": "Ciganjur ",
+            "kecamatan": "Jagakarsa",
+            "luas": "4,480 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "08998090842",
+            "email": "rptra.jangkrik@gmail.com",
+            "fasilitas": "Lapangan Badminton, Mading / Papan Informasi, Amphitheater, Toilet Dewasa, Toilet Disabilitas, Toilet Anak, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Mesin Air",
+            "permasalahan": "Penduduk usia anak yang banyak, minimnya kesadaran pemeliharaan Fasum",
+            "location": {
+                "latitude": -6.341008,
+                "longitude": 106.807
+            }
+        },
+        {
+            "id": 142,
+            "nama_rptra": "Taman Lenteng Agung",
+            "alamat": "Jl. Lenteng Agung RT.011/02 ",
+            "kelurahan": "Lenteng Agung ",
+            "kecamatan": "Jagakarsa",
+            "luas": "2,325 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "08892368782",
+            "email": "rptra143.tamanlentengagung@gmail.com",
+            "fasilitas": "Lapangan Futsal, Lapangan Badminton, Mading / Papan Informasi, Amphitheater, Toilet Dewasa, Toilet Disabilitas, Toilet Anak, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air",
+            "permasalahan": "Padat Penduduk, Penduduk usia anak yang banyak, Memiliki Pengunjung Anak Berkebutuhan Khusus, Memiliki Anak usia sekolah yang tidak sekolah, Rawan Tawuran Warga/Pelajar/Pemuda",
+            "location": {
+                "latitude": -6.303216,
+                "longitude": 106.8361
+            }
+        },
+        {
+            "id": 143,
+            "nama_rptra": "Taman Matoa",
+            "alamat": "Jl. H. Masmun RT.09/07 ",
+            "kelurahan": "Jagakarsa ",
+            "kecamatan": "Jagakarsa",
+            "luas": "1,847 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "081284902108",
+            "email": "rptramatoa142@gmail.com",
+            "fasilitas": "Lapangan Badminton, Amphitheater, Toilet Dewasa, Toilet Disabilitas, Toilet Anak, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air",
+            "permasalahan": "Padat Penduduk, Kumuh/Miskin, Penduduk usia anak yang banyak, Memiliki Pengunjung Anak Berkebutuhan Khusus, Memiliki Anak usia sekolah yang tidak sekolah, Rawan Tawuran Warga/Pelajar/Pemuda",
+            "location": {
+                "latitude": -6.329218,
+                "longitude": 106.8231
+            }
+        },
+        {
+            "id": 144,
+            "nama_rptra": "Teratai",
+            "alamat": "Jl. Tebet Timur Raya RT.010/10 ",
+            "kelurahan": "Tebet Timur ",
+            "kecamatan": "Tebet",
+            "luas": "1,741 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "082122827982",
+            "email": "rptratetira@gmail.com",
+            "fasilitas": "Lapangan Futsal, Mading / Papan Informasi, Amphitheater, Toilet Dewasa, Toilet Disabilitas, Toilet Anak, Keran Cuci Tangan ramah anak, Pagar, Pintu gerbang, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Mesin Air",
+            "permasalahan": "Padat Penduduk, Kumuh/Miskin, Penduduk usia anak yang banyak, Memiliki Pengunjung Anak Berkebutuhan Khusus, Memiliki Anak usia sekolah yang tidak sekolah",
+            "location": {
+                "latitude": -6.238084,
+                "longitude": 106.8524
+            }
+        },
+        {
+            "id": 145,
+            "nama_rptra": "Gria Tipar",
+            "alamat": "Rusun gria tipar cakung, RT 010 RW 010, Kode Pos 13910",
+            "kelurahan": "Cakung Barat",
+            "kecamatan": "Cakung",
+            "luas": "2,500 ",
+            "waktu_peresmian": "2016-04-21",
+            "telepon": "082232975405",
+            "email": "rptracakbar13910@gmail.com",
+            "fasilitas": "Lapangan Futsal, Mading / Papan Informasi, Amphitheater, Toilet Dewasa, Toilet Disabilitas, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Kursi taman, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air",
+            "permasalahan": "Padat Penduduk, Penduduk usia anak yang banyak, Memiliki Anak usia sekolah yang tidak sekolah, Memiliki Kasus Kekerasan terhadap Perempuan, Memiliki Kasus Kekerasan terhadap Anak",
+            "location": {
+                "latitude": -6.171049,
+                "longitude": 106.9384
+            }
+        },
+        {
+            "id": 146,
+            "nama_rptra": "Dahlia",
+            "alamat": "Jl. Generasi, RT 06 RW 03, Kode Pos 13540",
+            "kelurahan": "Tengah",
+            "kecamatan": "Kramat Jati",
+            "luas": "3,219 ",
+            "waktu_peresmian": "2016-06-15",
+            "telepon": "0818775304",
+            "email": "dahliatengah@gmail.com",
+            "fasilitas": "Lapangan Futsal, Mading / Papan Informasi, Amphitheater, Wifi / Internet, Toilet Dewasa, Toilet Disabilitas, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi penggunaan alat permainan, Informasi tentang kawasan bebas rokok, Kursi taman, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air",
+            "permasalahan": "Padat Penduduk, Kumuh/Miskin, Penduduk usia anak yang banyak, Memiliki Pengunjung Anak Berkebutuhan Khusus, Memiliki Anak usia sekolah yang tidak sekolah, Rawan Tawuran Warga/Pelajar/Pemuda",
+            "location": {
+                "latitude": -6.194554,
+                "longitude": 106.8677
+            }
+        },
+        {
+            "id": 147,
+            "nama_rptra": "Ikapola",
+            "alamat": "Jl Pondok Kelapa Raya RT 01 RW 04, Kode Pos 13450",
+            "kelurahan": "Pondok Kelapa",
+            "kecamatan": "Duren Sawit",
+            "luas": "1,419 ",
+            "waktu_peresmian": "2016-10-20",
+            "telepon": "081284481915",
+            "email": "rptraikapola@gmail.com",
+            "fasilitas": "Lapangan Futsal, Lapangan Badminton, Mading / Papan Informasi, Wifi / Internet, Toilet Dewasa, Toilet Disabilitas, Toilet Anak, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air",
+            "permasalahan": "Penduduk usia anak yang banyak",
+            "location": {
+                "latitude": -6.247054,
+                "longitude": 106.935
+            }
+        },
+        {
+            "id": 148,
+            "nama_rptra": "Kebon Pala Berseri",
+            "alamat": "Jl. Kamboja, RT 010 RW 01, Kode Pos 13650",
+            "kelurahan": "Kebon Pala",
+            "kecamatan": "Makasar",
+            "luas": "4,609 ",
+            "waktu_peresmian": "2016-01-28",
+            "telepon": "081382477681",
+            "email": "rptrakebonpalaberseri@gmail.com",
+            "fasilitas": "Lapangan Futsal, Amphitheater, Wifi / Internet, Toilet Dewasa, Toilet Disabilitas, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Kursi taman, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Sarana menyiram tanaman otomatis, Thoren air, Selang Panjang, Mesin Air",
+            "permasalahan": "Penduduk usia anak yang banyak",
+            "location": {
+                "latitude": -6.262829,
+                "longitude": 106.8809
+            }
+        },
+        {
+            "id": 149,
+            "nama_rptra": "Cililitan",
+            "alamat": "Jl. Buluh, RT 010 RW 016, Kode Pos 13640",
+            "kelurahan": "Cililitan",
+            "kecamatan": "Kramat Jati",
+            "luas": "2,642 ",
+            "waktu_peresmian": "2015-10-22",
+            "telepon": "087878704853",
+            "email": "rptracililitan@gmail.com",
+            "fasilitas": "Lapangan Futsal, Amphitheater, Wifi / Internet, Toilet Dewasa, Toilet Disabilitas, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Kursi taman, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air, Gazebo",
+            "permasalahan": "Padat Penduduk, Penduduk usia anak yang banyak",
+            "location": {
+                "latitude": -6.266019,
+                "longitude": 106.8564
+            }
+        },
+        {
+            "id": 150,
+            "nama_rptra": "Gebang Sari",
+            "alamat": "Jl. Gebangsari, RT 02/ RW 05, Kode Pos 13890",
+            "kelurahan": "Bambu Apus",
+            "kecamatan": "Cipayung",
+            "luas": "4,846 ",
+            "waktu_peresmian": "2016-10-20",
+            "telepon": "081294718611",
+            "email": "rptragebangsari16@gmail.com",
+            "fasilitas": "",
+            "permasalahan": "",
+            "location": {
+                "latitude": -6.349463,
+                "longitude": 106.9075
+            }
+        },
+        {
+            "id": 151,
+            "nama_rptra": "Cibesut",
+            "alamat": "Jl. Swadaya II, RT 06 RW 014, Kode Pos 13410",
+            "kelurahan": "Cipinang Besar Utara",
+            "kecamatan": "Jatinegara",
+            "luas": "2,500 ",
+            "waktu_peresmian": "2016-03-30",
+            "telepon": "087777366139",
+            "email": "rptracibesut@gmail.com",
+            "fasilitas": "",
+            "permasalahan": "",
+            "location": {
+                "latitude": -6.217325,
+                "longitude": 106.8822
+            }
+        },
+        {
+            "id": 152,
+            "nama_rptra": "Jatinegara",
+            "alamat": "Jl. Swadaya Rawa Buntu Kp. Pulo Jahe No.12A, RT 07 RW 014, Kode Pos 13930",
+            "kelurahan": "Jatinegara",
+            "kecamatan": "Cakung",
+            "luas": "1,094 ",
+            "waktu_peresmian": "2016-05-12",
+            "telepon": "085694669487",
+            "email": "rptrajatinegara@gmail.com",
+            "fasilitas": "Lapangan Futsal, Mading / Papan Informasi, Amphitheater, Wifi / Internet, Toilet Dewasa, Toilet Disabilitas, Informasi tentang kawasan bebas rokok, Kursi taman, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air",
+            "permasalahan": "Padat Penduduk, Penduduk usia anak yang banyak, Memiliki Pengunjung Anak Berkebutuhan Khusus",
+            "location": {
+                "latitude": -6.166142,
+                "longitude": 106.9169
+            }
+        },
+        {
+            "id": 153,
+            "nama_rptra": "Utakara Beriman",
+            "alamat": "Jl.Balai Rakyat no.11, RT 014 RW 06, Kode Pos 13120",
+            "kelurahan": "Utan Kayu Utara",
+            "kecamatan": "Matraman",
+            "luas": "2,394 ",
+            "waktu_peresmian": "2016-06-03",
+            "telepon": "085781637853",
+            "email": "rptrautakaraberiman@gmail.com",
+            "fasilitas": "Lapangan Futsal, Lapangan Badminton, Amphitheater, Wifi / Internet, Toilet Dewasa, Toilet Disabilitas, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Kursi taman, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Shelter sepeda yang terkunci, Thoren air, Selang Panjang, Mesin Air",
+            "permasalahan": "Padat Penduduk, Kumuh/Miskin, Penduduk usia anak yang banyak, Memiliki Anak usia sekolah yang tidak sekolah",
+            "location": {
+                "latitude": -6.195971,
+                "longitude": 106.8674
+            }
+        },
+        {
+            "id": 154,
+            "nama_rptra": "Penggilingan",
+            "alamat": "Perum Aneka Elok..Jl Rengas Elok I Blok A, RT 010 RW 09, Kode Pos 13940",
+            "kelurahan": "Penggilingan",
+            "kecamatan": "Cakung",
+            "luas": "1,675 ",
+            "waktu_peresmian": "2016-05-12",
+            "telepon": "083870170389",
+            "email": "rptrapenggilingan@gmail.com",
+            "fasilitas": "Lapangan Futsal, Lapangan Badminton, Amphitheater, Wifi / Internet, Toilet Dewasa, Toilet Disabilitas, Tempat Sampah terpilah, Informasi penggunaan alat permainan, Informasi tentang kawasan bebas rokok, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air",
+            "permasalahan": "Padat Penduduk, Penduduk usia anak yang banyak, Memiliki Pengunjung Anak Berkebutuhan Khusus",
+            "location": {
+                "latitude": -6.195793,
+                "longitude": 106.9403
+            }
+        },
+        {
+            "id": 155,
+            "nama_rptra": "Cipinang Besar Selatan",
+            "alamat": "Jl. Griya Wartawan, Rusunawa Cipinang Besar Selatan, Blok E, RT 19 RW 05, Lantai Dasar, Kode Pos 13410",
+            "kelurahan": "Cipinang Besar Selatan",
+            "kecamatan": "Jatinegara",
+            "luas": "3,451 ",
+            "waktu_peresmian": "2016-08-23",
+            "telepon": "087775920003",
+            "email": "rptracbs.bahagia@gmail.com",
+            "fasilitas": "Lapangan Futsal, Amphitheater, Wifi / Internet, Toilet Dewasa, Toilet Disabilitas, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Kursi taman, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Mesin Air",
+            "permasalahan": "Padat Penduduk, Kumuh/Miskin, Penduduk usia anak yang banyak, Memiliki Pengunjung Anak Berkebutuhan Khusus, Memiliki Anak usia sekolah yang tidak sekolah",
+            "location": {
+                "latitude": -6.231395,
+                "longitude": 106.8826
+            }
+        },
+        {
+            "id": 156,
+            "nama_rptra": "Pulogebang Indah",
+            "alamat": "Jl. Mutiara Raya Komplek Rusunawa Pulogebang, RT 013 RW 011, Kode Pos 13950",
+            "kelurahan": "Pulogebang",
+            "kecamatan": "Cakung",
+            "luas": "3,642 ",
+            "waktu_peresmian": "2015-12-23",
+            "telepon": "085213265335",
+            "email": "rptrapulogebang@gmail.com",
+            "fasilitas": "Lapangan Futsal, Amphitheater, Wifi / Internet, Toilet Dewasa, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Kursi taman, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang, Bak Pemilah sampah (Komposting)",
+            "permasalahan": "Padat Penduduk, Kumuh/Miskin, Penduduk usia anak yang banyak, Memiliki Pengunjung Anak Berkebutuhan Khusus, Memiliki Anak usia sekolah yang tidak sekolah, Memiliki anak bergizi buruk, Memiliki Lansia yang tidak diurus Keluarga, Memiliki Kasus Kekerasan terhadap Perempuan, Memiliki Kasus Kekerasan terhadap Anak",
+            "location": {
+                "latitude": -6.201293,
+                "longitude": 106.9502
+            }
+        },
+        {
+            "id": 157,
+            "nama_rptra": "Arabika",
+            "alamat": "Jl. Arabika III RT 012 RW 05",
+            "kelurahan": "Pondok Kopi",
+            "kecamatan": "Duren Sawit",
+            "luas": "1,480 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "081280834449",
+            "email": "rptraarabika@gmail.com",
+            "fasilitas": "Lapangan Badminton, Amphitheater, Wifi / Internet, Toilet Dewasa, Toilet Disabilitas, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Selang Panjang, Mesin Air",
+            "permasalahan": "Banyak pengangguran di depan RPTRA",
+            "location": {
+                "latitude": -6.230146,
+                "longitude": 106.9453
+            }
+        },
+        {
+            "id": 158,
+            "nama_rptra": "Bangsa",
+            "alamat": "Komplek PIK (Perkampungan Industri Kecil) Blok G.",
+            "kelurahan": "Penggilingan ",
+            "kecamatan": "Cakung",
+            "luas": "3,041 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "08567598498",
+            "email": "rptrapikpenggilingan@gmail.com",
+            "fasilitas": null,
+            "permasalahan": null,
+            "location": {
+                "latitude": -6.205172,
+                "longitude": 106.9306
+            }
+        },
+        {
+            "id": 159,
+            "nama_rptra": "Beringin Indah",
+            "alamat": "Jl. Rawamangun Muka Dalam RW 012",
+            "kelurahan": "Rawa Mangun ",
+            "kecamatan": "Pulo Gadung",
+            "luas": "1,746 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "083806103332",
+            "email": "beringin158@gmail.com",
+            "fasilitas": "Lapangan Badminton, Mading / Papan Informasi, Amphitheater, Toilet Dewasa, Toilet Disabilitas, Toilet Anak, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air",
+            "permasalahan": "Padat Penduduk, Kumuh/Miskin, Penduduk usia anak yang banyak, Rawan Tawuran Warga/Pelajar/Pemuda",
+            "location": {
+                "latitude": -6.198996,
+                "longitude": 106.8807
+            }
+        },
+        {
+            "id": 160,
+            "nama_rptra": "Cahaya Ujung Krawang",
+            "alamat": "Pulo gebang Kp Ujung Krawang RT 01/05",
+            "kelurahan": "Pulo gebang ",
+            "kecamatan": "Cakung",
+            "luas": "2,300 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "082122308485",
+            "email": "cahaya.uj2017@gmail.com",
+            "fasilitas": "Lapangan Futsal, Amphitheater, Toilet Dewasa, Toilet Disabilitas, Toilet Anak, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang",
+            "permasalahan": "Padat Penduduk, Kumuh/Miskin, Memiliki Anak usia sekolah yang tidak sekolah",
+            "location": {
+                "latitude": -6.20034,
+                "longitude": 106.941196
+            }
+        },
+        {
+            "id": 161,
+            "nama_rptra": "Ciracas Prima",
+            "alamat": "Jl. Centex Gg. Sopan RT 003 RW 010",
+            "kelurahan": "Ciracas ",
+            "kecamatan": "Ciracas",
+            "luas": "9,088 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "081289816090",
+            "email": "rptraciracasprima@gmail.com",
+            "fasilitas": "Lapangan Badminton, Mading / Papan Informasi, Amphitheater, Toilet Dewasa, Toilet Disabilitas, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air, Bak Pemilah sampah (Komposting)",
+            "permasalahan": "Padat Penduduk, Kumuh/Miskin, Penduduk usia anak yang banyak, Memiliki Anak usia sekolah yang tidak sekolah, Rawan Tawuran Warga/Pelajar/Pemuda",
+            "location": {
+                "latitude": -6.32947,
+                "longitude": 106.8757
+            }
+        },
+        {
+            "id": 162,
+            "nama_rptra": "Citra Permata",
+            "alamat": "Jl. Jatinegara Timur III",
+            "kelurahan": "Rawa Bunga ",
+            "kecamatan": "Jatinegara",
+            "luas": "4,222 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "081585222511",
+            "email": "rptrarawabunga@gmail.com",
+            "fasilitas": "Lapangan Futsal, Mading / Papan Informasi, Amphitheater, Wifi / Internet, Toilet Dewasa, Toilet Disabilitas, Toilet Anak, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi penggunaan alat permainan, Informasi tentang kawasan bebas rokok, Kursi taman, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air",
+            "permasalahan": "Padat Penduduk, Penduduk usia anak yang banyak, Memiliki Anak usia sekolah yang tidak sekolah, Rawan Tawuran Warga/Pelajar/Pemuda",
+            "location": {
+                "latitude": -6.220254,
+                "longitude": 106.8691
+            }
+        },
+        {
+            "id": 163,
+            "nama_rptra": "Condet",
+            "alamat": "Jl .Kinyang RT 012 RW 04",
+            "kelurahan": "Batu Ampar ",
+            "kecamatan": "Kramat Jati",
+            "luas": "2,804 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "085888294711",
+            "email": "rptramuaracondet153@gmail.com",
+            "fasilitas": "Lapangan Futsal, Mading / Papan Informasi, Amphitheater, Toilet Dewasa, Toilet Disabilitas, Toilet Anak, Keran Cuci Tangan ramah anak, Informasi tentang kawasan bebas rokok, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Mesin Air",
+            "permasalahan": "Padat Penduduk, Kumuh/Miskin, Penduduk usia anak yang banyak, Memiliki Pengunjung Anak Berkebutuhan Khusus",
+            "location": {
+                "latitude": -6.271493,
+                "longitude": 106.8593
+            }
+        },
+        {
+            "id": 164,
+            "nama_rptra": "DKI Berseri",
+            "alamat": "Jl. Kaveling DKI RT 013 RW 02",
+            "kelurahan": "Pondok Kelapa ",
+            "kecamatan": "Duren Sawit",
+            "luas": "2,127 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "081218000711",
+            "email": "rptra.dkiberseri@gmail.com",
+            "fasilitas": "Lapangan Badminton, Mading / Papan Informasi, Amphitheater, Wifi / Internet, Toilet Dewasa, Toilet Disabilitas, Toilet Anak, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air, Lapangan volley",
+            "permasalahan": "Padat Penduduk, Penduduk usia anak yang banyak, Memiliki Pengunjung Anak Berkebutuhan Khusus",
+            "location": {
+                "latitude": -6.239633,
+                "longitude": 106.9203
+            }
+        },
+        {
+            "id": 165,
+            "nama_rptra": "Gedong Trikora",
+            "alamat": "Jl. Trikora Raya  Gg.H. Nipah,  RT 003 RW 09",
+            "kelurahan": "Gedong ",
+            "kecamatan": "Pasar Rebo",
+            "luas": "2,048 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "087785384515",
+            "email": "rptragedongtrikora@gmail.com",
+            "fasilitas": "",
+            "permasalahan": "",
+            "location": {
+                "latitude": -6.302869,
+                "longitude": 106.8667
+            }
+        },
+        {
+            "id": 166,
+            "nama_rptra": "Jati Bersinar",
+            "alamat": "Jl. Ketang- ketang RW 07",
+            "kelurahan": "Jati",
+            "kecamatan": "Pulo Gadung",
+            "luas": "1,707 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "081236293823",
+            "email": "rptrajatibersinar@gmail.com",
+            "fasilitas": "Lapangan Basket, Lapangan Badminton, Amphitheater, Wifi / Internet, Toilet Dewasa, Toilet Disabilitas, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air",
+            "permasalahan": "Selama ini blm ada masalah yg besar",
+            "location": {
+                "latitude": -6.201396,
+                "longitude": 106.8947
+            }
+        },
+        {
+            "id": 167,
+            "nama_rptra": "Kaca Piring",
+            "alamat": "Jl. Lapan I RT 009 RW 01",
+            "kelurahan": "Pekayon ",
+            "kecamatan": "Pasar Rebo",
+            "luas": "1,160 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "087886661504",
+            "email": "rptra.kacapiring@gmail.com",
+            "fasilitas": "Amphitheater, Toilet Dewasa, Toilet Disabilitas, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Kursi taman, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Shelter sepeda yang terkunci, Thoren air, Selang Panjang, Mesin Air",
+            "permasalahan": "Padat Penduduk",
+            "location": {
+                "latitude": -6.341916,
+                "longitude": 106.8592
+            }
+        },
+        {
+            "id": 168,
+            "nama_rptra": "Kampung Pulo Asri",
+            "alamat": "Jl. Kampung Pulo Gg. Swadaya I RT. 03 RW 05",
+            "kelurahan": "Pinangranti",
+            "kecamatan": "Makasar",
+            "luas": "1,946 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "08978113235",
+            "email": "rptrakppuloasri@gmail.com",
+            "fasilitas": "Amphitheater, Wifi / Internet, Toilet Dewasa, Toilet Disabilitas, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air, Lapangan Volli",
+            "permasalahan": "Padat Penduduk",
+            "location": {
+                "latitude": -6.279358,
+                "longitude": 106.8832
+            }
+        },
+        {
+            "id": 169,
+            "nama_rptra": "Kenanga Berseri",
+            "alamat": "Jl. Perumahan Rukem Jaya RW 08",
+            "kelurahan": "Ujung Menteng ",
+            "kecamatan": "Cakung",
+            "luas": "4,761 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "087885758344",
+            "email": "rptra.kenangaberseri175@gmail.com",
+            "fasilitas": "Lapangan Futsal, Amphitheater, Wifi / Internet, Toilet Dewasa, Toilet Disabilitas, Toilet Anak, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air",
+            "permasalahan": "Padat Penduduk, Kumuh/Miskin, Penduduk usia anak yang banyak",
+            "location": {
+                "latitude": -6.179257,
+                "longitude": 106.9622
+            }
+        },
+        {
+            "id": 170,
+            "nama_rptra": "Kopi Gandaria",
+            "alamat": "Jl. Kopi RT 006 RW 03",
+            "kelurahan": "Pekayon ",
+            "kecamatan": "Pasar Rebo",
+            "luas": "7,434 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "081280224013",
+            "email": "kopigandaria03@gmail.com",
+            "fasilitas": "",
+            "permasalahan": "",
+            "location": {
+                "latitude": -6.348659,
+                "longitude": 106.8609
+            }
+        },
+        {
+            "id": 171,
+            "nama_rptra": "Malaka Sari",
+            "alamat": "JL. Delima VI Gg. 2 RT 001 RW 05",
+            "kelurahan": "Malaksari ",
+            "kecamatan": "Duren Sawit",
+            "luas": "1,906 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "08128191365",
+            "email": "rptra.malakasari@gmail.com",
+            "fasilitas": "Amphitheater, Wifi / Internet, Toilet Dewasa, Toilet Disabilitas, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Kursi taman, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air",
+            "permasalahan": "Padat Penduduk, Perokok dibawah umur",
+            "location": {
+                "latitude": -6.223892,
+                "longitude": 106.9262
+            }
+        },
+        {
+            "id": 172,
+            "nama_rptra": "Mustika",
+            "alamat": "Jl. Kerja Bakti Rt 02/10",
+            "kelurahan": "Kramat Jati",
+            "kecamatan": "Kramat Jati",
+            "luas": "11,000 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "087882766551",
+            "email": "rptrakramatjati@gmail.com",
+            "fasilitas": "Lapangan Futsal, Mading / Papan Informasi, Amphitheater, Toilet Dewasa, Toilet Disabilitas, Toilet Anak, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air",
+            "permasalahan": "Padat Penduduk, Kumuh/Miskin, Penduduk usia anak yang banyak, Memiliki Anak usia sekolah yang tidak sekolah, Rawan Tawuran Warga/Pelajar/Pemuda",
+            "location": {
+                "latitude": -6.275738,
+                "longitude": 106.875443
+            }
+        },
+        {
+            "id": 173,
+            "nama_rptra": "Payung Tunas Teratai",
+            "alamat": "Jl. Budi Murni  RT 06 RW 03",
+            "kelurahan": "Cipayung",
+            "kecamatan": "Cipayung",
+            "luas": "1,600 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "089613960553",
+            "email": "rptrapayungtunasteratai@gmail.com",
+            "fasilitas": "Lapangan Futsal, Lapangan Basket, Amphitheater, Toilet Dewasa, Toilet Disabilitas, Toilet Anak, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Kursi taman, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air, Kami menggunakan papan nama rptra sebagai papan informasi dan papan whiteboard sebagai mading n papan info permainan dan kegiatan,Thoren air otomatisnya rusak,",
+            "permasalahan": "Padat Penduduk, Kumuh/Miskin, Penduduk usia anak yang banyak, Memiliki Pengunjung Anak Berkebutuhan Khusus, Memiliki Anak usia sekolah yang tidak sekolah, Memiliki anak bergizi buruk, Memiliki Kasus Kekerasan terhadap Perempuan, Memiliki Kasus Kekerasan terhadap Anak, Rawan Tawuran Warga/Pelajar/Pemuda, Rawan pencurian yg dilakukan remaja, PerSelisihan anak dan warga krn agama, banyak anak muda nongrong di wilayah Sekitar rptra belum terangkul",
+            "location": {
+                "latitude": -6.330955,
+                "longitude": 106.895552
+            }
+        },
+        {
+            "id": 174,
+            "nama_rptra": "Permata Intan",
+            "alamat": "Taman Berlian  Jl. Berlian RW 011 ",
+            "kelurahan": "Bidara Cina ",
+            "kecamatan": "Jatinegara",
+            "luas": "955 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "087877465553",
+            "email": "rptra170.permataintan@gmail.com",
+            "fasilitas": "Lapangan Badminton, Mading / Papan Informasi, Amphitheater, Toilet Dewasa, Toilet Disabilitas, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Pagar, Pintu gerbang, CCTV, Prasasti RPTRA, Thoren air, Mesin Air",
+            "permasalahan": "Padat Penduduk",
+            "location": {
+                "latitude": -6.22971,
+                "longitude": 106.8671
+            }
+        },
+        {
+            "id": 175,
+            "nama_rptra": "Pondok Bambu Berseri",
+            "alamat": "Jl. Balai Rakyat 2  RT 013 RW 01",
+            "kelurahan": "Pondok Bambu ",
+            "kecamatan": "Duren Sawit",
+            "luas": "4,207 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "08568540975",
+            "email": "rptrapondokbambu@gmail.com",
+            "fasilitas": "",
+            "permasalahan": "",
+            "location": {
+                "latitude": -6.225534,
+                "longitude": 106.9008
+            }
+        },
+        {
+            "id": 176,
+            "nama_rptra": "Pulo Gebang Permai",
+            "alamat": "Komplek Perumahan Pulo Gebang Permai RW 013",
+            "kelurahan": "Pulo Gebang ",
+            "kecamatan": "Cakung",
+            "luas": "4,429 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "081218002392",
+            "email": "rptrapulogebangpermai@gmail.com",
+            "fasilitas": "",
+            "permasalahan": "",
+            "location": {
+                "latitude": -6.201425,
+                "longitude": 106.9491
+            }
+        },
+        {
+            "id": 177,
+            "nama_rptra": "Pulo Indah",
+            "alamat": "Perumahan Taman Pulo Indah (dekat Rusunawa Pinus Elok).",
+            "kelurahan": "Penggilingan ",
+            "kecamatan": "Cakung",
+            "luas": "2,036 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "081318856677",
+            "email": "rptrapuloindah@gmail.com",
+            "fasilitas": "Lapangan Futsal, Amphitheater, Wifi / Internet, Toilet Dewasa, Toilet Disabilitas, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Mesin Air",
+            "permasalahan": "Padat Penduduk, Penduduk usia anak yang banyak, Memiliki Pengunjung Anak Berkebutuhan Khusus, Memiliki Anak usia sekolah yang tidak sekolah, Memiliki Kasus Kekerasan terhadap Anak, Rawan Tawuran Warga/Pelajar/Pemuda, Pergaulan bebas",
+            "location": {
+                "latitude": -6.193975,
+                "longitude": 106.9398
+            }
+        },
+        {
+            "id": 178,
+            "nama_rptra": "Rawa Jaya",
+            "alamat": "Jl. Raya Pondok Kopi RT 003 RW 04",
+            "kelurahan": "Pondok Kopi",
+            "kecamatan": "Duren Sawit",
+            "luas": "4,252 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "083812537125",
+            "email": "rptra.rawajaya@gmail.com",
+            "fasilitas": "Lapangan Futsal, Mading / Papan Informasi, Toilet Dewasa, Toilet Disabilitas, Toilet Anak, Keran Cuci Tangan ramah anak, Informasi penggunaan alat permainan, Informasi tentang kawasan bebas rokok, Pagar, Pintu gerbang, CCTV, Thoren air, Mesin Air",
+            "permasalahan": "Padat Penduduk, Penduduk usia anak yang banyak",
+            "location": {
+                "latitude": -6.224499,
+                "longitude": 106.9426
+            }
+        },
+        {
+            "id": 179,
+            "nama_rptra": "Sangkuriang",
+            "alamat": "Jl. Irigasi RT 002/RW 01",
+            "kelurahan": "Ujung Menteng ",
+            "kecamatan": "Cakung",
+            "luas": "5,414 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "089617296686",
+            "email": "rptra.sangkuriang@gmail.com",
+            "fasilitas": "",
+            "permasalahan": "",
+            "location": {
+                "latitude": -6.18522,
+                "longitude": 106.9644
+            }
+        },
+        {
+            "id": 180,
+            "nama_rptra": "Udara Segar 126",
+            "alamat": "Batu Ampar Condet 126 Jl SMP 126 Rt.010 RW.03 Batu Ampar",
+            "kelurahan": "Batu Ampar ",
+            "kecamatan": "Kramat Jati",
+            "luas": "2,300 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "083894769240",
+            "email": "udarasegarrptra@gmail.com",
+            "fasilitas": "Lapangan Futsal, Mading / Papan Informasi, Amphitheater, Toilet Dewasa, Toilet Disabilitas, Toilet Anak, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi tentang kawasan bebas rokok, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air",
+            "permasalahan": "Memiliki Pengunjung Anak Berkebutuhan Khusus, Rawan Tawuran Warga/Pelajar/Pemuda",
+            "location": {
+                "latitude": -6.283674,
+                "longitude": 106.863045
+            }
+        },
+        {
+            "id": 181,
+            "nama_rptra": "Utakase Berseri",
+            "alamat": "Jl. Galur Sari II",
+            "kelurahan": "Utan Kayu Selatan ",
+            "kecamatan": "Matraman",
+            "luas": "2,169 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "085211980789",
+            "email": "rptrautakaseberseri@gmail.com",
+            "fasilitas": "",
+            "permasalahan": "",
+            "location": {
+                "latitude": -6.200411,
+                "longitude": 106.8652
+            }
+        },
+        {
+            "id": 182,
+            "nama_rptra": "Wangi Cempedak",
+            "alamat": "Taman Berdikari RW 09",
+            "kelurahan": "Cipinang cempedak ",
+            "kecamatan": "Jatinegara",
+            "luas": "1,213 ",
+            "waktu_peresmian": "2017-02-14",
+            "telepon": "085814820427",
+            "email": "rptrawangicempedak@gmail.com",
+            "fasilitas": "Lapangan Badminton, Mading / Papan Informasi, Amphitheater, Toilet Dewasa, Toilet Disabilitas, Toilet Anak, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi penggunaan alat permainan, Informasi tentang kawasan bebas rokok, Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Shelter sepeda yang terkunci, Thoren air, Selang Panjang, Mesin Air",
+            "permasalahan": "Padat Penduduk, Penduduk usia anak yang banyak",
+            "location": {
+                "latitude": -6.241243,
+                "longitude": 106.8735
+            }
+        },
+        {
+            "id": 183,
+            "nama_rptra": "Tanjung Elang Berseri",
+            "alamat": "Pulau Pramuka, RT 01 RW 05, Kode Pos 14530",
+            "kelurahan": "Panggang",
+            "kecamatan": "Kepulauan Seribu Utara",
+            "luas": "1,000 ",
+            "waktu_peresmian": "2016-09-20",
+            "telepon": "082298538178",
+            "email": "rptratanjungelang06@gmail.com",
+            "fasilitas": "Lapangan Futsal, Amphitheater, Wifi / Internet, Toilet Dewasa, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi penggunaan alat permainan, Informasi tentang kawasan bebas rokok, Kursi taman, Rambu lalu lintas (Zona bermain anak), Pagar, Pintu gerbang, CCTV, Papan nama RPTRA, Prasasti RPTRA, Selang Panjang, Mesin Air, Bak Pemilah sampah (Komposting), Gazebo",
+            "permasalahan": "Kumuh/Miskin, Penduduk usia anak yang banyak",
+            "location": {
+                "latitude": -5.747011,
+                "longitude": 106.6118
+            }
+        },
+        {
+            "id": 184,
+            "nama_rptra": "Amiterdam",
+            "alamat": "Pulau Untung Jawa, RT 02 RW 03, Kode Pos 14510",
+            "kelurahan": "Untung Jawa",
+            "kecamatan": "Kepulauan Seribu Selatan",
+            "luas": "2,204 ",
+            "waktu_peresmian": "2015-10-10",
+            "telepon": "085775327942",
+            "email": "rptraamitrdam@gmail.com",
+            "fasilitas": "Lapangan Futsal, Wifi / Internet, Toilet Dewasa, Toilet Anak, Keran Cuci Tangan ramah anak, Tempat Sampah terpilah, Informasi penggunaan alat permainan, Informasi tentang kawasan bebas rokok, Rambu lalu lintas (Zona bermain anak), CCTV, Papan nama RPTRA, Prasasti RPTRA, Thoren air, Selang Panjang, Mesin Air, Bak Pemilah sampah (Komposting), Gazebo",
+            "permasalahan": "PHBS kurang",
+            "location": {
+                "latitude": -5.979295,
+                "longitude": 106.7064
+            }
+        }
+]

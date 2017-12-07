@@ -1,0 +1,3018 @@
+[
+        {
+            "id": 1,
+            "kelurahan": "Cipedak",
+            "ipks": 10.97768882,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Jagakarsa",
+            "kota": "Jakarta Selatan"
+        },
+        {
+            "id": 2,
+            "kelurahan": "Cibubur",
+            "ipks": 16.69995615,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Ciracas",
+            "kota": "Jakarta Timur"
+        },
+        {
+            "id": 3,
+            "kelurahan": "Pondok Ranggon",
+            "ipks": 14.51368361,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Cipayung",
+            "kota": "Jakarta Timur"
+        },
+        {
+            "id": 4,
+            "kelurahan": "Munjul",
+            "ipks": 18.25308706,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Cipayung",
+            "kota": "Jakarta Timur"
+        },
+        {
+            "id": 5,
+            "kelurahan": "Pekayon",
+            "ipks": 20.60359997,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Pasar Rebo",
+            "kota": "Jakarta Timur"
+        },
+        {
+            "id": 6,
+            "kelurahan": "Srengseng Sawah",
+            "ipks": 15.8018148,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Jagakarsa",
+            "kota": "Jakarta Selatan"
+        },
+        {
+            "id": 7,
+            "kelurahan": "Kalisari",
+            "ipks": 16.33885666,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Pasar Rebo",
+            "kota": "Jakarta Timur"
+        },
+        {
+            "id": 8,
+            "kelurahan": "Kelapa Dua Wetan",
+            "ipks": 13.71965585,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Ciracas",
+            "kota": "Jakarta Timur"
+        },
+        {
+            "id": 9,
+            "kelurahan": "Ciganjur",
+            "ipks": 14.20212164,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Jagakarsa",
+            "kota": "Jakarta Selatan"
+        },
+        {
+            "id": 10,
+            "kelurahan": "Cipayung",
+            "ipks": 16.88670144,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Cipayung",
+            "kota": "Jakarta Timur"
+        },
+        {
+            "id": 11,
+            "kelurahan": "Cilangkap",
+            "ipks": 15.60648861,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Cipayung",
+            "kota": "Jakarta Timur"
+        },
+        {
+            "id": 12,
+            "kelurahan": "Baru",
+            "ipks": 15.64321154,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Pasar Rebo",
+            "kota": "Jakarta Timur"
+        },
+        {
+            "id": 13,
+            "kelurahan": "Ciracas",
+            "ipks": 14.50755481,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Ciracas",
+            "kota": "Jakarta Timur"
+        },
+        {
+            "id": 14,
+            "kelurahan": "Cijantung",
+            "ipks": 20.57061297,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Pasar Rebo",
+            "kota": "Jakarta Timur"
+        },
+        {
+            "id": 15,
+            "kelurahan": "Jagakarsa",
+            "ipks": 17.21029409,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Jagakarsa",
+            "kota": "Jakarta Selatan"
+        },
+        {
+            "id": 16,
+            "kelurahan": "Bambu Apus",
+            "ipks": 17.09840474,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Cipayung",
+            "kota": "Jakarta Timur"
+        },
+        {
+            "id": 17,
+            "kelurahan": "Susukan",
+            "ipks": 14.68115955,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Ciracas",
+            "kota": "Jakarta Timur"
+        },
+        {
+            "id": 18,
+            "kelurahan": "Ceger",
+            "ipks": 20.04761235,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Cipayung",
+            "kota": "Jakarta Timur"
+        },
+        {
+            "id": 19,
+            "kelurahan": "Lenteng Agung",
+            "ipks": 17.5013999,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Jagakarsa",
+            "kota": "Jakarta Selatan"
+        },
+        {
+            "id": 20,
+            "kelurahan": "Pondok Labu",
+            "ipks": 16.3781152,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Cilandak",
+            "kota": "Jakarta Selatan"
+        },
+        {
+            "id": 21,
+            "kelurahan": "Setu",
+            "ipks": 17.91517147,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Cipayung",
+            "kota": "Jakarta Timur"
+        },
+        {
+            "id": 22,
+            "kelurahan": "Kebagusan",
+            "ipks": 17.9861051,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Pasar Minggu",
+            "kota": "Jakarta Selatan"
+        },
+        {
+            "id": 23,
+            "kelurahan": "Tanjung Barat",
+            "ipks": 14.51294573,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Jagakarsa",
+            "kota": "Jakarta Selatan"
+        },
+        {
+            "id": 24,
+            "kelurahan": "Gedong",
+            "ipks": 17.6991972,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Pasar Rebo",
+            "kota": "Jakarta Timur"
+        },
+        {
+            "id": 25,
+            "kelurahan": "Lebak Bulus",
+            "ipks": 14.79096307,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Cilandak",
+            "kota": "Jakarta Selatan"
+        },
+        {
+            "id": 26,
+            "kelurahan": "Rambutan",
+            "ipks": 17.84762018,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Ciracas",
+            "kota": "Jakarta Timur"
+        },
+        {
+            "id": 27,
+            "kelurahan": "Dukuh",
+            "ipks": 19.63137075,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Kramat Jati",
+            "kota": "Jakarta Timur"
+        },
+        {
+            "id": 28,
+            "kelurahan": "Lubang Buaya",
+            "ipks": 16.94522395,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Cipayung",
+            "kota": "Jakarta Timur"
+        },
+        {
+            "id": 29,
+            "kelurahan": "Jati Padang",
+            "ipks": 15.99471097,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Pasar Minggu",
+            "kota": "Jakarta Selatan"
+        },
+        {
+            "id": 30,
+            "kelurahan": "Kampung Tengah",
+            "ipks": 21.95035821,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Kramat Jati",
+            "kota": "Jakarta Timur"
+        },
+        {
+            "id": 31,
+            "kelurahan": "Cilandak Barat",
+            "ipks": 16.10240385,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Cilandak",
+            "kota": "Jakarta Selatan"
+        },
+        {
+            "id": 32,
+            "kelurahan": "Pinang Ranti",
+            "ipks": 20.76459746,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Makasar",
+            "kota": "Jakarta Timur"
+        },
+        {
+            "id": 33,
+            "kelurahan": "Pasar Minggu",
+            "ipks": 21.92688177,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Pasar Minggu",
+            "kota": "Jakarta Selatan"
+        },
+        {
+            "id": 34,
+            "kelurahan": "Ragunan",
+            "ipks": 17.65386713,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Pasar Minggu",
+            "kota": "Jakarta Selatan"
+        },
+        {
+            "id": 35,
+            "kelurahan": "Cilandak Timur",
+            "ipks": 17.21929912,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Pasar Minggu",
+            "kota": "Jakarta Selatan"
+        },
+        {
+            "id": 36,
+            "kelurahan": "Batu Ampar",
+            "ipks": 19.32224221,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Kramat Jati",
+            "kota": "Jakarta Timur"
+        },
+        {
+            "id": 37,
+            "kelurahan": "Bale Kambang",
+            "ipks": 17.61759392,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Kramat Jati",
+            "kota": "Jakarta Timur"
+        },
+        {
+            "id": 38,
+            "kelurahan": "Cipete Selatan",
+            "ipks": 18.83540836,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Cilandak",
+            "kota": "Jakarta Selatan"
+        },
+        {
+            "id": 39,
+            "kelurahan": "Pejaten Barat",
+            "ipks": 16.8419807,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Pasar Minggu",
+            "kota": "Jakarta Selatan"
+        },
+        {
+            "id": 40,
+            "kelurahan": "Makasar",
+            "ipks": 21.52005942,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Makasar",
+            "kota": "Jakarta Timur"
+        },
+        {
+            "id": 41,
+            "kelurahan": "Kramat Jati",
+            "ipks": 22.47527963,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Kramat Jati",
+            "kota": "Jakarta Timur"
+        },
+        {
+            "id": 42,
+            "kelurahan": "Gandaria Selatan",
+            "ipks": 18.24842969,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Cilandak",
+            "kota": "Jakarta Selatan"
+        },
+        {
+            "id": 43,
+            "kelurahan": "Pejaten Timur",
+            "ipks": 20.72687452,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Pasar Minggu",
+            "kota": "Jakarta Selatan"
+        },
+        {
+            "id": 44,
+            "kelurahan": "Pondok Pinang",
+            "ipks": 18.48028283,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Kebayoran Lama",
+            "kota": "Jakarta Selatan"
+        },
+        {
+            "id": 45,
+            "kelurahan": "Kalibata",
+            "ipks": 16.92423831,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Pancoran",
+            "kota": "Jakarta Selatan"
+        },
+        {
+            "id": 46,
+            "kelurahan": "Cipete Utara",
+            "ipks": 16.99494557,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Kebayoran Baru",
+            "kota": "Jakarta Selatan"
+        },
+        {
+            "id": 47,
+            "kelurahan": "Bintaro",
+            "ipks": 22.55691894,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Pesanggrahan",
+            "kota": "Jakarta Selatan"
+        },
+        {
+            "id": 48,
+            "kelurahan": "Cililitan",
+            "ipks": 27.30413238,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "Kramat Jati",
+            "kota": "Jakarta Timur"
+        },
+        {
+            "id": 49,
+            "kelurahan": "Bangka",
+            "ipks": 17.10664893,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Mampang Prapatan",
+            "kota": "Jakarta Selatan"
+        },
+        {
+            "id": 50,
+            "kelurahan": "Rawa Jati",
+            "ipks": 20.03644824,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Pancoran",
+            "kota": "Jakarta Selatan"
+        },
+        {
+            "id": 51,
+            "kelurahan": "Duren Tiga",
+            "ipks": 16.15948749,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Pancoran",
+            "kota": "Jakarta Selatan"
+        },
+        {
+            "id": 52,
+            "kelurahan": "Gandaria Utara",
+            "ipks": 18.98454791,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Kebayoran Baru",
+            "kota": "Jakarta Selatan"
+        },
+        {
+            "id": 53,
+            "kelurahan": "Pesanggrahan",
+            "ipks": 19.68429149,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Pesanggrahan",
+            "kota": "Jakarta Selatan"
+        },
+        {
+            "id": 54,
+            "kelurahan": "Tegal Parang",
+            "ipks": 21.13722772,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Mampang Prapatan",
+            "kota": "Jakarta Selatan"
+        },
+        {
+            "id": 55,
+            "kelurahan": "Pulo",
+            "ipks": 14.70466976,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Kebayoran Baru",
+            "kota": "Jakarta Selatan"
+        },
+        {
+            "id": 56,
+            "kelurahan": "Pengadegan",
+            "ipks": 17.11428975,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Pancoran",
+            "kota": "Jakarta Selatan"
+        },
+        {
+            "id": 57,
+            "kelurahan": "Kebayoran Lama Selatan",
+            "ipks": 16.88593316,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Kebayoran Lama",
+            "kota": "Jakarta Selatan"
+        },
+        {
+            "id": 58,
+            "kelurahan": "Cawang",
+            "ipks": 24.41646299,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Kramat Jati",
+            "kota": "Jakarta Timur"
+        },
+        {
+            "id": 59,
+            "kelurahan": "Cikoko",
+            "ipks": 13.81814074,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Pancoran",
+            "kota": "Jakarta Selatan"
+        },
+        {
+            "id": 60,
+            "kelurahan": "Halim Perdana Kusuma",
+            "ipks": 13.56406934,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Makasar",
+            "kota": "Jakarta Timur"
+        },
+        {
+            "id": 61,
+            "kelurahan": "Pancoran",
+            "ipks": 16.38103626,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Pancoran",
+            "kota": "Jakarta Selatan"
+        },
+        {
+            "id": 62,
+            "kelurahan": "Kebon Pala",
+            "ipks": 21.07510879,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Makasar",
+            "kota": "Jakarta Timur"
+        },
+        {
+            "id": 63,
+            "kelurahan": "Mampang Prapatan",
+            "ipks": 24.77498916,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Mampang Prapatan",
+            "kota": "Jakarta Selatan"
+        },
+        {
+            "id": 64,
+            "kelurahan": "Cipinang Melayu",
+            "ipks": 21.87667462,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Makasar",
+            "kota": "Jakarta Timur"
+        },
+        {
+            "id": 65,
+            "kelurahan": "Kramat Pela",
+            "ipks": 24.9790504,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Kebayoran Baru",
+            "kota": "Jakarta Selatan"
+        },
+        {
+            "id": 66,
+            "kelurahan": "Melawai",
+            "ipks": 20.65203168,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Kebayoran Baru",
+            "kota": "Jakarta Selatan"
+        },
+        {
+            "id": 67,
+            "kelurahan": "Pela Mampang",
+            "ipks": 21.39867845,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Mampang Prapatan",
+            "kota": "Jakarta Selatan"
+        },
+        {
+            "id": 68,
+            "kelurahan": "Petogogan",
+            "ipks": 19.66159791,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Kebayoran Baru",
+            "kota": "Jakarta Selatan"
+        },
+        {
+            "id": 69,
+            "kelurahan": "Kebayoran Lama Utara",
+            "ipks": 18.82699832,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Kebayoran Lama",
+            "kota": "Jakarta Selatan"
+        },
+        {
+            "id": 70,
+            "kelurahan": "Rawa Barat",
+            "ipks": 15.70824264,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Kebayoran Baru",
+            "kota": "Jakarta Selatan"
+        },
+        {
+            "id": 71,
+            "kelurahan": "Cipulir",
+            "ipks": 22.49442783,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Kebayoran Lama",
+            "kota": "Jakarta Selatan"
+        },
+        {
+            "id": 72,
+            "kelurahan": "Selong",
+            "ipks": 23.02207384,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Kebayoran Baru",
+            "kota": "Jakarta Selatan"
+        },
+        {
+            "id": 73,
+            "kelurahan": "Gunung",
+            "ipks": 23.13159534,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Kebayoran Baru",
+            "kota": "Jakarta Selatan"
+        },
+        {
+            "id": 74,
+            "kelurahan": "Petukangan Selatan",
+            "ipks": 17.72996486,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Pesanggrahan",
+            "kota": "Jakarta Selatan"
+        },
+        {
+            "id": 75,
+            "kelurahan": "Pondok Kelapa",
+            "ipks": 20.06041341,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Duren Sawit",
+            "kota": "Jakarta Timur"
+        },
+        {
+            "id": 76,
+            "kelurahan": "Cipinang Cempedak",
+            "ipks": 24.09871602,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Jatinegara",
+            "kota": "Jakarta Timur"
+        },
+        {
+            "id": 77,
+            "kelurahan": "Kuningan Timur",
+            "ipks": 20.85356369,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Setiabudi",
+            "kota": "Jakarta Selatan"
+        },
+        {
+            "id": 78,
+            "kelurahan": "Kuningan Barat",
+            "ipks": 26.63369563,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "Mampang Prapatan",
+            "kota": "Jakarta Selatan"
+        },
+        {
+            "id": 79,
+            "kelurahan": "Kebon Baru",
+            "ipks": 25.48925854,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "Tebet",
+            "kota": "Jakarta Selatan"
+        },
+        {
+            "id": 80,
+            "kelurahan": "Bidara Cina",
+            "ipks": 25.56594722,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "Jatinegara",
+            "kota": "Jakarta Timur"
+        },
+        {
+            "id": 81,
+            "kelurahan": "Tebet Timur",
+            "ipks": 20.23763073,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Tebet",
+            "kota": "Jakarta Selatan"
+        },
+        {
+            "id": 82,
+            "kelurahan": "Tebet Barat",
+            "ipks": 19.98318782,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Tebet",
+            "kota": "Jakarta Selatan"
+        },
+        {
+            "id": 83,
+            "kelurahan": "Grogol Selatan",
+            "ipks": 19.72660637,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Kebayoran Lama",
+            "kota": "Jakarta Selatan"
+        },
+        {
+            "id": 84,
+            "kelurahan": "Pondok Bambu",
+            "ipks": 15.13100357,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Duren Sawit",
+            "kota": "Jakarta Timur"
+        },
+        {
+            "id": 85,
+            "kelurahan": "Petukangan Utara",
+            "ipks": 19.09407595,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Pesanggrahan",
+            "kota": "Jakarta Selatan"
+        },
+        {
+            "id": 86,
+            "kelurahan": "Ulujami",
+            "ipks": 19.63390763,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Pesanggrahan",
+            "kota": "Jakarta Selatan"
+        },
+        {
+            "id": 87,
+            "kelurahan": "Menteng Dalam",
+            "ipks": 22.66580905,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Tebet",
+            "kota": "Jakarta Selatan"
+        },
+        {
+            "id": 88,
+            "kelurahan": "Duren Sawit",
+            "ipks": 20.63770806,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Duren Sawit",
+            "kota": "Jakarta Timur"
+        },
+        {
+            "id": 89,
+            "kelurahan": "Senayan",
+            "ipks": 17.24549459,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Kebayoran Baru",
+            "kota": "Jakarta Selatan"
+        },
+        {
+            "id": 90,
+            "kelurahan": "Cipinang Besar Selatan",
+            "ipks": 30.71594853,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "Jatinegara",
+            "kota": "Jakarta Timur"
+        },
+        {
+            "id": 91,
+            "kelurahan": "Pondok Kopi",
+            "ipks": 20.04718561,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Duren Sawit",
+            "kota": "Jakarta Timur"
+        },
+        {
+            "id": 92,
+            "kelurahan": "Malaka Jaya",
+            "ipks": 17.35084992,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Duren Sawit",
+            "kota": "Jakarta Timur"
+        },
+        {
+            "id": 93,
+            "kelurahan": "Sukabumi Selatan",
+            "ipks": 19.31343631,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Kebon Jeruk",
+            "kota": "Jakarta Barat"
+        },
+        {
+            "id": 94,
+            "kelurahan": "Malaka Sari",
+            "ipks": 16.40258881,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Duren Sawit",
+            "kota": "Jakarta Timur"
+        },
+        {
+            "id": 95,
+            "kelurahan": "Bukit Duri",
+            "ipks": 27.27933698,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "Tebet",
+            "kota": "Jakarta Selatan"
+        },
+        {
+            "id": 96,
+            "kelurahan": "Karet Kuningan",
+            "ipks": 23.09974903,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Setiabudi",
+            "kota": "Jakarta Selatan"
+        },
+        {
+            "id": 97,
+            "kelurahan": "Manggarai Selatan",
+            "ipks": 24.62067161,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Tebet",
+            "kota": "Jakarta Selatan"
+        },
+        {
+            "id": 98,
+            "kelurahan": "Karet Semanggi",
+            "ipks": 28.83353603,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "Setiabudi",
+            "kota": "Jakarta Selatan"
+        },
+        {
+            "id": 99,
+            "kelurahan": "Cipinang Besar Utara",
+            "ipks": 32.01047634,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "Jatinegara",
+            "kota": "Jakarta Timur"
+        },
+        {
+            "id": 100,
+            "kelurahan": "Klender",
+            "ipks": 24.21398455,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Duren Sawit",
+            "kota": "Jakarta Timur"
+        },
+        {
+            "id": 101,
+            "kelurahan": "Cipinang Muara",
+            "ipks": 18.90407731,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Jatinegara",
+            "kota": "Jakarta Timur"
+        },
+        {
+            "id": 102,
+            "kelurahan": "Menteng Atas",
+            "ipks": 20.86207957,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Setiabudi",
+            "kota": "Jakarta Selatan"
+        },
+        {
+            "id": 103,
+            "kelurahan": "Rawa Bunga",
+            "ipks": 28.86540274,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "Jatinegara",
+            "kota": "Jakarta Timur"
+        },
+        {
+            "id": 104,
+            "kelurahan": "Kampung Melayu",
+            "ipks": 39.22751537,
+            "kategori": "Rawan Sedang",
+            "kecamatan": "Jatinegara",
+            "kota": "Jakarta Timur"
+        },
+        {
+            "id": 105,
+            "kelurahan": "Joglo",
+            "ipks": 16.70334985,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Kembangan",
+            "kota": "Jakarta Barat"
+        },
+        {
+            "id": 106,
+            "kelurahan": "Balimester",
+            "ipks": 26.83019626,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "Jatinegara",
+            "kota": "Jakarta Timur"
+        },
+        {
+            "id": 107,
+            "kelurahan": "Karet",
+            "ipks": 21.01553302,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Setiabudi",
+            "kota": "Jakarta Selatan"
+        },
+        {
+            "id": 108,
+            "kelurahan": "Pisangan Baru",
+            "ipks": 25.14478815,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "Matraman",
+            "kota": "Jakarta Timur"
+        },
+        {
+            "id": 109,
+            "kelurahan": "Manggarai",
+            "ipks": 33.41070642,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "Tebet",
+            "kota": "Jakarta Selatan"
+        },
+        {
+            "id": 110,
+            "kelurahan": "Grogol Utara",
+            "ipks": 13.67424126,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Kebayoran Lama",
+            "kota": "Jakarta Selatan"
+        },
+        {
+            "id": 111,
+            "kelurahan": "Pasar Manggis",
+            "ipks": 25.01366794,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "Setiabudi",
+            "kota": "Jakarta Selatan"
+        },
+        {
+            "id": 112,
+            "kelurahan": "Guntur",
+            "ipks": 27.15898081,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "Setiabudi",
+            "kota": "Jakarta Selatan"
+        },
+        {
+            "id": 113,
+            "kelurahan": "Setia budi",
+            "ipks": null,
+            "kategori": "Rawan Berat",
+            "kecamatan": "Setiabudi",
+            "kota": "Jakarta Selatan"
+        },
+        {
+            "id": 114,
+            "kelurahan": "Sukabumi Utara",
+            "ipks": 19.98848639,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Kebon Jeruk",
+            "kota": "Jakarta Barat"
+        },
+        {
+            "id": 115,
+            "kelurahan": "Kelapa Dua",
+            "ipks": 14.85823465,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Kebon Jeruk",
+            "kota": "Jakarta Barat"
+        },
+        {
+            "id": 116,
+            "kelurahan": "Pisangan Timur",
+            "ipks": 21.04136432,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Pulo Gadung",
+            "kota": "Jakarta Timur"
+        },
+        {
+            "id": 117,
+            "kelurahan": "Cipinang",
+            "ipks": 21.26759932,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Pulo Gadung",
+            "kota": "Jakarta Timur"
+        },
+        {
+            "id": 118,
+            "kelurahan": "Gelora",
+            "ipks": 26.02329864,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "Tanah Abang",
+            "kota": "Jakarta Pusat"
+        },
+        {
+            "id": 119,
+            "kelurahan": "Karet Tengsin",
+            "ipks": 24.46733948,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Tanah Abang",
+            "kota": "Jakarta Pusat"
+        },
+        {
+            "id": 120,
+            "kelurahan": "Kebon Manggis",
+            "ipks": 28.91875491,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "Matraman",
+            "kota": "Jakarta Timur"
+        },
+        {
+            "id": 121,
+            "kelurahan": "Bendungan Hilir",
+            "ipks": 24.44984172,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Tanah Abang",
+            "kota": "Jakarta Pusat"
+        },
+        {
+            "id": 122,
+            "kelurahan": "Utan Kayu Selatan",
+            "ipks": 21.31829272,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Matraman",
+            "kota": "Jakarta Timur"
+        },
+        {
+            "id": 123,
+            "kelurahan": "Meruya Selatan",
+            "ipks": 15.47156398,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Kembangan",
+            "kota": "Jakarta Barat"
+        },
+        {
+            "id": 124,
+            "kelurahan": "Srengseng",
+            "ipks": 16.50343388,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Kembangan",
+            "kota": "Jakarta Barat"
+        },
+        {
+            "id": 125,
+            "kelurahan": "Palmeriam",
+            "ipks": 25.47653398,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "Matraman",
+            "kota": "Jakarta Timur"
+        },
+        {
+            "id": 126,
+            "kelurahan": "Pegangsaan",
+            "ipks": 34.65341055,
+            "kategori": "Rawan Sedang",
+            "kecamatan": "Menteng",
+            "kota": "Jakarta Pusat"
+        },
+        {
+            "id": 127,
+            "kelurahan": "Kayu Manis",
+            "ipks": 27.59247111,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "Matraman",
+            "kota": "Jakarta Timur"
+        },
+        {
+            "id": 128,
+            "kelurahan": "Menteng",
+            "ipks": 35.20464042,
+            "kategori": "Rawan Sedang",
+            "kecamatan": "Menteng",
+            "kota": "Jakarta Pusat"
+        },
+        {
+            "id": 129,
+            "kelurahan": "Pal Merah",
+            "ipks": null,
+            "kategori": "Rawan Berat",
+            "kecamatan": "Palmerah",
+            "kota": "Jakarta Barat"
+        },
+        {
+            "id": 130,
+            "kelurahan": "Pulo Gebang",
+            "ipks": 21.19118101,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Cakung",
+            "kota": "Jakarta Timur"
+        },
+        {
+            "id": 131,
+            "kelurahan": "Utan Kayu Utara",
+            "ipks": 23.04464243,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Matraman",
+            "kota": "Jakarta Timur"
+        },
+        {
+            "id": 132,
+            "kelurahan": "Jatinegara",
+            "ipks": 24.29427131,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Cakung",
+            "kota": "Jakarta Timur"
+        },
+        {
+            "id": 133,
+            "kelurahan": "Meruya Utara",
+            "ipks": 13.72593235,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Kembangan",
+            "kota": "Jakarta Barat"
+        },
+        {
+            "id": 134,
+            "kelurahan": "Slipi",
+            "ipks": 15.16654751,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Palmerah",
+            "kota": "Jakarta Barat"
+        },
+        {
+            "id": 135,
+            "kelurahan": "Kebon Melati",
+            "ipks": 35.45024876,
+            "kategori": "Rawan Sedang",
+            "kecamatan": "Tanah Abang",
+            "kota": "Jakarta Pusat"
+        },
+        {
+            "id": 136,
+            "kelurahan": "Petamburan",
+            "ipks": 28.49886935,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "Tanah Abang",
+            "kota": "Jakarta Pusat"
+        },
+        {
+            "id": 137,
+            "kelurahan": "Rawamangun",
+            "ipks": 24.55200408,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Pulo Gadung",
+            "kota": "Jakarta Timur"
+        },
+        {
+            "id": 138,
+            "kelurahan": "Paseban",
+            "ipks": 24.357973,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Senen",
+            "kota": "Jakarta Pusat"
+        },
+        {
+            "id": 139,
+            "kelurahan": "Gondangdia",
+            "ipks": 22.27492553,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Menteng",
+            "kota": "Jakarta Pusat"
+        },
+        {
+            "id": 140,
+            "kelurahan": "Kebon Kacang",
+            "ipks": 22.38399492,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Tanah Abang",
+            "kota": "Jakarta Pusat"
+        },
+        {
+            "id": 141,
+            "kelurahan": "Jati",
+            "ipks": 16.54973342,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Pulo Gadung",
+            "kota": "Jakarta Timur"
+        },
+        {
+            "id": 142,
+            "kelurahan": "Jatinegara Kaum",
+            "ipks": 21.25096174,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Pulo Gadung",
+            "kota": "Jakarta Timur"
+        },
+        {
+            "id": 143,
+            "kelurahan": "Penggilingan",
+            "ipks": 20.58648102,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Cakung",
+            "kota": "Jakarta Timur"
+        },
+        {
+            "id": 144,
+            "kelurahan": "Cikini",
+            "ipks": 27.50163242,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "Menteng",
+            "kota": "Jakarta Pusat"
+        },
+        {
+            "id": 145,
+            "kelurahan": "Rawasari",
+            "ipks": 24.99956832,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Cempaka Putih",
+            "kota": "Jakarta Pusat"
+        },
+        {
+            "id": 146,
+            "kelurahan": "Kebon Jeruk",
+            "ipks": 14.83990975,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Kebon Jeruk",
+            "kota": "Jakarta Barat"
+        },
+        {
+            "id": 147,
+            "kelurahan": "Kenari",
+            "ipks": 21.64293705,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Senen",
+            "kota": "Jakarta Pusat"
+        },
+        {
+            "id": 148,
+            "kelurahan": "Kota Bambu Selatan",
+            "ipks": 21.9925981,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Palmerah",
+            "kota": "Jakarta Barat"
+        },
+        {
+            "id": 149,
+            "kelurahan": "Kebon Sirih",
+            "ipks": 33.93282442,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "Menteng",
+            "kota": "Jakarta Pusat"
+        },
+        {
+            "id": 150,
+            "kelurahan": "Kampung Bali",
+            "ipks": 34.63536692,
+            "kategori": "Rawan Sedang",
+            "kecamatan": "Tanah Abang",
+            "kota": "Jakarta Pusat"
+        },
+        {
+            "id": 151,
+            "kelurahan": "Johar Baru",
+            "ipks": 37.71690121,
+            "kategori": "Rawan Sedang",
+            "kecamatan": "Johar Baru",
+            "kota": "Jakarta Pusat"
+        },
+        {
+            "id": 152,
+            "kelurahan": "Kemanggisan",
+            "ipks": 15.9187162,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Palmerah",
+            "kota": "Jakarta Barat"
+        },
+        {
+            "id": 153,
+            "kelurahan": "Kotabambu Utara",
+            "ipks": 20.62187003,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Palmerah",
+            "kota": "Jakarta Barat"
+        },
+        {
+            "id": 154,
+            "kelurahan": "Kwitang",
+            "ipks": 27.79214403,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "Senen",
+            "kota": "Jakarta Pusat"
+        },
+        {
+            "id": 155,
+            "kelurahan": "Kampung Rawa",
+            "ipks": 37.66424853,
+            "kategori": "Rawan Sedang",
+            "kecamatan": "Johar Baru",
+            "kota": "Jakarta Pusat"
+        },
+        {
+            "id": 156,
+            "kelurahan": "Pulo Gadung",
+            "ipks": 21.14237711,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Pulo Gadung",
+            "kota": "Jakarta Timur"
+        },
+        {
+            "id": 157,
+            "kelurahan": "Kramat",
+            "ipks": 30.34373143,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "Senen",
+            "kota": "Jakarta Pusat"
+        },
+        {
+            "id": 158,
+            "kelurahan": "Tanah Tinggi",
+            "ipks": 40.39283402,
+            "kategori": "Rawan Sedang",
+            "kecamatan": "Johar Baru",
+            "kota": "Jakarta Pusat"
+        },
+        {
+            "id": 159,
+            "kelurahan": "Galur",
+            "ipks": 40.523203,
+            "kategori": "Rawan Sedang",
+            "kecamatan": "Johar Baru",
+            "kota": "Jakarta Pusat"
+        },
+        {
+            "id": 160,
+            "kelurahan": "Tanjung Duren Selatan",
+            "ipks": 14.11267643,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Grogol Petamburan",
+            "kota": "Jakarta Barat"
+        },
+        {
+            "id": 161,
+            "kelurahan": "Kedoya Selatan",
+            "ipks": 15.2628642,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Kebon Jeruk",
+            "kota": "Jakarta Barat"
+        },
+        {
+            "id": 162,
+            "kelurahan": "Jati Pulo",
+            "ipks": 22.19708756,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Palmerah",
+            "kota": "Jakarta Barat"
+        },
+        {
+            "id": 163,
+            "kelurahan": "Ujung Menteng",
+            "ipks": 18.57306842,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Cakung",
+            "kota": "Jakarta Timur"
+        },
+        {
+            "id": 164,
+            "kelurahan": "Kembangan Selatan",
+            "ipks": 17.18565131,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Kembangan",
+            "kota": "Jakarta Barat"
+        },
+        {
+            "id": 165,
+            "kelurahan": "Cempaka Putih Barat",
+            "ipks": 26.94894415,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "Cempaka Putih",
+            "kota": "Jakarta Pusat"
+        },
+        {
+            "id": 166,
+            "kelurahan": "Senen",
+            "ipks": 30.15850315,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "Senen",
+            "kota": "Jakarta Pusat"
+        },
+        {
+            "id": 167,
+            "kelurahan": "Bungur",
+            "ipks": 33.6702898,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "Senen",
+            "kota": "Jakarta Pusat"
+        },
+        {
+            "id": 168,
+            "kelurahan": "Petojo Selatan",
+            "ipks": 29.07109281,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "Gambir",
+            "kota": "Jakarta Pusat"
+        },
+        {
+            "id": 169,
+            "kelurahan": "Gambir",
+            "ipks": 21.54301717,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Gambir",
+            "kota": "Jakarta Pusat"
+        },
+        {
+            "id": 170,
+            "kelurahan": "Kayu Putih",
+            "ipks": 30.77530557,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "Pulo Gadung",
+            "kota": "Jakarta Timur"
+        },
+        {
+            "id": 171,
+            "kelurahan": "Cempaka Putih Timur",
+            "ipks": 28.05306876,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "Cempaka Putih",
+            "kota": "Jakarta Pusat"
+        },
+        {
+            "id": 172,
+            "kelurahan": "Tomang",
+            "ipks": 20.59654072,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Grogol Petamburan",
+            "kota": "Jakarta Barat"
+        },
+        {
+            "id": 173,
+            "kelurahan": "Cideng",
+            "ipks": 28.12333913,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "Gambir",
+            "kota": "Jakarta Pusat"
+        },
+        {
+            "id": 174,
+            "kelurahan": "Harapan Mulya",
+            "ipks": null,
+            "kategori": "Rawan Berat",
+            "kecamatan": "Kemayoran",
+            "kota": "Jakarta Pusat"
+        },
+        {
+            "id": 175,
+            "kelurahan": "Tanjung Duren Utara",
+            "ipks": 18.30469416,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Grogol Petamburan",
+            "kota": "Jakarta Barat"
+        },
+        {
+            "id": 176,
+            "kelurahan": "Duri Kepa",
+            "ipks": 17.6769053,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Kebon Jeruk",
+            "kota": "Jakarta Barat"
+        },
+        {
+            "id": 177,
+            "kelurahan": "Rawa Terate",
+            "ipks": 23.27454069,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Cakung",
+            "kota": "Jakarta Timur"
+        },
+        {
+            "id": 178,
+            "kelurahan": "Cempaka Baru",
+            "ipks": 25.09154492,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "Kemayoran",
+            "kota": "Jakarta Pusat"
+        },
+        {
+            "id": 179,
+            "kelurahan": "Kemayoran",
+            "ipks": 28.79446798,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "Kemayoran",
+            "kota": "Jakarta Pusat"
+        },
+        {
+            "id": 180,
+            "kelurahan": "Utan Panjang",
+            "ipks": 28.750152,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "Kemayoran",
+            "kota": "Jakarta Pusat"
+        },
+        {
+            "id": 181,
+            "kelurahan": "Duri Pulo",
+            "ipks": 29.60198827,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "Gambir",
+            "kota": "Jakarta Pusat"
+        },
+        {
+            "id": 182,
+            "kelurahan": "Petojo Utara",
+            "ipks": 30.89668677,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "Gambir",
+            "kota": "Jakarta Pusat"
+        },
+        {
+            "id": 183,
+            "kelurahan": "Kebon Kelapa",
+            "ipks": 27.64337336,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "Gambir",
+            "kota": "Jakarta Pusat"
+        },
+        {
+            "id": 184,
+            "kelurahan": "Kedoya Utara",
+            "ipks": 15.81752026,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Kebon Jeruk",
+            "kota": "Jakarta Barat"
+        },
+        {
+            "id": 185,
+            "kelurahan": "Kembangan Utara",
+            "ipks": 18.27584116,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Kembangan",
+            "kota": "Jakarta Barat"
+        },
+        {
+            "id": 186,
+            "kelurahan": "Sumur Batu",
+            "ipks": 29.0284508,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "Kemayoran",
+            "kota": "Jakarta Pusat"
+        },
+        {
+            "id": 187,
+            "kelurahan": "Pasar Baru",
+            "ipks": 27.18064672,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "Sawah Besar",
+            "kota": "Jakarta Pusat"
+        },
+        {
+            "id": 188,
+            "kelurahan": "Duri Selatan",
+            "ipks": 23.54595374,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Tambora",
+            "kota": "Jakarta Barat"
+        },
+        {
+            "id": 189,
+            "kelurahan": "Semanan",
+            "ipks": 17.32780999,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Kalideres",
+            "kota": "Jakarta Barat"
+        },
+        {
+            "id": 190,
+            "kelurahan": "Kali Anyar",
+            "ipks": 23.87823664,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Tambora",
+            "kota": "Jakarta Barat"
+        },
+        {
+            "id": 191,
+            "kelurahan": "Rawa Buaya",
+            "ipks": 28.61814264,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "Cengkareng",
+            "kota": "Jakarta Barat"
+        },
+        {
+            "id": 192,
+            "kelurahan": "Cakung Timur",
+            "ipks": 20.03452533,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Cakung",
+            "kota": "Jakarta Timur"
+        },
+        {
+            "id": 193,
+            "kelurahan": "Serdang",
+            "ipks": 25.06498152,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "Kemayoran",
+            "kota": "Jakarta Pusat"
+        },
+        {
+            "id": 194,
+            "kelurahan": "Grogol",
+            "ipks": 19.30248677,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Grogol Petamburan",
+            "kota": "Jakarta Barat"
+        },
+        {
+            "id": 195,
+            "kelurahan": "Duri Kosambi",
+            "ipks": 20.94141532,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Cengkareng",
+            "kota": "Jakarta Barat"
+        },
+        {
+            "id": 196,
+            "kelurahan": "Kelapa Gading Timur",
+            "ipks": 21.53408658,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Kelapa Gading",
+            "kota": "Jakarta Utara"
+        },
+        {
+            "id": 197,
+            "kelurahan": "Krukut",
+            "ipks": 27.01596414,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "Taman Sari",
+            "kota": "Jakarta Barat"
+        },
+        {
+            "id": 198,
+            "kelurahan": "Jelambar",
+            "ipks": 15.69821585,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Grogol Petamburan",
+            "kota": "Jakarta Barat"
+        },
+        {
+            "id": 199,
+            "kelurahan": "Kebon Kosong",
+            "ipks": 29.84385635,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "Kemayoran",
+            "kota": "Jakarta Pusat"
+        },
+        {
+            "id": 200,
+            "kelurahan": "Duri Utara",
+            "ipks": 25.88501218,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "Tambora",
+            "kota": "Jakarta Barat"
+        },
+        {
+            "id": 201,
+            "kelurahan": "Cakung Barat",
+            "ipks": 18.50035096,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Cakung",
+            "kota": "Jakarta Timur"
+        },
+        {
+            "id": 202,
+            "kelurahan": "Gunung Sahari Selatan",
+            "ipks": 28.81069531,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "Kemayoran",
+            "kota": "Jakarta Pusat"
+        },
+        {
+            "id": 203,
+            "kelurahan": "Maphar",
+            "ipks": 27.97181673,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "Taman Sari",
+            "kota": "Jakarta Barat"
+        },
+        {
+            "id": 204,
+            "kelurahan": "Taman Sari",
+            "ipks": 24.30917699,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Taman Sari",
+            "kota": "Jakarta Barat"
+        },
+        {
+            "id": 205,
+            "kelurahan": "Jembatan Besi",
+            "ipks": 24.05697768,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Tambora",
+            "kota": "Jakarta Barat"
+        },
+        {
+            "id": 206,
+            "kelurahan": "Keagungan",
+            "ipks": 32.55471317,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "Taman Sari",
+            "kota": "Jakarta Barat"
+        },
+        {
+            "id": 207,
+            "kelurahan": "Karang Anyar",
+            "ipks": 34.32249611,
+            "kategori": "Rawan Sedang",
+            "kecamatan": "Sawah Besar",
+            "kota": "Jakarta Pusat"
+        },
+        {
+            "id": 208,
+            "kelurahan": "Kartini",
+            "ipks": 38.06827809,
+            "kategori": "Rawan Sedang",
+            "kecamatan": "Sawah Besar",
+            "kota": "Jakarta Pusat"
+        },
+        {
+            "id": 209,
+            "kelurahan": "Krendang",
+            "ipks": 25.90299756,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "Tambora",
+            "kota": "Jakarta Barat"
+        },
+        {
+            "id": 210,
+            "kelurahan": "Tanah Sereal",
+            "ipks": 21.38109666,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Tambora",
+            "kota": "Jakarta Barat"
+        },
+        {
+            "id": 211,
+            "kelurahan": "Wijaya Kusuma",
+            "ipks": 18.6015201,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Grogol Petamburan",
+            "kota": "Jakarta Barat"
+        },
+        {
+            "id": 212,
+            "kelurahan": "Jelambar Baru",
+            "ipks": 15.63806551,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Grogol Petamburan",
+            "kota": "Jakarta Barat"
+        },
+        {
+            "id": 213,
+            "kelurahan": "Tangki",
+            "ipks": 26.41290037,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "Taman Sari",
+            "kota": "Jakarta Barat"
+        },
+        {
+            "id": 214,
+            "kelurahan": "Angke",
+            "ipks": 24.3346759,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Tambora",
+            "kota": "Jakarta Barat"
+        },
+        {
+            "id": 215,
+            "kelurahan": "Jembatan Lima",
+            "ipks": 22.09221832,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Tambora",
+            "kota": "Jakarta Barat"
+        },
+        {
+            "id": 216,
+            "kelurahan": "Gunung Sahari Utara",
+            "ipks": 27.08806171,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "Sawah Besar",
+            "kota": "Jakarta Pusat"
+        },
+        {
+            "id": 217,
+            "kelurahan": "Tambora",
+            "ipks": 22.30174559,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Tambora",
+            "kota": "Jakarta Barat"
+        },
+        {
+            "id": 218,
+            "kelurahan": "Kedaung Kali Angke",
+            "ipks": 23.54318976,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Cengkareng",
+            "kota": "Jakarta Barat"
+        },
+        {
+            "id": 219,
+            "kelurahan": "Glodok",
+            "ipks": 18.62731511,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Taman Sari",
+            "kota": "Jakarta Barat"
+        },
+        {
+            "id": 220,
+            "kelurahan": "Mangga Besar",
+            "ipks": 33.84217571,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "Taman Sari",
+            "kota": "Jakarta Barat"
+        },
+        {
+            "id": 221,
+            "kelurahan": "Sunter Jaya",
+            "ipks": 18.02015856,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Tanjung Priok",
+            "kota": "Jakarta Utara"
+        },
+        {
+            "id": 222,
+            "kelurahan": "Pegangsaan Dua",
+            "ipks": 24.9453736,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Kelapa Gading",
+            "kota": "Jakarta Utara"
+        },
+        {
+            "id": 223,
+            "kelurahan": "Kelapa Gading Barat",
+            "ipks": 16.9059525,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Kelapa Gading",
+            "kota": "Jakarta Utara"
+        },
+        {
+            "id": 224,
+            "kelurahan": "Sukapura",
+            "ipks": 19.5342268,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Cilincing",
+            "kota": "Jakarta Utara"
+        },
+        {
+            "id": 225,
+            "kelurahan": "Mangga Dua Selatan",
+            "ipks": 30.92965632,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "Sawah Besar",
+            "kota": "Jakarta Pusat"
+        },
+        {
+            "id": 226,
+            "kelurahan": "Pekojan",
+            "ipks": 24.36351017,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Tambora",
+            "kota": "Jakarta Barat"
+        },
+        {
+            "id": 227,
+            "kelurahan": "Roa Malaka",
+            "ipks": 20.13340101,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Tambora",
+            "kota": "Jakarta Barat"
+        },
+        {
+            "id": 228,
+            "kelurahan": "Rorotan",
+            "ipks": 24.21758891,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Cilincing",
+            "kota": "Jakarta Utara"
+        },
+        {
+            "id": 229,
+            "kelurahan": "Pinangsia",
+            "ipks": 26.04848047,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "Taman Sari",
+            "kota": "Jakarta Barat"
+        },
+        {
+            "id": 230,
+            "kelurahan": "Cengkareng Timur",
+            "ipks": 21.41754695,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Cengkareng",
+            "kota": "Jakarta Barat"
+        },
+        {
+            "id": 231,
+            "kelurahan": "Kali Deres",
+            "ipks": null,
+            "kategori": "Rawan Berat",
+            "kecamatan": "Kali deres",
+            "kota": "Jakarta Barat"
+        },
+        {
+            "id": 232,
+            "kelurahan": "Pademangan Barat",
+            "ipks": 29.58747126,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "Pademangan",
+            "kota": "Jakarta Utara"
+        },
+        {
+            "id": 233,
+            "kelurahan": "Pademangan Timur",
+            "ipks": 27.01784162,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "Pademangan",
+            "kota": "Jakarta Utara"
+        },
+        {
+            "id": 234,
+            "kelurahan": "Kapuk",
+            "ipks": 26.44460835,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "Cengkareng",
+            "kota": "Jakarta Barat"
+        },
+        {
+            "id": 235,
+            "kelurahan": "Tugu Selatan",
+            "ipks": 23.17007384,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Koja",
+            "kota": "Jakarta Utara"
+        },
+        {
+            "id": 236,
+            "kelurahan": "Sunter Agung",
+            "ipks": 16.45463194,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Tanjung Priok",
+            "kota": "Jakarta Utara"
+        },
+        {
+            "id": 237,
+            "kelurahan": "Rawa Badak Selatan",
+            "ipks": 28.98959372,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "Koja",
+            "kota": "Jakarta Utara"
+        },
+        {
+            "id": 238,
+            "kelurahan": "Papanggo",
+            "ipks": 19.99134198,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Tanjung Priok",
+            "kota": "Jakarta Utara"
+        },
+        {
+            "id": 239,
+            "kelurahan": "Cengkareng Barat",
+            "ipks": 20.53686634,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Cengkareng",
+            "kota": "Jakarta Barat"
+        },
+        {
+            "id": 240,
+            "kelurahan": "Pejagalan",
+            "ipks": 25.11592553,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "Penjaringan",
+            "kota": "Jakarta Utara"
+        },
+        {
+            "id": 241,
+            "kelurahan": "Tugu Utara",
+            "ipks": 33.03835621,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "Koja",
+            "kota": "Jakarta Utara"
+        },
+        {
+            "id": 242,
+            "kelurahan": "Pegadungan",
+            "ipks": 19.18217729,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Kalideres",
+            "kota": "Jakarta Barat"
+        },
+        {
+            "id": 243,
+            "kelurahan": "Warakas",
+            "ipks": 24.33894085,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Tanjung Priok",
+            "kota": "Jakarta Utara"
+        },
+        {
+            "id": 244,
+            "kelurahan": "Rawa Badak Utara",
+            "ipks": 24.95782974,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Koja",
+            "kota": "Jakarta Utara"
+        },
+        {
+            "id": 245,
+            "kelurahan": "Kebon Bawang",
+            "ipks": 23.54861487,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Tanjung Priok",
+            "kota": "Jakarta Utara"
+        },
+        {
+            "id": 246,
+            "kelurahan": "Sungai Bambu",
+            "ipks": 20.77711408,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Tanjung Priok",
+            "kota": "Jakarta Utara"
+        },
+        {
+            "id": 247,
+            "kelurahan": "Lagoa",
+            "ipks": 33.94769716,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "Koja",
+            "kota": "Jakarta Utara"
+        },
+        {
+            "id": 248,
+            "kelurahan": "Semper Barat",
+            "ipks": 25.4258294,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "Cilincing",
+            "kota": "Jakarta Utara"
+        },
+        {
+            "id": 249,
+            "kelurahan": "Semper Timur",
+            "ipks": 26.22154859,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "Cilincing",
+            "kota": "Jakarta Utara"
+        },
+        {
+            "id": 250,
+            "kelurahan": "Kapuk Muara",
+            "ipks": 16.92125351,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Penjaringan",
+            "kota": "Jakarta Utara"
+        },
+        {
+            "id": 251,
+            "kelurahan": "Ancol",
+            "ipks": 29.43588087,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "Pademangan",
+            "kota": "Jakarta Utara"
+        },
+        {
+            "id": 252,
+            "kelurahan": "Tegal Alur",
+            "ipks": 19.33998103,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Kalideres",
+            "kota": "Jakarta Barat"
+        },
+        {
+            "id": 253,
+            "kelurahan": "Koja",
+            "ipks": 31.02550884,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "Koja",
+            "kota": "Jakarta Utara"
+        },
+        {
+            "id": 254,
+            "kelurahan": "Cilincing",
+            "ipks": 27.26208177,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "Cilincing",
+            "kota": "Jakarta Utara"
+        },
+        {
+            "id": 255,
+            "kelurahan": "Kali Baru",
+            "ipks": 37.71340889,
+            "kategori": "Rawan Sedang",
+            "kecamatan": "Cilincing",
+            "kota": "Jakarta Utara"
+        },
+        {
+            "id": 256,
+            "kelurahan": "Kamal",
+            "ipks": 20.16208322,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Kalideres",
+            "kota": "Jakarta Barat"
+        },
+        {
+            "id": 257,
+            "kelurahan": "Penjaringan",
+            "ipks": 35.895876,
+            "kategori": "Rawan Sedang",
+            "kecamatan": "Penjaringan",
+            "kota": "Jakarta Utara"
+        },
+        {
+            "id": 258,
+            "kelurahan": "Tanjung Priok",
+            "ipks": 28.47296467,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "Tanjung Priok",
+            "kota": "Jakarta Utara"
+        },
+        {
+            "id": 259,
+            "kelurahan": "Pluit",
+            "ipks": 19.05878307,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "Penjaringan",
+            "kota": "Jakarta Utara"
+        },
+        {
+            "id": 260,
+            "kelurahan": "Kamal Muara",
+            "ipks": 23.49493504,
+            "kategori": "Rawan Sangat Ringan",
+            "kecamatan": "Penjaringan",
+            "kota": "Jakarta Utara"
+        },
+        {
+            "id": 261,
+            "kelurahan": "Marunda",
+            "ipks": 32.63888677,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "Cilincing",
+            "kota": "Jakarta Utara"
+        },
+        {
+            "id": 73784,
+            "kelurahan": "PULAU HARAPAN",
+            "ipks": 28.49566668,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73785,
+            "kelurahan": "PULAU HARAPAN",
+            "ipks": 28.49566668,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73786,
+            "kelurahan": "PULAU HARAPAN",
+            "ipks": 28.49566668,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73787,
+            "kelurahan": "PULAU HARAPAN",
+            "ipks": 28.49566668,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73788,
+            "kelurahan": "PULAU HARAPAN",
+            "ipks": 28.49566668,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73789,
+            "kelurahan": "PULAU HARAPAN",
+            "ipks": 28.49566668,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73790,
+            "kelurahan": "PULAU HARAPAN",
+            "ipks": 28.49566668,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73791,
+            "kelurahan": "PULAU HARAPAN",
+            "ipks": 28.49566668,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73792,
+            "kelurahan": "PULAU HARAPAN",
+            "ipks": 28.49566668,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73793,
+            "kelurahan": "PULAU HARAPAN",
+            "ipks": 28.49566668,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73794,
+            "kelurahan": "PULAU HARAPAN",
+            "ipks": 28.49566668,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73795,
+            "kelurahan": "PULAU HARAPAN",
+            "ipks": 28.49566668,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73796,
+            "kelurahan": "PULAU HARAPAN",
+            "ipks": 28.49566668,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73797,
+            "kelurahan": "PULAU HARAPAN",
+            "ipks": 28.49566668,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73798,
+            "kelurahan": "PULAU HARAPAN",
+            "ipks": 28.49566668,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73799,
+            "kelurahan": "PULAU HARAPAN",
+            "ipks": 28.49566668,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73800,
+            "kelurahan": "PULAU HARAPAN",
+            "ipks": 28.49566668,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73801,
+            "kelurahan": "PULAU HARAPAN",
+            "ipks": 28.49566668,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73802,
+            "kelurahan": "PULAU HARAPAN",
+            "ipks": 28.49566668,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73803,
+            "kelurahan": "PULAU HARAPAN",
+            "ipks": 28.49566668,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73804,
+            "kelurahan": "PULAU HARAPAN",
+            "ipks": 28.49566668,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73805,
+            "kelurahan": "PULAU HARAPAN",
+            "ipks": 28.49566668,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73806,
+            "kelurahan": "PULAU HARAPAN",
+            "ipks": 28.49566668,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73807,
+            "kelurahan": "PULAU HARAPAN",
+            "ipks": 28.49566668,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73808,
+            "kelurahan": "PULAU HARAPAN",
+            "ipks": 28.49566668,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73809,
+            "kelurahan": "PULAU HARAPAN",
+            "ipks": 28.49566668,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73810,
+            "kelurahan": "PULAU HARAPAN",
+            "ipks": 28.49566668,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73811,
+            "kelurahan": "PULAU HARAPAN",
+            "ipks": 28.49566668,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73812,
+            "kelurahan": "PULAU HARAPAN",
+            "ipks": 28.49566668,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73813,
+            "kelurahan": "PULAU HARAPAN",
+            "ipks": 28.49566668,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73814,
+            "kelurahan": "PULAU HARAPAN",
+            "ipks": 28.49566668,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73815,
+            "kelurahan": "PULAU HARAPAN",
+            "ipks": 28.49566668,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73816,
+            "kelurahan": "PULAU HARAPAN",
+            "ipks": 28.49566668,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73817,
+            "kelurahan": "PULAU HARAPAN",
+            "ipks": 28.49566668,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73818,
+            "kelurahan": "PULAU HARAPAN",
+            "ipks": 28.49566668,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73819,
+            "kelurahan": "PULAU HARAPAN",
+            "ipks": 28.49566668,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73820,
+            "kelurahan": "PULAU HARAPAN",
+            "ipks": 28.49566668,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73821,
+            "kelurahan": "PULAU HARAPAN",
+            "ipks": 28.49566668,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73822,
+            "kelurahan": "PULAU HARAPAN",
+            "ipks": 28.49566668,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73823,
+            "kelurahan": "PULAU HARAPAN",
+            "ipks": 28.49566668,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73824,
+            "kelurahan": "PULAU HARAPAN",
+            "ipks": 28.49566668,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73825,
+            "kelurahan": "PULAU HARAPAN",
+            "ipks": 28.49566668,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73826,
+            "kelurahan": "PULAU HARAPAN",
+            "ipks": 28.49566668,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73827,
+            "kelurahan": "PULAU HARAPAN",
+            "ipks": 28.49566668,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73828,
+            "kelurahan": "PULAU HARAPAN",
+            "ipks": 28.49566668,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73829,
+            "kelurahan": "PULAU HARAPAN",
+            "ipks": 28.49566668,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73830,
+            "kelurahan": "PULAU HARAPAN",
+            "ipks": 28.49566668,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73831,
+            "kelurahan": "PULAU HARAPAN",
+            "ipks": 28.49566668,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73832,
+            "kelurahan": "PULAU HARAPAN",
+            "ipks": 28.49566668,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73833,
+            "kelurahan": "PULAU HARAPAN",
+            "ipks": 28.49566668,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73834,
+            "kelurahan": "PULAU HARAPAN",
+            "ipks": 28.49566668,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73835,
+            "kelurahan": "PULAU HARAPAN",
+            "ipks": 28.49566668,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73836,
+            "kelurahan": "PULAU HARAPAN",
+            "ipks": 28.49566668,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73837,
+            "kelurahan": "PULAU HARAPAN",
+            "ipks": 28.49566668,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73838,
+            "kelurahan": "PULAU HARAPAN",
+            "ipks": 28.49566668,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73839,
+            "kelurahan": "PULAU HARAPAN",
+            "ipks": 28.49566668,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73840,
+            "kelurahan": "PULAU KELAPA",
+            "ipks": 30.14545525,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73841,
+            "kelurahan": "PULAU KELAPA",
+            "ipks": 30.14545525,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73842,
+            "kelurahan": "PULAU KELAPA",
+            "ipks": 30.14545525,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73843,
+            "kelurahan": "PULAU KELAPA",
+            "ipks": 30.14545525,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73844,
+            "kelurahan": "PULAU KELAPA",
+            "ipks": 30.14545525,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73845,
+            "kelurahan": "PULAU KELAPA",
+            "ipks": 30.14545525,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73846,
+            "kelurahan": "PULAU KELAPA",
+            "ipks": 30.14545525,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73847,
+            "kelurahan": "PULAU KELAPA",
+            "ipks": 30.14545525,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73848,
+            "kelurahan": "PULAU KELAPA",
+            "ipks": 30.14545525,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73849,
+            "kelurahan": "PULAU KELAPA",
+            "ipks": 30.14545525,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73850,
+            "kelurahan": "PULAU KELAPA",
+            "ipks": 30.14545525,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73851,
+            "kelurahan": "PULAU KELAPA",
+            "ipks": 30.14545525,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73852,
+            "kelurahan": "PULAU KELAPA",
+            "ipks": 30.14545525,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73853,
+            "kelurahan": "PULAU KELAPA",
+            "ipks": 30.14545525,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73854,
+            "kelurahan": "PULAU PANGGANG",
+            "ipks": 25.3942462,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73855,
+            "kelurahan": "PULAU PANGGANG",
+            "ipks": 25.3942462,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73856,
+            "kelurahan": "PULAU PANGGANG",
+            "ipks": 25.3942462,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73857,
+            "kelurahan": "PULAU PANGGANG",
+            "ipks": 25.3942462,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73858,
+            "kelurahan": "PULAU PANGGANG",
+            "ipks": 25.3942462,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73859,
+            "kelurahan": "PULAU PANGGANG",
+            "ipks": 25.3942462,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73860,
+            "kelurahan": "PULAU PANGGANG",
+            "ipks": 25.3942462,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73861,
+            "kelurahan": "PULAU PANGGANG",
+            "ipks": 25.3942462,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73862,
+            "kelurahan": "PULAU PANGGANG",
+            "ipks": 25.3942462,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73863,
+            "kelurahan": "PULAU PANGGANG",
+            "ipks": 25.3942462,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73864,
+            "kelurahan": "PULAU PANGGANG",
+            "ipks": 25.3942462,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73865,
+            "kelurahan": "PULAU PANGGANG",
+            "ipks": 25.3942462,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73866,
+            "kelurahan": "PULAU PANGGANG",
+            "ipks": 25.3942462,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73867,
+            "kelurahan": "PULAU PANGGANG",
+            "ipks": 25.3942462,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73868,
+            "kelurahan": "PULAU PANGGANG",
+            "ipks": 25.3942462,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73869,
+            "kelurahan": "PULAU PANGGANG",
+            "ipks": 25.3942462,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73870,
+            "kelurahan": "PULAU PANGGANG",
+            "ipks": 25.3942462,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU UTARA",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73871,
+            "kelurahan": "PULAU PARI",
+            "ipks": 35.90286857,
+            "kategori": "Rawan Sedang",
+            "kecamatan": "KEPULAUAN SERIBU SELATAN",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73872,
+            "kelurahan": "PULAU PARI",
+            "ipks": 35.90286857,
+            "kategori": "Rawan Sedang",
+            "kecamatan": "KEPULAUAN SERIBU SELATAN",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73873,
+            "kelurahan": "PULAU PARI",
+            "ipks": 35.90286857,
+            "kategori": "Rawan Sedang",
+            "kecamatan": "KEPULAUAN SERIBU SELATAN",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73874,
+            "kelurahan": "PULAU PARI",
+            "ipks": 35.90286857,
+            "kategori": "Rawan Sedang",
+            "kecamatan": "KEPULAUAN SERIBU SELATAN",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73875,
+            "kelurahan": "PULAU PARI",
+            "ipks": 35.90286857,
+            "kategori": "Rawan Sedang",
+            "kecamatan": "KEPULAUAN SERIBU SELATAN",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73876,
+            "kelurahan": "PULAU PARI",
+            "ipks": 35.90286857,
+            "kategori": "Rawan Sedang",
+            "kecamatan": "KEPULAUAN SERIBU SELATAN",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73877,
+            "kelurahan": "PULAU PARI",
+            "ipks": 35.90286857,
+            "kategori": "Rawan Sedang",
+            "kecamatan": "KEPULAUAN SERIBU SELATAN",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73878,
+            "kelurahan": "PULAU PARI",
+            "ipks": 35.90286857,
+            "kategori": "Rawan Sedang",
+            "kecamatan": "KEPULAUAN SERIBU SELATAN",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73879,
+            "kelurahan": "PULAU PARI",
+            "ipks": 35.90286857,
+            "kategori": "Rawan Sedang",
+            "kecamatan": "KEPULAUAN SERIBU SELATAN",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73880,
+            "kelurahan": "PULAU PARI",
+            "ipks": 35.90286857,
+            "kategori": "Rawan Sedang",
+            "kecamatan": "KEPULAUAN SERIBU SELATAN",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73881,
+            "kelurahan": "PULAU PARI",
+            "ipks": 35.90286857,
+            "kategori": "Rawan Sedang",
+            "kecamatan": "KEPULAUAN SERIBU SELATAN",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73882,
+            "kelurahan": "PULAU PARI",
+            "ipks": 35.90286857,
+            "kategori": "Rawan Sedang",
+            "kecamatan": "KEPULAUAN SERIBU SELATAN",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73883,
+            "kelurahan": "PULAU PARI",
+            "ipks": 35.90286857,
+            "kategori": "Rawan Sedang",
+            "kecamatan": "KEPULAUAN SERIBU SELATAN",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73884,
+            "kelurahan": "PULAU TIDUNG",
+            "ipks": 33.21840369,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU SELATAN",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73885,
+            "kelurahan": "PULAU TIDUNG",
+            "ipks": 33.21840369,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU SELATAN",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73886,
+            "kelurahan": "PULAU TIDUNG",
+            "ipks": 33.21840369,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU SELATAN",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73887,
+            "kelurahan": "PULAU TIDUNG",
+            "ipks": 33.21840369,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU SELATAN",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73888,
+            "kelurahan": "PULAU TIDUNG",
+            "ipks": 33.21840369,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU SELATAN",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73889,
+            "kelurahan": "PULAU TIDUNG",
+            "ipks": 33.21840369,
+            "kategori": "Rawan Ringan",
+            "kecamatan": "KEPULAUAN SERIBU SELATAN",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73890,
+            "kelurahan": "PULAU UNTUNG JAWA",
+            "ipks": 19.2439715,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "KEPULAUAN SERIBU SELATAN",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73891,
+            "kelurahan": "PULAU UNTUNG JAWA",
+            "ipks": 19.2439715,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "KEPULAUAN SERIBU SELATAN",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73892,
+            "kelurahan": "PULAU UNTUNG JAWA",
+            "ipks": 19.2439715,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "KEPULAUAN SERIBU SELATAN",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73893,
+            "kelurahan": "PULAU UNTUNG JAWA",
+            "ipks": 19.2439715,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "KEPULAUAN SERIBU SELATAN",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73894,
+            "kelurahan": "PULAU UNTUNG JAWA",
+            "ipks": 19.2439715,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "KEPULAUAN SERIBU SELATAN",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73895,
+            "kelurahan": "PULAU UNTUNG JAWA",
+            "ipks": 19.2439715,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "KEPULAUAN SERIBU SELATAN",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73896,
+            "kelurahan": "PULAU UNTUNG JAWA",
+            "ipks": 19.2439715,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "KEPULAUAN SERIBU SELATAN",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73897,
+            "kelurahan": "PULAU UNTUNG JAWA",
+            "ipks": 19.2439715,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "KEPULAUAN SERIBU SELATAN",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73898,
+            "kelurahan": "PULAU UNTUNG JAWA",
+            "ipks": 19.2439715,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "KEPULAUAN SERIBU SELATAN",
+            "kota": "KEPULAUAN SERIBU"
+        },
+        {
+            "id": 73899,
+            "kelurahan": "PULAU UNTUNG JAWA",
+            "ipks": 19.2439715,
+            "kategori": "Tidak Rawan",
+            "kecamatan": "KEPULAUAN SERIBU SELATAN",
+            "kota": "KEPULAUAN SERIBU"
+        }
+]

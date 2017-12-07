@@ -1,0 +1,41 @@
+[
+  {
+    "nama_lembaga": "BBC CALCULUS",
+    "jenis kursus": "Bahasa Inggris",
+    "kota": "Jakarta Pusat",
+    "alamat": "Jl. Kemayoran Ketapang No.8 Jakarta Pusat",
+    "telp_number": "021 4209198",
+    "website": "www.bbc-ets.com",
+    "email": "bbc.kemayoranbbc-ets.com",
+    "tanggal_berdiri": "",
+    "nama_pimpinan": "Sair Sugandi",
+    "latitude": -6.162112,
+    "longitude": 106.850033
+  },
+  {
+    "nama_lembaga": "BEC",
+    "jenis kursus": "Bahasa Inggris",
+    "kota": "Jakarta Pusat",
+    "alamat": "Jl. Batu III No.1 Kelurahan Gambir",
+    "telp_number": "021 3441207",
+    "website": "",
+    "email": "britannia2003@hotmail.com",
+    "tanggal_berdiri": "",
+    "nama_pimpinan": "Slamet Supriyanto, SS, MM",
+    "latitude": -6.178728,
+    "longitude": 106.834289
+  },
+  {
+    "nama_lembaga": "BRIGHT LITTLE STAR",
+    "jenis kursus": "Bahasa Inggris",
+    "kota": "Jakarta Pusat",
+    "alamat": "Krekot Bunder Raya No.48",
+    "telp_number": "021 3847748",
+    "website": "",
+    "email": "",
+    "tanggal_berdiri": "",
+    "nama_pimpinan": "Adi widjaja",
+    "latitude": -6.15945,
+    "longitude": 106.832033
+  }
+]
