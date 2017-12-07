@@ -29,6 +29,10 @@ public class ManageKursusTbl {
         dao.insertOrReplaceInTx(object);
     }
 
+    public List<KursusTbl> getKursusByJenisKursus(String jenisKursus) {
+        return dao.queryBuilder().where(KursusTblDao.Properties.JenisKursus.eq(jenisKursus)).list();
+    }
+
     public List<KursusTbl> getAll() {
         return dao.queryBuilder().list();
     }
@@ -49,7 +53,7 @@ public class ManageKursusTbl {
         dao.delete(object);
     }
 
-    public long size(){
+    public long size() {
         return dao.count();
     }
 

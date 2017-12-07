@@ -7,6 +7,7 @@ import android.location.Location;
 import android.os.AsyncTask;
 import android.rezkyauliapratama.id.robusta.R;
 import android.rezkyauliapratama.id.robusta.controller.fragment.BaseFragment;
+import android.rezkyauliapratama.id.robusta.controller.fragment.DataFragment;
 import android.rezkyauliapratama.id.robusta.controller.fragment.MapFragment;
 import android.rezkyauliapratama.id.robusta.controller.service.GPSTracker;
 import android.rezkyauliapratama.id.robusta.controller.service.GpsService;
@@ -148,7 +149,7 @@ public class MainActivity extends BaseActivity implements MapFragment.LocationDi
 
     private void initViewPager(){
         fragments.add(MapFragment.newInstance(0,0));
-        fragments.add(new BaseFragment());
+        fragments.add(new DataFragment());
         /*fragments.add(ScheduleFragment.newInstance());
         fragments.add(new BaseFragment());*/
 //        fragments.add(GuideFragment.newInstance());

@@ -37,5 +37,31 @@
     "nama_pimpinan": "Adi widjaja",
     "latitude": -6.15945,
     "longitude": 106.832033
+  },
+  {
+    "nama_lembaga": "BRIGHT LITTLE STAR",
+    "jenis kursus": "Ajeb2",
+    "kota": "Jakarta Pusat",
+    "alamat": "Krekot Bunder Raya No.48",
+    "telp_number": "021 3847748",
+    "website": "",
+    "email": "",
+    "tanggal_berdiri": "",
+    "nama_pimpinan": "Adi widjaja",
+    "latitude": -6.15945,
+    "longitude": 106.832033
+  },
+  {
+    "nama_lembaga": "BRIGHT LITTLE STAR",
+    "jenis kursus": "Ngoding",
+    "kota": "Jakarta Pusat",
+    "alamat": "Krekot Bunder Raya No.48",
+    "telp_number": "021 3847748",
+    "website": "",
+    "email": "",
+    "tanggal_berdiri": "",
+    "nama_pimpinan": "Adi widjaja",
+    "latitude": -6.15945,
+    "longitude": 106.832033
   }
 ]
