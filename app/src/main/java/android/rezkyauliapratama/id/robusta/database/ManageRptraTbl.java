@@ -37,6 +37,11 @@ public class ManageRptraTbl {
         return dao.queryBuilder().where(RptraTblDao.Properties.Id.eq(id)).unique();
     }
 
+    public RptraTbl get(String name) {
+        return dao.queryBuilder().where(RptraTblDao.Properties.NamaRptra.eq(name)).unique();
+    }
+
+
     public void removeAll() {
         dao.deleteAll();
     }

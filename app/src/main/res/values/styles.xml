@@ -1,36 +1,26 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
 
     <!-- Base application theme. -->
-    <!-- Base application theme. -->
-    <style name="AppTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
         <!-- Customize your theme here. -->
         <item name="colorPrimary">@color/colorPrimary</item>
-        <item name="colorPrimaryDark">@color/colorWhite_1000</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
-        <item name="android:windowLightStatusBar" tools:targetApi="23">true</item>
-
-
     </style>
 
     <style name="AppTheme.NoActionBar">
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
-
     </style>
 
-    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
-        <item name="android:windowLightStatusBar" tools:targetApi="23">true</item>
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+    <style name="dialog" parent="android:Theme.DeviceDefault.Dialog.NoActionBar.MinWidth" >
+        <item name="android:windowIsFloating">true</item>
     </style>
 
-    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light">
-        <item name="android:windowLightStatusBar" tools:targetApi="23">true</item>
+    <style name="dialog.light" parent="android:Theme.DeviceDefault.Light.Dialog.NoActionBar.MinWidth" >
+        <item name="android:windowIsFloating">true</item>
     </style>
-
-
-    <style name="AppTheme.NavigationView">
-        <!--<item name="android:listDivider">@color/colorGrey_600</item>-->
-        <item name="android:textColorSecondary">@color/colorBlack_1000</item>
-    </style>
-
-
 </resources>

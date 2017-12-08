@@ -1,6 +1,9 @@
 package android.rezkyauliapratama.id.robusta.controller.fragment;
 
 import android.Manifest;
+import android.app.Dialog;
+import android.app.DialogFragment;
+import android.content.Context;
 import android.content.pm.PackageManager;
 import android.content.res.Resources;
 import android.databinding.DataBindingUtil;
@@ -14,8 +17,14 @@ import android.os.Bundle;
 import android.rezkyauliapratama.id.robusta.R;
 import android.rezkyauliapratama.id.robusta.controller.service.GPSTracker;
 import android.rezkyauliapratama.id.robusta.database.Facade;
+import android.rezkyauliapratama.id.robusta.database.entity.IpksTbl;
 import android.rezkyauliapratama.id.robusta.database.entity.KursusTbl;
+import android.rezkyauliapratama.id.robusta.database.entity.RawanBencanaTbl;
+import android.rezkyauliapratama.id.robusta.database.entity.RptraTbl;
+import android.rezkyauliapratama.id.robusta.database.entity.RsKhususTbl;
+import android.rezkyauliapratama.id.robusta.database.entity.RsUmumTbl;
 import android.rezkyauliapratama.id.robusta.database.entity.SekolahTbl;
+import android.rezkyauliapratama.id.robusta.databinding.DialogMapBinding;
 import android.rezkyauliapratama.id.robusta.databinding.FragmentMapBinding;
 import android.rezkyauliapratama.id.robusta.model.DataModel;
 import android.rezkyauliapratama.id.robusta.model.DirectionObject;
@@ -24,6 +33,8 @@ import android.rezkyauliapratama.id.robusta.model.LegsObject;
 import android.rezkyauliapratama.id.robusta.model.PolylineObject;
 import android.rezkyauliapratama.id.robusta.model.RouteObject;
 import android.rezkyauliapratama.id.robusta.model.StepsObject;
+import android.rezkyauliapratama.id.robusta.model.api.RsUmum;
+import android.rezkyauliapratama.id.robusta.model.weather.Weather;
 import android.rezkyauliapratama.id.robusta.observer.RxBus;
 import android.rezkyauliapratama.id.robusta.utility.Helper;
 import android.support.annotation.NonNull;
@@ -38,6 +49,7 @@ import com.androidnetworking.AndroidNetworking;
 import com.androidnetworking.common.Priority;
 import com.androidnetworking.error.ANError;
 import com.androidnetworking.interfaces.ParsedRequestListener;
+import com.bumptech.glide.Glide;
 import com.google.android.gms.awareness.Awareness;
 import com.google.android.gms.awareness.snapshot.LocationResult;
 import com.google.android.gms.common.api.GoogleApiClient;
@@ -57,6 +69,8 @@ import com.google.android.gms.maps.model.MarkerOptions;
 import com.google.android.gms.maps.model.Polyline;
 import com.google.android.gms.maps.model.PolylineOptions;
 import com.google.gson.Gson;
+import com.google.maps.android.ui.BubbleIconFactory;
+import com.google.maps.android.ui.IconGenerator;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -69,7 +83,7 @@ import timber.log.Timber;
  * Created by Rezky Aulia Pratama on 12/6/2017.
  */
 
-public class MapFragment extends BaseFragment implements OnMapReadyCallback {
+public class MapFragment extends BaseFragment implements OnMapReadyCallback,GoogleMap.OnMarkerClickListener, DialogMapFragment.DialogListener {
 
     public final static int TARGET = 1;
     public final static String DiALOG = "DIALOG";
@@ -95,6 +109,10 @@ public class MapFragment extends BaseFragment implements OnMapReadyCallback {
     private Marker mCurrentMarker;
     private Circle mCurrentCircle;
 
+    private LocationDialogListener mListener;
+
+
+    Polyline polyline;
     FragmentMapBinding binding;
     SupportMapFragment supportMapFragment;
 
@@ -150,32 +168,17 @@ public class MapFragment extends BaseFragment implements OnMapReadyCallback {
 
 
 
-        binding.textViewAddress.setText(".......\n.......\n.......");
-
-
         setupGoogleApiClient();
         getLocation();
 
+        Timber.e("start "+new Gson().toJson(currentLatLng));
 
-        if (currentLatLng.latitude == 0 && currentLatLng.longitude==0) {
-            GPSTracker gps = new GPSTracker(getContext(), new GPSTracker.OnLocationEventListener() {
-                @Override
-                public void onChange(GPSTracker gpsTracker, Location location) {
-                    if (location != null) {
-                        currentLatLng = new LatLng(location.getLatitude(), location.getLongitude());
-                        locateMe();
 
-                    }
-
-                    gpsTracker.stopUsingGPS();
-                }
-            });
-
-        }
 
         disposableGpsEvent = RxBus.getInstance().observable(GpsEvent.class)
                 .observeOn(AndroidSchedulers.mainThread())
                 .subscribe(events -> {
+                    Timber.e("RXBUS : "+new Gson().toJson(events));
             updateGps(events.getLatitude(), events.getLongitude());
         });
 
@@ -186,6 +189,7 @@ public class MapFragment extends BaseFragment implements OnMapReadyCallback {
     @Override
     public void onMapReady(GoogleMap googleMap) {
         Timber.e("Map Ready");
+        mListener.onMapReady(false);
 
         try {
             // Customise the styling of the base map using a JSON object defined
@@ -210,13 +214,28 @@ public class MapFragment extends BaseFragment implements OnMapReadyCallback {
             return;
         }
 //        mMap.getUiSettings().set(true);
-        mMap.setTrafficEnabled (true);
+//        mMap.setTrafficEnabled (true);
+        mMap.setOnMarkerClickListener(this);
+
+        if (currentLatLng.latitude == 0 && currentLatLng.longitude==0) {
+            GPSTracker gps = new GPSTracker(getContext(), new GPSTracker.OnLocationEventListener() {
+                @Override
+                public void onChange(GPSTracker gpsTracker, Location location) {
+                    Timber.e("GPSTracker trigger location : "+new Gson().toJson(location));
+                    if (location != null) {
+                        currentLatLng = new LatLng(location.getLatitude(), location.getLongitude());
+                        Timber.e("GPSTracker trigger : "+new Gson().toJson(currentLatLng));
+
+                        locateMe();
+
+                    }
+                }
+            });
 
 
-       locateMe();
+        }
 
-       DataModel dataModel = getDataModel();
-       locatePlaces(dataModel);
+
 
 
     }
@@ -248,7 +267,8 @@ public class MapFragment extends BaseFragment implements OnMapReadyCallback {
         getActivity().runOnUiThread(new Runnable() {
             @Override
             public void run() {
-                getLocation();
+                currentLatLng = new LatLng(latitude,longitude);
+                locateMe();
             }
         });
     }
@@ -286,7 +306,7 @@ public class MapFragment extends BaseFragment implements OnMapReadyCallback {
 
                             } else {
 
-                                Timber.e("ERROR : MAP google client null");
+                                Timber.e("ERROR : SnapshotApi");
                             }
                         }
                     });
@@ -332,6 +352,7 @@ public class MapFragment extends BaseFragment implements OnMapReadyCallback {
     }*/
 
     private void locateMe(){
+        mListener.onUpdateLatlng(currentLatLng);
         if (getActivity() == null)
             return;
 
@@ -346,6 +367,7 @@ public class MapFragment extends BaseFragment implements OnMapReadyCallback {
         if (mCurrentMarker != null)
             mCurrentMarker.remove();
 
+        Timber.e("Locate ME : "+new Gson().toJson(currentLatLng));
         mCurrentMarker = mMap.addMarker(new MarkerOptions()
                 .position(currentLatLng)
                 .icon(getBitmapDescriptor(R.drawable.ic_map_marker))
@@ -357,21 +379,19 @@ public class MapFragment extends BaseFragment implements OnMapReadyCallback {
                 .strokeColor(ContextCompat.getColor(getContext(),R.color.primaryColor))
                 .strokeWidth(1f)
                 .fillColor(ContextCompat.getColor(getContext(),R.color.colorCircleMapTransparent)));
-       /* if (currentLatLng != null) {
-            Timber.e("current latlng not null");
-            try {
-                knownName = Utils.getInstance().setLocation(getContext(), currentLatLng);
-                binding.textViewAddress.setText("Destination : \n" + knownName + "\n\n");
-            } catch (IOException e) {
-                Timber.e(e.getMessage());
-            }
-        }*/
+
+        getWeatherApi(currentLatLng);
+
         mMap.moveCamera(CameraUpdateFactory.newLatLngZoom(currentLatLng, 15));
 
     }
 
+    public void moveCamera(LatLng latLng){
+        mMap.moveCamera(CameraUpdateFactory.newLatLngZoom(latLng, 15));
+
+    }
     public void locatePlaces(DataModel dataModel){
-        Timber.e("locatPlaces");
+        Timber.e("locatePlaces");
 
 
         if (dataModel != null){
@@ -380,9 +400,10 @@ public class MapFragment extends BaseFragment implements OnMapReadyCallback {
             if (kursusTbls.size() > 0){
                 Timber.e("kursusTbls.size() : "+kursusTbls.size());
                 for (KursusTbl kursusTbl: kursusTbls){
-                    mCurrentMarker = mMap.addMarker(new MarkerOptions()
+                    if (kursusTbl.getLatitude() != null && kursusTbl.getLongitude() != null && !kursusTbl.getNamaLembaga().isEmpty())
+                        mMap.addMarker(new MarkerOptions()
                             .position(new LatLng(kursusTbl.getLatitude(),kursusTbl.getLongitude()))
-                            .icon(getBitmapDescriptor(R.drawable.ic_map_marker))
+                            .icon(getBitmapDescriptor(R.drawable.ic_reading))
                             .title(kursusTbl.getNamaLembaga()));
 
                 }
@@ -393,14 +414,94 @@ public class MapFragment extends BaseFragment implements OnMapReadyCallback {
             if (sekolahTbls.size() > 0){
                 Timber.e("sekolahTbls.size() : "+sekolahTbls.size());
                 for (SekolahTbl sekolahTbl: sekolahTbls){
-                    mCurrentMarker = mMap.addMarker(new MarkerOptions()
+                    if (sekolahTbl.getLatitude() != null && sekolahTbl.getLongitude() != null && !sekolahTbl.getNamaSekolah().isEmpty())
+                    mMap.addMarker(new MarkerOptions()
                             .position(new LatLng(sekolahTbl.getLatitude(),sekolahTbl.getLongitude()))
                             .icon(getBitmapDescriptor(R.drawable.ic_college_graduation))
-                            .title(sekolahTbl.getNamaSekolah()));
+                            .title(sekolahTbl.getNamaSekolah())
+                            );
 
                 }
             }
+
+            List<RsUmumTbl> rsUmumTbls= dataModel.getRsUmumTbls();
+            if (rsUmumTbls.size() > 0){
+                Timber.e("rsUmumTbls.size() : "+rsUmumTbls.size());
+                for (RsUmumTbl rsUmumTbl: rsUmumTbls){
+                    if (rsUmumTbl.getLatitude() != null && rsUmumTbl.getLongitude() != null && rsUmumTbl.getNamaRsu() != null)
+                        mMap.addMarker(new MarkerOptions()
+                            .position(new LatLng(rsUmumTbl.getLatitude(),rsUmumTbl.getLongitude()))
+                            .icon(getBitmapDescriptor(R.drawable.ic_hospital))
+                            .title(rsUmumTbl.getNamaRsu()));
+
+                }
+            }
+
+
+            List<RsKhususTbl> rsKhususTbls= dataModel.getRsKhususTbls();
+            if (rsUmumTbls.size() > 0){
+                Timber.e("rsUmumTbls.size() : "+rsUmumTbls.size());
+                for (RsKhususTbl rsKhususTbl: rsKhususTbls){
+                    if (rsKhususTbl.getLatitude() != null && rsKhususTbl.getLongitude() != null && rsKhususTbl.getNamaRsk() != null)
+                         mMap.addMarker(new MarkerOptions()
+                            .position(new LatLng(rsKhususTbl.getLatitude(),rsKhususTbl.getLongitude()))
+                            .icon(getBitmapDescriptor(R.drawable.ic_hospital))
+                            .title(rsKhususTbl.getNamaRsk()));
+
+                }
+            }
+
+
+            List<RawanBencanaTbl> rawanBencanaTbls= dataModel.getRawanBencanaTbls();
+
+            if (rawanBencanaTbls.size() > 0){
+                Timber.e("rawanBencanaTbls.size() : "+rsUmumTbls.size());
+                for (RawanBencanaTbl rawanBencanaTbl: rawanBencanaTbls){
+                    if (rawanBencanaTbl.getLatitude() != null && rawanBencanaTbl.getLongitude() != null && rawanBencanaTbl.getBencana() != null) {
+                        IconGenerator mBubbleFactory = new IconGenerator (getContext());
+                        Bitmap bitmap = mBubbleFactory.makeIcon("Rawan  : "+rawanBencanaTbl.getBencana());
+                        mMap.addMarker(new MarkerOptions()
+                                .position(new LatLng(rawanBencanaTbl.getLatitude(),rawanBencanaTbl.getLongitude()))
+                                .icon(BitmapDescriptorFactory.fromBitmap(bitmap))
+                                .title("Rawan  : "+rawanBencanaTbl.getBencana()));
+
+                        mMap.addCircle(new CircleOptions()
+                                .center(new LatLng(rawanBencanaTbl.getLatitude(), rawanBencanaTbl.getLongitude()))
+                                .radius(200)
+                                .strokeColor(ContextCompat.getColor(getContext(), R.color.colorBlueGrey_400))
+                                .strokeWidth(1f)
+                                .fillColor(adjustAlpha(ContextCompat.getColor(getContext(), R.color.colorBlueGrey_400), 0.4f)));
+                    }
+                }
+            }
+
+
+            List<RptraTbl> rptraTbls = dataModel.getRptraTbls();
+            if (rptraTbls.size() > 0){
+                Timber.e("rptraTbls.size() : "+rptraTbls.size());
+                for (RptraTbl ipksTbl: rptraTbls){
+                    if (ipksTbl.getLatitude() != null && ipksTbl.getLongitude() != null && ipksTbl.getNamaRptra() != null) {
+                        IconGenerator mBubbleFactory = new IconGenerator (getContext());
+                        Bitmap bitmap = mBubbleFactory.makeIcon("RPTRA  : "+ipksTbl.getNamaRptra());
+                        mMap.addMarker(new MarkerOptions()
+                                .position(new LatLng(ipksTbl.getLatitude(),ipksTbl.getLongitude()))
+                                .icon(BitmapDescriptorFactory.fromBitmap(bitmap))
+                                .title(ipksTbl.getNamaRptra()));
+
+                        mMap.addCircle(new CircleOptions()
+                                .center(new LatLng(ipksTbl.getLatitude(), ipksTbl.getLongitude()))
+                                .radius(200)
+                                .strokeColor(ContextCompat.getColor(getContext(), R.color.colorPink_200))
+                                .strokeWidth(1f)
+                                .fillColor(adjustAlpha(ContextCompat.getColor(getContext(), R.color.colorPink_200), 0.4f)));
+                    }
+                }
+            }
+
+
+            mListener.onMapReady(true);
         }
+
 
 
     }
@@ -408,8 +509,9 @@ public class MapFragment extends BaseFragment implements OnMapReadyCallback {
 
     private void setRouteDistanceAndDuration(String distance, String duration){
 
-        binding.textViewAddress.append("Distance : "+distance+"\n");
-        binding.textViewAddress.append("Duration : "+duration+"\n");
+        binding.textViewAddress.setVisibility(View.VISIBLE);
+        binding.textViewAddress.setText("Jarak : "+distance+"\n");
+        binding.textViewAddress.append("Waktu tempuh : "+duration+"\n");
     }
     private List<LatLng> getDirectionPolylines(List<RouteObject> routes){
         List<LatLng> directionList = new ArrayList<LatLng>();
@@ -434,9 +536,13 @@ public class MapFragment extends BaseFragment implements OnMapReadyCallback {
     }
 
     private void drawRouteOnMap(GoogleMap map, List<LatLng> positions){
-        PolylineOptions options = new PolylineOptions().width(5).color(Color.RED).geodesic(true);
+        if (polyline != null)
+            polyline.remove();
+
+        PolylineOptions options = new PolylineOptions().width(15).color(R.color.colorAccentyTransparent).zIndex(100).geodesic(true);
         options.addAll(positions);
-        Polyline polyline = map.addPolyline(options);
+        polyline = map.addPolyline(options);
+
     }
     /**
      * Method to decode polyline points
@@ -471,10 +577,10 @@ public class MapFragment extends BaseFragment implements OnMapReadyCallback {
         return poly;
     }
 
-    private void getDirection(){
+    private void getDirection(LatLng latLng){
         //use Google Direction API to get the route between these Locations
         String directionApiPath = Helper.getUrl(String.valueOf(currentLatLng.latitude), String.valueOf(currentLatLng.longitude),
-                String.valueOf(destionationLatLng.latitude), String.valueOf(destionationLatLng.longitude));
+                String.valueOf(latLng.latitude), String.valueOf(latLng.longitude));
 
         Timber.e("directionApiPath : "+directionApiPath);
 
@@ -507,13 +613,75 @@ public class MapFragment extends BaseFragment implements OnMapReadyCallback {
         return Color.argb(alpha, red, green, blue);
     }
 
+    @Override
+    public boolean onMarkerClick(Marker marker) {
+        Timber.e("marker : "+marker.getTitle());
 
+        KursusTbl kursusTbl = Facade.getInstance().getManageKursusTbl().get(marker.getTitle());
+
+        if (kursusTbl != null){
+            String desc = ""+kursusTbl.getJenisKursus().concat("\n").concat("Nama Pimpinan\t: "+kursusTbl.getNamaPimpinan()).concat("\n").concat("Alamat\t: "+kursusTbl.getAlamat()).concat("\n").concat("Kota\t: "+kursusTbl.getKota()).concat("\n")
+                    .concat("Berdiri\t: "+kursusTbl.getTanggalBerdiri()).concat("\n").concat("Email\t: "+kursusTbl.getEmail()).concat("\n").concat("Website\t: "+kursusTbl.getWebsite()).concat("\n")
+                    .concat("Telp\t: "+kursusTbl.getTelpNumber());
+            showDialog(kursusTbl.getNamaLembaga(),desc,new LatLng(kursusTbl.getLatitude(),kursusTbl.getLongitude()));
+            return false;
+        }else{
+            RptraTbl rptraTbl = Facade.getInstance().getManageRptraTbl().get(marker.getTitle());
+
+            if (rptraTbl != null){
+                String desc =
+                        "Fasilitas\t: "+rptraTbl.getFasilitas().concat("\n\n")
+                        .concat("Permasalahan\t: "+rptraTbl.getPermasalahan()).concat("\n\n")
+                        .concat("Alamat\t: "+rptraTbl.getAlamat()).concat("\n")
+                        .concat("Kelurahan\t: "+rptraTbl.getKelurahan()).concat("\n")
+                        .concat("Kecamatan\t: "+rptraTbl.getKecamatan()).concat("\n")
+                        .concat("Email\t: "+rptraTbl.getEmail()).concat("\n")
+                        .concat("Luas\t: "+rptraTbl.getLuas()).concat("\n")
+
+                        ;
+                showDialog(rptraTbl.getNamaRptra(),desc,new LatLng(rptraTbl.getLatitude(),rptraTbl.getLongitude()));
+            }
+            return false;
+
+        }
+
+    }
+
+    private void showDialog(String name , String desc , LatLng latLng){
+        DialogMapFragment dialogMapFragment = DialogMapFragment.newInstance(name,desc,latLng);
+        dialogMapFragment.setStyle( DialogFragment.STYLE_NORMAL, R.style.dialog_light);
+        dialogMapFragment.setTargetFragment(this,dialogMapFragment.TARGET);
+        dialogMapFragment.show(getFragmentManager().beginTransaction(), DialogMapFragment.Dialog);
+    }
+
+    @Override
+    public void onSetRoute(LatLng latLng) {
+        getDirection(latLng);
+    }
+
+    @Override
+    public void onAttach(Context context) {
+        super.onAttach(context);
+        if (context instanceof LocationDialogListener) {
+            mListener = (LocationDialogListener) context;
+        } else {
+            throw new RuntimeException(context.toString()
+                    + " must implement OnFragmentInteractionListener");
+        }
+    }
+
+    @Override
+    public void onDetach() {
+        super.onDetach();
+        mListener = null;
+    }
 
     public interface LocationDialogListener {
 
-        void onGetLocation(LatLng latLng, String knownAddress);
-        void onCancel();
+        void onMapReady(boolean b);
+        void onUpdateLatlng(LatLng latLng);
     }
+
 
 
     private DataModel getDataModel(){
@@ -531,9 +699,83 @@ public class MapFragment extends BaseFragment implements OnMapReadyCallback {
 
 
 
-
-
         return dataModel;
     }
 
+    private void getWeatherApi(LatLng latLng){
+        Timber.e("MAP : api.openweathermap.org/data/2.5/weather?APPID=06006762123eca55ccd024b11ef88268&lat="+latLng.latitude+"&lon="+latLng.longitude+"");
+        AndroidNetworking.get("http://api.openweathermap.org/data/2.5/weather?APPID=06006762123eca55ccd024b11ef88268&lat="+latLng.latitude+"&lon="+latLng.longitude+"&units=metric")
+                .setPriority(Priority.HIGH)
+                .build()
+                .getAsObject(Weather.class, new ParsedRequestListener<Weather>() {
+                    @Override
+                    public void onResponse(Weather response) {
+                        Timber.e(new Gson().toJson(response));
+                        binding.textViewWeather.setText("Cuaca : "+getWeather(response.getWeather().get(0).getId(),response.getWeather().get(0).getDescription()));
+                        binding.textViewWeather.append("\n"+"suhu : "+response.getMain().getTemp());
+
+
+                        Glide
+                                .with(getContext())
+                                .load("https://openweathermap.org/img/w/"+response.getWeather().get(0).getIcon()+".png")
+                                .into(binding.imageViewWeather);
+                    }
+
+                    @Override
+                    public void onError(ANError anError) {
+                        Timber.e("ERR API : "+anError.getMessage());
+                    }
+                });
+
+      /*  Atom.with(this)
+                .load("http://api.openweathermap.org/data/2.5/weather?APPID=06006762123eca55ccd024b11ef88268&lat="+latLng.latitude+"&lon="+latLng.longitude+"")
+                .as(Weather.class)
+                .setCallback(new FutureCallback<Weather>() {
+                    @Override
+                    public void onCompleted(Exception e, Weather result) {
+                        if (e != null){
+                            Timber.e("ERR API : "+e.getMessage());
+
+                        }
+
+                        binding.textViewAddress.append(getString(R.string.text_weather,
+                                result.getWeather().get(0).getMain()));
+                    }
+                });*/
+    }
+
+    private String getWeather(int id ,String w){
+        Timber.e("id : "+id);
+        String weather = "";
+        switch (id){
+            case 800:
+                weather = "Cerah tidak berawan";
+                break;
+            case 801:
+                weather = "Sedikit berawan";
+                break;
+            case 804:
+                weather = "Awan mendung";
+                break;
+            case  721:
+                weather = "Berkabut";
+                break;
+            case 500:
+                weather= "Gerimis";
+                break;
+            case 501:
+                weather = "Hujan sedang";
+                break;
+            case 502:
+                weather = "Hujan deras";
+                break;
+            default:
+                weather = w;
+                break;
+
+        }
+
+        return weather;
+
+    }
 }

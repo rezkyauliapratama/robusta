@@ -41,6 +41,10 @@ public class ManageKursusTbl {
         return dao.queryBuilder().where(KursusTblDao.Properties.Id.eq(id)).unique();
     }
 
+    public KursusTbl get(String name) {
+        return dao.queryBuilder().where(KursusTblDao.Properties.NamaLembaga.eq(name)).unique();
+    }
+
     public void removeAll() {
         dao.deleteAll();
     }

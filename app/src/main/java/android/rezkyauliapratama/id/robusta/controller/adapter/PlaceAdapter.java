@@ -2,9 +2,13 @@ package android.rezkyauliapratama.id.robusta.controller.adapter;
 
 import android.rezkyauliapratama.id.robusta.database.entity.KursusTbl;
 import android.rezkyauliapratama.id.robusta.databinding.ItemPlaceBinding;
+import android.rezkyauliapratama.id.robusta.observer.RxBus;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
+import android.view.View;
 import android.view.ViewGroup;
+
+import com.google.android.gms.maps.model.LatLng;
 
 import java.util.List;
 
@@ -27,6 +31,12 @@ public class PlaceAdapter extends RecyclerView.Adapter<PlaceAdapter.PlaceViewHol
     public void onBindViewHolder(final PlaceViewHolder holder, final int position) {
         final KursusTbl data = mKursusTableList.get(position);
         holder.bind(data);
+        holder.mBinding.getRoot().setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                RxBus.getInstance().post(new LatLng(data.getLatitude(),data.getLongitude()));
+            }
+        });
     }
 
     @Override
