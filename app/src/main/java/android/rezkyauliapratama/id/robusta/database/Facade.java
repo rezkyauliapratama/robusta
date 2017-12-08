@@ -39,40 +39,41 @@ public class Facade {
         manageSekolahTbl = new ManageSekolahTbl(this);
         manageRsUmumTbl = new ManageRsUmumTbl(this);
     }
-    
-    public ManageIpksTbl getManageIpksTbl(){
+
+    public ManageIpksTbl getManageIpksTbl() {
         return manageIpksTbl;
     }
 
-    public ManageKursusTbl getManageKursusTbl(){
+    public ManageKursusTbl getManageKursusTbl() {
         return manageKursusTbl;
     }
 
-    public ManagePuskesmasTbl getManagePuskesmasTbl(){
+    public ManagePuskesmasTbl getManagePuskesmasTbl() {
         return managePuskesmasTbl;
     }
 
-    public ManageRawanBencanaTbl getManageRawanBencanaTbl(){
+    public ManageRawanBencanaTbl getManageRawanBencanaTbl() {
         return manageRawanBencanaTbl;
     }
 
-       public ManageRptraTbl getManageRptraTbl(){
+    public ManageRptraTbl getManageRptraTbl() {
         return manageRptraTbl;
     }
 
-    public ManageRsKhususTbl getManageRsKhususTbl(){
+    public ManageRsKhususTbl getManageRsKhususTbl() {
         return manageRsKhususTbl;
     }
 
-    public ManageRsUmumTbl getManageRsUmumTbl(){
+    public ManageRsUmumTbl getManageRsUmumTbl() {
         return manageRsUmumTbl;
     }
 
-    public ManageSekolahTbl getManageSekolahTbl(){
+    public ManageSekolahTbl getManageSekolahTbl() {
         return manageSekolahTbl;
     }
-    
 
-
+    public boolean isDataInitialized() {
+        return getManageSekolahTbl().getAll().size() > 0;
+    }
 
 }
