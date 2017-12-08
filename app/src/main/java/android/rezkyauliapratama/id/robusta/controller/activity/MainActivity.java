@@ -82,10 +82,11 @@ public class MainActivity extends BaseActivity implements MapFragment.LocationDi
 
         intent = new Intent(this,GpsService.class);
 
+        binding.textviewTitle.setText("Peta");
+
+
         initTab();
         initViewPager();
-
-        binding.textviewTitle.setText("Peta");
 
 
         disposableGpsEvent = RxBus.getInstance().observable(LatLng.class)
@@ -264,7 +265,6 @@ public class MainActivity extends BaseActivity implements MapFragment.LocationDi
                     }
                 }
 
-                dataModel.getSekolahTbls().clear();
                 dataModel.setSekolahTbls(tempList);
             }
 

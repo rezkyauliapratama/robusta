@@ -131,8 +131,8 @@ public class BaseActivity extends AppCompatActivity {
     public void checkAppPermission() {
 
         final List<String> permissions = new ArrayList<>();
-        boolean showMessage = readPhoneState(permissions);
-
+        boolean showMessage = location(permissions)
+                ||writeExternalStorage(permissions);
 //        AppPermissions.getInstance().checkAppPermission(this, permissions);
 
         if (permissions.size() > 0) {
@@ -172,4 +172,45 @@ public class BaseActivity extends AppCompatActivity {
         return false;
     }
 
+    private boolean location(List<String> permissions) {
+        if (ActivityCompat.checkSelfPermission(getApplication(), Manifest.permission.ACCESS_FINE_LOCATION)
+                != PackageManager.PERMISSION_GRANTED
+                || ActivityCompat.checkSelfPermission(getApplication(), Manifest.permission.ACCESS_COARSE_LOCATION)
+                != PackageManager.PERMISSION_GRANTED) {
+
+            // Should we show an explanation?
+            permissions.add(Manifest.permission.ACCESS_COARSE_LOCATION);
+            permissions.add(Manifest.permission.ACCESS_FINE_LOCATION);
+
+            if (ActivityCompat.shouldShowRequestPermissionRationale(this,
+                    Manifest.permission.ACCESS_COARSE_LOCATION)
+                    && ActivityCompat.shouldShowRequestPermissionRationale(this,
+                    Manifest.permission.ACCESS_FINE_LOCATION)) {
+
+                return true;
+
+            }
+
+        }
+        return false;
+    }
+
+    private boolean writeExternalStorage(List<String> permissions) {
+        if (ActivityCompat.checkSelfPermission(
+                getApplication(), Manifest
+                        .permission.WRITE_EXTERNAL_STORAGE)
+                != PackageManager.PERMISSION_GRANTED) {
+
+            // Should we show an explanation?
+            permissions.add(Manifest.permission.WRITE_EXTERNAL_STORAGE);
+
+            if (ActivityCompat.shouldShowRequestPermissionRationale(this,
+                    Manifest.permission.WRITE_EXTERNAL_STORAGE)) {
+                return true;
+
+            }
+
+        }
+        return false;
+    }
 }

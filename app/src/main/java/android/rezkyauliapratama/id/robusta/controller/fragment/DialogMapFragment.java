@@ -23,6 +23,7 @@ public class DialogMapFragment  extends DialogFragment {
     public final static String ARG1 = "ARGS1";
     public final static String ARG2 = "ARGS2";
     public final static String ARG3 = "ARGS3";
+    public final static String ARG4 = "ARGS4";
 
     DialogMapBinding binding;
 
@@ -30,16 +31,18 @@ public class DialogMapFragment  extends DialogFragment {
 
     private String title;
     private String desc;
+    private int drawableId;
     private LatLng latLng;
 
     private boolean isSave;
 
-    public static DialogMapFragment newInstance(String title, String description, LatLng latLng){
+    public static DialogMapFragment newInstance(String title, String description, LatLng latLng,int drawableId){
         DialogMapFragment dialogFragment = new DialogMapFragment();
         Bundle args = new Bundle();
         args.putString(ARG1, title);
         args.putString(ARG2, description);
         args.putParcelable(ARG3, latLng);
+        args.putInt(ARG4, drawableId);
         dialogFragment.setArguments(args);
         return dialogFragment;
     }
@@ -51,6 +54,7 @@ public class DialogMapFragment  extends DialogFragment {
             title = getArguments().getString(ARG1);
             desc = getArguments().getString(ARG2);
             latLng = getArguments().getParcelable(ARG3);
+            drawableId = getArguments().getInt(ARG4);
         }
     }
 
@@ -72,7 +76,7 @@ public class DialogMapFragment  extends DialogFragment {
         binding.buttonDirection.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                mListener.onSetRoute(latLng);
+                mListener.onSetRoute(latLng,drawableId);
                 dismiss();
             }
         });
@@ -80,6 +84,6 @@ public class DialogMapFragment  extends DialogFragment {
 
 
     public interface DialogListener {
-        void onSetRoute(LatLng latLng);
+        void onSetRoute(LatLng latLng,int drawableId);
     }
 }

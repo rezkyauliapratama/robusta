@@ -29,8 +29,11 @@ class DataFragment : BaseFragment(), OnItemSelectedListener {
     override fun onCreateView(inflater: LayoutInflater?, container: ViewGroup?, savedInstanceState: Bundle?): View? {
         mBinding = DataBindingUtil.inflate(inflater, R.layout.fragment_data, container, false)
         mPlaceList = Facade.getInstance().manageKursusTbl.all
-        initSpinner()
-        initRecyclerView()
+        if (mPlaceList.size>0){
+            initSpinner()
+            initRecyclerView()
+        }
+
         return mBinding.root
     }
 
@@ -41,6 +44,14 @@ class DataFragment : BaseFragment(), OnItemSelectedListener {
 
     override fun onNothingSelected(parent: AdapterView<*>) {
 
+    }
+
+    public fun setData(){
+        mPlaceList = Facade.getInstance().manageKursusTbl.all
+        if (mPlaceList.size>0){
+            initSpinner()
+            initRecyclerView()
+        }
     }
 
     private fun initSpinner() {
