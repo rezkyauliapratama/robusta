@@ -16,6 +16,8 @@ import android.support.v7.app.AppCompatActivity;
 import java.util.ArrayList;
 import java.util.List;
 
+import timber.log.Timber;
+
 /**
  * Created by Rezky Aulia Pratama on 10/18/2017.
  */
@@ -133,6 +135,8 @@ public class BaseActivity extends AppCompatActivity {
         final List<String> permissions = new ArrayList<>();
         boolean showMessage = location(permissions)
                 ||writeExternalStorage(permissions);
+
+        Timber.e("showMessage : "+showMessage);
 //        AppPermissions.getInstance().checkAppPermission(this, permissions);
 
         if (permissions.size() > 0) {
@@ -155,6 +159,9 @@ public class BaseActivity extends AppCompatActivity {
                         permissions.toArray(strings),
                         Constant.getInstance().PERMISSION_REQUEST);
         }
+
+        Timber.e("checkAppPermission : finish");
+
 
     }
 
