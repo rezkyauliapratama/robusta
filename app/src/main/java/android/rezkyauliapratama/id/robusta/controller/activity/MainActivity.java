@@ -127,7 +127,7 @@ public class MainActivity extends BaseActivity implements MapFragment.LocationDi
 
             i++;
         }
-
+        binding.toolbar.setTitle("Peta");
 
         binding.content.tabLayout.addOnTabSelectedListener(new TabLayout.OnTabSelectedListener() {
             @Override
@@ -139,9 +139,9 @@ public class MainActivity extends BaseActivity implements MapFragment.LocationDi
                 tab.getIcon().setColorFilter(tabIconColor, PorterDuff.Mode.SRC_IN);
 
                 if (fragment instanceof MapFragment) {
-                    binding.textviewTitle.setText("Peta");
+                    binding.toolbar.setTitle("Peta");
                 } else {
-                    binding.textviewTitle.setText("Daftar kursus");
+                    binding.toolbar.setTitle("Daftar kursus");
                 }
             }
 

@@ -20,17 +20,17 @@
                 android:layout_height="?attr/actionBarSize"
                 android:background="@color/colorWhite"
                 app:titleTextColor="@color/colorBlack_1000"
+                app:title="Peta"
                 app:popupTheme="@style/AppTheme.AppBarOverlay">
-
+<!--
                     <com.app.infideap.stylishwidget.view.ATextView
                         android:id="@+id/textview_title"
-                        android:layout_width="match_parent"
+                        android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:paddingLeft="-10dp"
                         android:gravity="center"
                         android:textAppearance="@style/TextStyle.Large"
                         android:textColor="@color/colorBlack_1000"
-                        />
+                        />-->
             </android.rezkyauliapratama.id.robusta.utility.view.AToolbar>
 
         </android.support.design.widget.AppBarLayout>
