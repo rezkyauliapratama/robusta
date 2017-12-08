@@ -507,20 +507,21 @@ public class MapFragment extends BaseFragment implements OnMapReadyCallback,Goog
     }
 
 
-    private void setRouteDistanceAndDuration(String distance, String duration){
+    private void setRouteDistanceAndDuration(String distance, String duration, int drawableId){
 
-        binding.textViewAddress.setVisibility(View.VISIBLE);
+        binding.layoutDestination.setVisibility(View.VISIBLE);
         binding.textViewAddress.setText("Jarak : "+distance+"\n");
         binding.textViewAddress.append("Waktu tempuh : "+duration+"\n");
+        binding.imageViewDestination.setImageDrawable(ContextCompat.getDrawable(getContext(), drawableId));
     }
-    private List<LatLng> getDirectionPolylines(List<RouteObject> routes){
+    private List<LatLng> getDirectionPolylines(List<RouteObject> routes,int drawableId){
         List<LatLng> directionList = new ArrayList<LatLng>();
         for(RouteObject route : routes){
             List<LegsObject> legs = route.getLegs();
             for(LegsObject leg : legs){
                 String routeDistance = leg.getDistance().getText();
                 String routeDuration = leg.getDuration().getText();
-                setRouteDistanceAndDuration(routeDistance, routeDuration);
+                setRouteDistanceAndDuration(routeDistance, routeDuration,drawableId);
                 List<StepsObject> steps = leg.getSteps();
                 for(StepsObject step : steps){
                     PolylineObject polyline = step.getPolyline();
@@ -577,7 +578,7 @@ public class MapFragment extends BaseFragment implements OnMapReadyCallback,Goog
         return poly;
     }
 
-    private void getDirection(LatLng latLng){
+    private void getDirection(LatLng latLng, int drawableId){
         //use Google Direction API to get the route between these Locations
         String directionApiPath = Helper.getUrl(String.valueOf(currentLatLng.latitude), String.valueOf(currentLatLng.longitude),
                 String.valueOf(latLng.latitude), String.valueOf(latLng.longitude));
@@ -593,7 +594,7 @@ public class MapFragment extends BaseFragment implements OnMapReadyCallback,Goog
                     public void onResponse(DirectionObject response) {
                         // do anything with response
                         Timber.e("RESPONSE : "+new Gson().toJson(response));
-                        List<LatLng> mDirections = getDirectionPolylines(response.getRoutes());
+                        List<LatLng> mDirections = getDirectionPolylines(response.getRoutes(),drawableId);
                         drawRouteOnMap(mMap, mDirections);
 
                     }
@@ -623,7 +624,7 @@ public class MapFragment extends BaseFragment implements OnMapReadyCallback,Goog
             String desc = ""+kursusTbl.getJenisKursus().concat("\n").concat("Nama Pimpinan\t: "+kursusTbl.getNamaPimpinan()).concat("\n").concat("Alamat\t: "+kursusTbl.getAlamat()).concat("\n").concat("Kota\t: "+kursusTbl.getKota()).concat("\n")
                     .concat("Berdiri\t: "+kursusTbl.getTanggalBerdiri()).concat("\n").concat("Email\t: "+kursusTbl.getEmail()).concat("\n").concat("Website\t: "+kursusTbl.getWebsite()).concat("\n")
                     .concat("Telp\t: "+kursusTbl.getTelpNumber());
-            showDialog(kursusTbl.getNamaLembaga(),desc,new LatLng(kursusTbl.getLatitude(),kursusTbl.getLongitude()));
+            showDialog(kursusTbl.getNamaLembaga(),desc,new LatLng(kursusTbl.getLatitude(),kursusTbl.getLongitude()),R.drawable.ic_reading);
             return false;
         }else{
             RptraTbl rptraTbl = Facade.getInstance().getManageRptraTbl().get(marker.getTitle());
@@ -639,24 +640,42 @@ public class MapFragment extends BaseFragment implements OnMapReadyCallback,Goog
                         .concat("Luas\t: "+rptraTbl.getLuas()).concat("\n")
 
                         ;
-                showDialog(rptraTbl.getNamaRptra(),desc,new LatLng(rptraTbl.getLatitude(),rptraTbl.getLongitude()));
+                showDialog(rptraTbl.getNamaRptra(),desc,new LatLng(rptraTbl.getLatitude(),rptraTbl.getLongitude()),R.drawable.ic_map_marker_1);
+                return false;
+
+            }else{
+                SekolahTbl sekolahTbl = Facade.getInstance().getManageSekolahTbl().get(marker.getTitle());
+
+                if (sekolahTbl != null){
+                    String desc =
+                            "Akreditas \t: "+sekolahTbl.getAkreditas().concat("\n")
+                                    .concat("Jumlah guru\t: "+sekolahTbl.getJumlahGuru()).concat("\n")
+                                    .concat("Jumlah siswa\t: "+sekolahTbl.getJumlahSiswa()).concat("\n")
+                                    .concat("Kepala sekolah\t: "+sekolahTbl.getKepalaSekolah()).concat("\n")
+                                    .concat("Telp\t: "+sekolahTbl.getTelpSekolah()).concat("\n")
+                                    .concat("Tingkat\t: "+sekolahTbl.getTingkat()).concat("\n")
+
+
+                            ;
+                    showDialog(sekolahTbl.getNamaSekolah(),desc,new LatLng(sekolahTbl.getLatitude(),sekolahTbl.getLongitude()),R.drawable.ic_college_graduation);
+                }
+                return false;
             }
-            return false;
 
         }
 
     }
 
-    private void showDialog(String name , String desc , LatLng latLng){
-        DialogMapFragment dialogMapFragment = DialogMapFragment.newInstance(name,desc,latLng);
+    private void showDialog(String name , String desc , LatLng latLng,int id){
+        DialogMapFragment dialogMapFragment = DialogMapFragment.newInstance(name,desc,latLng,id);
         dialogMapFragment.setStyle( DialogFragment.STYLE_NORMAL, R.style.dialog_light);
         dialogMapFragment.setTargetFragment(this,dialogMapFragment.TARGET);
         dialogMapFragment.show(getFragmentManager().beginTransaction(), DialogMapFragment.Dialog);
     }
 
     @Override
-    public void onSetRoute(LatLng latLng) {
-        getDirection(latLng);
+    public void onSetRoute(LatLng latLng, int drawableId) {
+        getDirection(latLng,drawableId);
     }
 
     @Override
@@ -702,46 +721,30 @@ public class MapFragment extends BaseFragment implements OnMapReadyCallback,Goog
         return dataModel;
     }
 
-    private void getWeatherApi(LatLng latLng){
-        Timber.e("MAP : api.openweathermap.org/data/2.5/weather?APPID=06006762123eca55ccd024b11ef88268&lat="+latLng.latitude+"&lon="+latLng.longitude+"");
-        AndroidNetworking.get("http://api.openweathermap.org/data/2.5/weather?APPID=06006762123eca55ccd024b11ef88268&lat="+latLng.latitude+"&lon="+latLng.longitude+"&units=metric")
+    private void getWeatherApi(LatLng latLng) {
+        Timber.e("MAP : api.openweathermap.org/data/2.5/weather?APPID=06006762123eca55ccd024b11ef88268&lat=" + latLng.latitude + "&lon=" + latLng.longitude + "");
+        AndroidNetworking.get("http://api.openweathermap.org/data/2.5/weather?APPID=06006762123eca55ccd024b11ef88268&lat=" + latLng.latitude + "&lon=" + latLng.longitude + "&units=metric")
                 .setPriority(Priority.HIGH)
                 .build()
                 .getAsObject(Weather.class, new ParsedRequestListener<Weather>() {
                     @Override
                     public void onResponse(Weather response) {
                         Timber.e(new Gson().toJson(response));
-                        binding.textViewWeather.setText("Cuaca : "+getWeather(response.getWeather().get(0).getId(),response.getWeather().get(0).getDescription()));
-                        binding.textViewWeather.append("\n"+"suhu : "+response.getMain().getTemp());
+                        binding.textViewWeather.setText("Cuaca : " + getWeather(response.getWeather().get(0).getId(), response.getWeather().get(0).getDescription()));
+                        binding.textViewWeather.append("\n" + "suhu : " + response.getMain().getTemp());
 
 
                         Glide
                                 .with(getContext())
-                                .load("https://openweathermap.org/img/w/"+response.getWeather().get(0).getIcon()+".png")
+                                .load("https://openweathermap.org/img/w/" + response.getWeather().get(0).getIcon() + ".png")
                                 .into(binding.imageViewWeather);
                     }
 
                     @Override
                     public void onError(ANError anError) {
-                        Timber.e("ERR API : "+anError.getMessage());
+                        Timber.e("ERR API : " + anError.getMessage());
                     }
                 });
-
-      /*  Atom.with(this)
-                .load("http://api.openweathermap.org/data/2.5/weather?APPID=06006762123eca55ccd024b11ef88268&lat="+latLng.latitude+"&lon="+latLng.longitude+"")
-                .as(Weather.class)
-                .setCallback(new FutureCallback<Weather>() {
-                    @Override
-                    public void onCompleted(Exception e, Weather result) {
-                        if (e != null){
-                            Timber.e("ERR API : "+e.getMessage());
-
-                        }
-
-                        binding.textViewAddress.append(getString(R.string.text_weather,
-                                result.getWeather().get(0).getMain()));
-                    }
-                });*/
     }
 
     private String getWeather(int id ,String w){

@@ -16,6 +16,8 @@ import android.support.v7.app.AppCompatActivity;
 import java.util.ArrayList;
 import java.util.List;
 
+import timber.log.Timber;
+
 /**
  * Created by Rezky Aulia Pratama on 10/18/2017.
  */
@@ -131,8 +133,10 @@ public class BaseActivity extends AppCompatActivity {
     public void checkAppPermission() {
 
         final List<String> permissions = new ArrayList<>();
-        boolean showMessage = readPhoneState(permissions);
+        boolean showMessage = location(permissions)
+                ||writeExternalStorage(permissions);
 
+        Timber.e("showMessage : "+showMessage);
 //        AppPermissions.getInstance().checkAppPermission(this, permissions);
 
         if (permissions.size() > 0) {
@@ -156,6 +160,9 @@ public class BaseActivity extends AppCompatActivity {
                         Constant.getInstance().PERMISSION_REQUEST);
         }
 
+        Timber.e("checkAppPermission : finish");
+
+
     }
 
     private boolean readPhoneState(List<String> permissions) {
@@ -172,4 +179,45 @@ public class BaseActivity extends AppCompatActivity {
         return false;
     }
 
+    private boolean location(List<String> permissions) {
+        if (ActivityCompat.checkSelfPermission(getApplication(), Manifest.permission.ACCESS_FINE_LOCATION)
+                != PackageManager.PERMISSION_GRANTED
+                || ActivityCompat.checkSelfPermission(getApplication(), Manifest.permission.ACCESS_COARSE_LOCATION)
+                != PackageManager.PERMISSION_GRANTED) {
+
+            // Should we show an explanation?
+            permissions.add(Manifest.permission.ACCESS_COARSE_LOCATION);
+            permissions.add(Manifest.permission.ACCESS_FINE_LOCATION);
+
+            if (ActivityCompat.shouldShowRequestPermissionRationale(this,
+                    Manifest.permission.ACCESS_COARSE_LOCATION)
+                    && ActivityCompat.shouldShowRequestPermissionRationale(this,
+                    Manifest.permission.ACCESS_FINE_LOCATION)) {
+
+                return true;
+
+            }
+
+        }
+        return false;
+    }
+
+    private boolean writeExternalStorage(List<String> permissions) {
+        if (ActivityCompat.checkSelfPermission(
+                getApplication(), Manifest
+                        .permission.WRITE_EXTERNAL_STORAGE)
+                != PackageManager.PERMISSION_GRANTED) {
+
+            // Should we show an explanation?
+            permissions.add(Manifest.permission.WRITE_EXTERNAL_STORAGE);
+
+            if (ActivityCompat.shouldShowRequestPermissionRationale(this,
+                    Manifest.permission.WRITE_EXTERNAL_STORAGE)) {
+                return true;
+
+            }
+
+        }
+        return false;
+    }
 }

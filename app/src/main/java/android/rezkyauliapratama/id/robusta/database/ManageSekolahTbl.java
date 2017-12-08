@@ -37,6 +37,10 @@ public class ManageSekolahTbl {
         return dao.queryBuilder().where(SekolahTblDao.Properties.Id.eq(id)).unique();
     }
 
+    public SekolahTbl get(String name) {
+        return dao.queryBuilder().where(SekolahTblDao.Properties.NamaSekolah.eq(name)).unique();
+    }
+
     public void removeAll() {
         dao.deleteAll();
     }
